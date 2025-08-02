@@ -1,11 +1,14 @@
+"""Fetch match events from the API and save them to a CSV file."""
+
+import asyncio
 import os
 import time
-import asyncio
 from datetime import date
-from typing import List, Dict
+from typing import Dict, List
+
+import httpx
 import pandas as pd
 import requests
-import httpx
 from dotenv import load_dotenv
 from requests.adapters import HTTPAdapter, Retry
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -16,7 +19,7 @@ HOST = "api-football-v1.p.rapidapi.com"
 
 HEADERS = {
     "X-RapidAPI-Key": API_KEY,
-    "X-RapidAPI-Host": HOST
+    "X-RapidAPI-Host": HOST,
 }
 
 # Top leagues and recent seasons
@@ -31,9 +34,8 @@ LEAGUES: Dict[int, str] = {
 CURRENT_YEAR = date.today().year
 SEASONS = list(range(CURRENT_YEAR, CURRENT_YEAR - 5, -1))
 
-# Reusable requests session
-SESSION = requests.Session()
-
+# Pause between requests (seconds) to respect API rate limits
+THROTTLE = 1
 
 # Configure a requests session with retry and exponential backoff
 RETRY_STRATEGY = Retry(
@@ -42,57 +44,60 @@ RETRY_STRATEGY = Retry(
     status_forcelist=[429, 500, 502, 503, 504],
     allowed_methods=["GET"],
 )
-SESSION = requests.Session()
 ADAPTER = HTTPAdapter(max_retries=RETRY_STRATEGY)
+SESSION = requests.Session()
 SESSION.mount("https://", ADAPTER)
 SESSION.mount("http://", ADAPTER)
 
-# Pause between requests (seconds) to respect API rate limits
-THROTTLE = 1
+
+def api_get(endpoint: str, params: Dict[str, int]) -> list:
+    """Helper to call the API and return the ``response`` payload."""
+    url = f"https://{HOST}/v3/{endpoint}"
+    res = SESSION.get(url, headers=HEADERS, params=params)
+    res.raise_for_status()
+    return res.json()["response"]
 
 
 def get_fixtures(league_id: int, season: int) -> List[int]:
-    url = f"https://{HOST}/v3/fixtures"
-    params = {"league": league_id, "season": season}
-    res = SESSION.get(url, headers=HEADERS, params=params)
-    res.raise_for_status()
-    fixtures = res.json()["response"]
+    fixtures = api_get("fixtures", {"league": league_id, "season": season})
     return [f["fixture"]["id"] for f in fixtures]
 
-@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, min=1, max=10), reraise=True)
+
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_exponential(multiplier=1, min=1, max=10),
+    reraise=True,
+)
 def get_events(fixture_id: int) -> List[dict]:
-    url = f"https://{HOST}/v3/fixtures/events"
-    params = {"fixture": fixture_id}
-    res = SESSION.get(url, headers=HEADERS, params=params)
-    res.raise_for_status()
-    return res.json()['response']
+    return api_get("fixtures/events", {"fixture": fixture_id})
 
 
+async def fetch_events_async(
+    fixture_ids: List[int], league: str, season: int
+) -> List[dict]:
     """Fetch events concurrently using httpx."""
     events: List[dict] = []
     sem = asyncio.Semaphore(5)
     async with httpx.AsyncClient() as client:
-
 
         @retry(
             stop=stop_after_attempt(5),
             wait=wait_exponential(multiplier=1, min=1, max=10),
             reraise=True,
         )
-        async def _get(fixture_id: int):
+        async def _get(fid: int) -> None:
             async with sem:
                 url = f"https://{HOST}/v3/fixtures/events"
-                params = {"fixture": fixture_id}
+                params = {"fixture": fid}
                 res = await client.get(url, headers=HEADERS, params=params)
                 res.raise_for_status()
                 await asyncio.sleep(THROTTLE)
-
                 data = res.json()["response"]
+
             for e in data:
-                e["fixture_id"] = fixture_id
+                e["fixture_id"] = fid
                 e["league"] = league
                 e["season"] = season
-
                 events.append(e)
 
         tasks = [asyncio.create_task(_get(fid)) for fid in fixture_ids]
@@ -100,6 +105,7 @@ def get_events(fixture_id: int) -> List[dict]:
         for fid, result in zip(fixture_ids, results):
             if isinstance(result, Exception):
                 print(f"Failed for fixture {fid}: {result}")
+
     return events
 
 
