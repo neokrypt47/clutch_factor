@@ -26,6 +26,7 @@ python-dotenv==1.1.1
 pytz==2025.2
 referencing==0.36.2
 requests==2.32.4
+httpx==0.27.0
 rpds-py==0.26.0
 six==1.17.0
 smmap==5.0.2

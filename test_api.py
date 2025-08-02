@@ -13,11 +13,16 @@ headers = {
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
-response = requests.get(url, headers=headers)
+def main():
+    response = requests.get(url, headers=headers)
 
-if response.status_code == 200:
-    data = response.json()
-    print("✅ API call successful. Sample data:")
-    print(data['response'][0])
-else:
-    print("❌ API call failed:", response.status_code, response.text)
+    if response.status_code == 200:
+        data = response.json()
+        print("✅ API call successful. Sample data:")
+        print(data['response'][0])
+    else:
+        print("❌ API call failed:", response.status_code, response.text)
+
+
+if __name__ == "__main__":
+    main()
