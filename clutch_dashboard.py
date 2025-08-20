@@ -3,33 +3,37 @@ import pandas as pd
 import plotly.express as px
 
 # Load the clutch data
-df = pd.read_csv("clutch_summary.csv", index_col="player_name")
+
+df = pd.read_csv("clutch_summary.csv")
+
 
 # Normalize possible column names
 if "season" in df.columns and "year" not in df.columns:
     df.rename(columns={"season": "year"}, inplace=True)
 
-# Ensure league and year columns exist so dropdowns always render
-if "league" not in df.columns:
-    df["league"] = "All"
-if "year" not in df.columns:
-    df["year"] = "All"
+
+# Determine which column describes the league. Prefer the readable name
+# if present, otherwise fall back to the numeric identifier.
+league_col = "league" if "league" in df.columns else "league_id" if "league_id" in df.columns else None
+
+df.set_index("player_name", inplace=True)
+
 
 st.set_page_config(page_title="Clutch Player Dashboard", layout="wide")
 st.title("🧠 Clutch Score Dashboard")
 st.markdown("Visualizing late-game goals and assists under pressure (Minute ≥ 76).")
 
 # Dropdown filters for league and year
-league = st.selectbox(
-    "League", ["All"] + sorted([l for l in df["league"].unique() if l != "All"]), index=0
-)
-if league != "All":
-    df = df[df["league"] == league]
 
-year = st.selectbox(
-    "Year", ["All"] + sorted([y for y in df["year"].unique() if y != "All"]), index=0
-)
-if year != "All":
+league_options = sorted(df[league_col].dropna().unique()) if league_col else []
+league = st.selectbox("League", ["All"] + list(league_options))
+if league != "All" and league_col:
+    df = df[df[league_col] == league]
+
+year_options = sorted(df["year"].dropna().unique()) if "year" in df.columns else []
+year = st.selectbox("Year", ["All"] + list(year_options))
+if year != "All" and "year" in df.columns:
+
     df = df[df["year"] == year]
 
 # Show top N players
