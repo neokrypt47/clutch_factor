@@ -73,7 +73,7 @@ def get_events(fixture_id: int) -> List[dict]:
 
 
 async def fetch_events_async(
-    fixture_ids: List[int], league: str, season: int
+    fixture_ids: List[int], league_id: int, league: str, season: int
 ) -> List[dict]:
     """Fetch events concurrently using httpx."""
     events: List[dict] = []
@@ -97,6 +97,7 @@ async def fetch_events_async(
             for e in data:
                 e["fixture_id"] = fid
                 e["league"] = league
+                e["league_id"] = league_id
                 e["season"] = season
                 events.append(e)
 
@@ -119,7 +120,7 @@ def main(use_async: bool = False) -> None:
 
             if use_async:
                 events = asyncio.run(
-                    fetch_events_async(fixture_ids, league_name, season)
+                    fetch_events_async(fixture_ids, league_id, league_name, season)
                 )
                 all_events.extend(events)
             else:
@@ -132,6 +133,7 @@ def main(use_async: bool = False) -> None:
                         for e in events:
                             e["fixture_id"] = fixture_id
                             e["league"] = league_name
+                            e["league_id"] = league_id
                             e["season"] = season
                             all_events.append(e)
                         time.sleep(THROTTLE)
