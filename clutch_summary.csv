@@ -1,1908 +1,2939 @@
-player_name,Clutch_Matches,Clutch_Goal,Clutch_Assist,Clutch_Score,Score_per_Match
-K. Mbappé,24,24,0,72,3.0
-Mohamed Salah,22,22,0,66,3.0
-E. Haaland,19,19,0,57,3.0
-H. Kane,17,18,0,54,3.176470588235294
-Son Heung-Min,17,18,0,54,3.176470588235294
-S. Guirassy,13,17,0,51,3.923076923076923
-J. David,16,17,0,51,3.1875
-A. Lacazette,13,15,0,45,3.4615384615384617
-K. Benzema,12,14,0,42,3.5
-L. Martínez,11,13,0,39,3.5454545454545454
-Y. Wissa,13,13,0,39,3.0
-T. Kleindienst,12,13,0,39,3.25
-N. Füllkrug,12,13,0,39,3.25
-R. Lewandowski,12,12,0,36,3.0
-R. Orsolini,12,12,0,36,3.0
-R. Lukaku,12,12,0,36,3.0
-Borja Mayoral,12,12,0,36,3.0
-W. Ben Yedder,11,12,0,36,3.272727272727273
-Joselu,11,12,0,36,3.272727272727273
-M. Thuram,11,11,0,33,3.0
-B. Dia,10,11,0,33,3.3
-C. Nkunku,11,11,0,33,3.0
-C. Stuani,11,11,0,33,3.0
-K. Havertz,11,11,0,33,3.0
-A. Pinamonti,10,11,0,33,3.3
-O. Watkins,10,10,0,30,3.0
-M. Rashford,10,10,0,30,3.0
-L. Openda,9,10,0,30,3.3333333333333335
-Iago Aspas,10,10,0,30,3.0
-H. Barnes,9,10,0,30,3.3333333333333335
-A. Kramarić,9,10,0,30,3.3333333333333335
-Ferran Torres,9,10,0,30,3.3333333333333335
-D. Vlahović,10,10,0,30,3.0
-A. Sørloth,9,10,0,30,3.3333333333333335
-Pedro,9,10,0,30,3.3333333333333335
-B. Mbeumo,10,10,0,30,3.0
-Rafael Leão,9,10,0,30,3.3333333333333335
-R. Kolo Muani,10,10,0,30,3.0
-Omar Marmoush,10,10,0,30,3.0
-Á. Correa,9,9,0,27,3.0
-D. Lukébakio,9,9,0,27,3.0
-Matheus Cunha,9,9,0,27,3.0
-F. Balogun,8,9,0,27,3.375
-G. Simeone,9,9,0,27,3.0
-Gerard Moreno,9,9,0,27,3.0
-A. Isak,9,9,0,27,3.0
-Vinícius Júnior,9,9,0,27,3.0
-T. Savanier,9,9,0,27,3.0
-M. Tel,9,9,0,27,3.0
-A. Gouiri,8,9,0,27,3.375
-Lautaro Martínez,8,9,0,27,3.375
-Gonçalo Ramos,8,9,0,27,3.375
-João Pedro,9,9,0,27,3.0
-L. Jović,9,9,0,27,3.0
-João Félix,8,9,0,27,3.375
-A. Delort,8,9,0,27,3.375
-J. Mateta,9,9,0,27,3.0
-Richarlison,8,8,0,24,3.0
-S. El Shaarawy,8,8,0,24,3.0
-Bruno Guimarães,8,8,0,24,3.0
-Borja Iglesias,8,8,0,24,3.0
-A. Sánchez,8,8,0,24,3.0
-Beto,8,8,0,24,3.0
-R. Piccoli,8,8,0,24,3.0
-Bruno Fernandes,8,8,0,24,3.0
-N. Jackson,7,8,0,24,3.4285714285714284
-M. Arnautović,8,8,0,24,3.0
-M. Bayo,7,8,0,24,3.4285714285714284
-D. Núñez,6,8,0,24,4.0
-E. Demirović,8,8,0,24,3.0
-R. Højlund,8,8,0,24,3.0
-Diogo Jota,8,8,0,24,3.0
-P. Foden,8,8,0,24,3.0
-J. Musiala,8,8,0,24,3.0
-L. Samardžić,8,8,0,24,3.0
-L. Blas,8,8,0,24,3.0
-M. Terrier,8,8,0,24,3.0
-J. Ward-Prowse,8,8,0,24,3.0
-José Luis Morales,6,7,0,21,3.5
-Álvaro Morata,6,7,0,21,3.5
-Y. Poulsen,7,7,0,21,3.0
-M. Dembélé,7,7,0,21,3.0
-A. Diallo,5,7,0,21,4.2
-K. Schlotterbeck,6,7,0,21,3.5
-L. Pellegrini,7,7,0,21,3.0
-L. Suárez,6,7,0,21,3.5
-A. Garnacho,7,7,0,21,3.0
-L. Stindl,6,7,0,21,3.5
-J. Kluivert,7,7,0,21,3.0
-E. Ünal,7,7,0,21,3.0
-A. Mac Allister,7,7,0,21,3.0
-N. González,7,7,0,21,3.0
-Mostafa Mohamed,7,7,0,21,3.0
-G. Raspadori,7,7,0,21,3.0
-M. Bülter,7,7,0,21,3.0
-H. Diallo,7,7,0,21,3.0
-G. Mikautadze,7,7,0,21,3.0
-A. Milik,7,7,0,21,3.0
-P. Dybala,7,7,0,21,3.0
-P. Schick,7,7,0,21,3.0
-D. Undav,7,7,0,21,3.0
-A. Nordin,7,7,0,21,3.0
-V. Osimhen,7,7,0,21,3.0
-D. Malen,7,7,0,21,3.0
-A. Modeste,7,7,0,21,3.0
-Cristhian Stuani,6,7,0,21,3.5
-A. Rabiot,6,7,0,21,3.5
-D. Zapata,7,7,0,21,3.0
-D. Welbeck,7,7,0,21,3.0
-D. Solanke,7,7,0,21,3.0
-R. Barkley,6,7,0,21,3.5
-C. Palmer,7,7,0,21,3.0
-Raphinha,7,7,0,21,3.0
-S. Mounié,7,7,0,21,3.0
-A. Semenyo,7,7,0,21,3.0
-C. Immobile,7,7,0,21,3.0
-Rodrigo Muniz,7,7,0,21,3.0
-Robert Lewandowski,5,7,0,21,4.2
-T. Abraham,7,7,0,21,3.0
-Abdón Prats,6,7,0,21,3.5
-A. Belotti,5,7,0,21,4.2
-Jubal,5,6,0,18,3.6
-K. Schade,6,6,0,18,3.0
-K. Onisiwo,6,6,0,18,3.0
-N. Okafor,6,6,0,18,3.0
-F. Honorat,6,6,0,18,3.0
-Alexander Sørloth,6,6,0,18,3.0
-F. Wirtz,5,6,0,18,3.6
-F. Chiesa,6,6,0,18,3.0
-L. Ajorque,6,6,0,18,3.0
-J. Wind,5,6,0,18,3.6
-A. Thomasson,6,6,0,18,3.0
-E. Rashani,4,6,0,18,4.5
-L. Nmecha,5,6,0,18,3.6
-G. Laborde,6,6,0,18,3.0
-Oihan Sancet,6,6,0,18,3.0
-E. Choupo-Moting,6,6,0,18,3.0
-Mikel Oyarzabal,6,6,0,18,3.0
-L. Muriel,6,6,0,18,3.0
-J. Maddison,6,6,0,18,3.0
-L. Trossard,6,6,0,18,3.0
-G. Rutter,6,6,0,18,3.0
-E. Guessand,6,6,0,18,3.0
-M. Ødegaard,6,6,0,18,3.0
-B. Bourigeaud,6,6,0,18,3.0
-Ayoze Pérez,5,6,0,18,3.6
-M. Vecino,6,6,0,18,3.0
-Willian José,6,6,0,18,3.0
-O. Dembélé,5,6,0,18,3.6
-E. Wahi,6,6,0,18,3.0
-J. Vardy,6,6,0,18,3.0
-S. Michel,5,6,0,18,3.6
-Lucas Paquetá,6,6,0,18,3.0
-C. Baumgartner,5,6,0,18,3.6
-W. Saïd,6,6,0,18,3.0
-Pere Milla,6,6,0,18,3.0
-M. Simon,6,6,0,18,3.0
-E. Emegha,6,6,0,18,3.0
-M. Niang,6,6,0,18,3.0
-D. Dumfries,6,6,0,18,3.0
-R. Sterling,6,6,0,18,3.0
-M. Dabbur,6,6,0,18,3.0
-M. Ingvartsen,6,6,0,18,3.0
-I. Toney,5,6,0,18,3.6
-D. McNeil,5,6,0,18,3.6
-J. Bellingham,6,6,0,18,3.0
-R. Falcao,6,6,0,18,3.0
-D. Rice,6,6,0,18,3.0
-J. Cajuste,6,6,0,18,3.0
-S. Chukwueze,6,6,0,18,3.0
-Tiago Tomás,6,6,0,18,3.0
-S. Katompa Mvumpa,6,6,0,18,3.0
-M. Pašalić,6,6,0,18,3.0
-S. Gnabry,6,6,0,18,3.0
-R. Cherki,6,6,0,18,3.0
-M. Pessina,6,6,0,18,3.0
-M. Antonio,5,6,0,18,3.6
-J. Durán,5,6,0,18,3.6
-Lucas Vázquez,6,6,0,18,3.0
-Gabriel Martinelli,5,6,0,18,3.6
-C. Gallagher,6,6,0,18,3.0
-Luis Alberto,6,6,0,18,3.0
-S. Milinković-Savić,6,6,0,18,3.0
-J. Brandt,6,6,0,18,3.0
-M. Fofana,6,6,0,18,3.0
-Y. Moukoko,6,6,0,18,3.0
-C. Wilson,6,6,0,18,3.0
-K. Coman,6,6,0,18,3.0
-T. Moffi,5,6,0,18,3.6
-C. Pulišić,5,5,0,15,3.0
-S. Tigges,5,5,0,15,3.0
-L. Waldschmidt,5,5,0,15,3.0
-B. Saka,5,5,0,15,3.0
-Lee Jae-Sung,4,5,0,15,3.75
-G. Reyna,5,5,0,15,3.0
-B. Johnson,5,5,0,15,3.0
-M. Đurić,5,5,0,15,3.0
-L. Sané,5,5,0,15,3.0
-B. Cristante,5,5,0,15,3.0
-J. Ramsey,5,5,0,15,3.0
-Ansu Fati,5,5,0,15,3.0
-J. Thielmann,5,5,0,15,3.0
-J. Stage,5,5,0,15,3.0
-O. Burke,5,5,0,15,3.0
-L. Messi,4,5,0,15,3.75
-E. Zhegrova,4,5,0,15,3.75
-Marco Asensio,5,5,0,15,3.0
-B. Dieng,5,5,0,15,3.0
-B. Embolo,5,5,0,15,3.0
-M. Guéhi,5,5,0,15,3.0
-K. Gameiro,5,5,0,15,3.0
-Gonçalo Guedes,5,5,0,15,3.0
-M'Bala Nzola,5,5,0,15,3.0
-M. Arambarri,4,5,0,15,3.75
-Hugo Duro,4,5,0,15,3.75
-L. Díaz,5,5,0,15,3.0
-O. Édouard,4,5,0,15,3.75
-T. Koopmeiners,5,5,0,15,3.0
-L. Pavoletti,4,5,0,15,3.75
-J. Vásquez,5,5,0,15,3.0
-Kike García,4,5,0,15,3.75
-K. Stöger,5,5,0,15,3.0
-D. Criscito,5,5,0,15,3.0
-S. Adingra,4,5,0,15,3.75
-D. Ings,5,5,0,15,3.0
-Raúl García,5,5,0,15,3.0
-Rodri,5,5,0,15,3.0
-A. Lookman,5,5,0,15,3.0
-A. Kalimuendo,5,5,0,15,3.0
-Junior Messias,5,5,0,15,3.0
-M. Camara,5,5,0,15,3.0
-V. Muriqi,5,5,0,15,3.0
-A. Iwobi,5,5,0,15,3.0
-S. Mavididi,5,5,0,15,3.0
-C. Bakambu,5,5,0,15,3.0
-I. Salah,4,5,0,15,3.75
-J. Bowen,5,5,0,15,3.0
-M. Depay,5,5,0,15,3.0
-R. Mahrez,5,5,0,15,3.0
-M. Kean,5,5,0,15,3.0
-J. Ayew,5,5,0,15,3.0
-M. Pantović,5,5,0,15,3.0
-M. Olise,5,5,0,15,3.0
-M. Reus,5,5,0,15,3.0
-Gorka Guruzeta,5,5,0,15,3.0
-Dani Olmo,5,5,0,15,3.0
-Dani Parejo,5,5,0,15,3.0
-Lee Kang-In,5,5,0,15,3.0
-E. Elmas,5,5,0,15,3.0
-Bernardo Silva,5,5,0,15,3.0
-B. Barcola,4,4,0,12,3.0
-E. Buendía,4,4,0,12,3.0
-E. Lamela,4,4,0,12,3.0
-E. Ferguson,4,4,0,12,3.0
-Jorge de Frutos,4,4,0,12,3.0
-Jorginho,4,4,0,12,3.0
-L. Bailey,4,4,0,12,3.0
-N. Viola,4,4,0,12,3.0
-N. Zortea,4,4,0,12,3.0
-N. Vlašić,4,4,0,12,3.0
-F. Magri,4,4,0,12,3.0
-F. Bonazzoli,4,4,0,12,3.0
-T. Kubo,4,4,0,12,3.0
-A. Griezmann,4,4,0,12,3.0
-A. Ayew,3,4,0,12,4.0
-A. Candreva,4,4,0,12,3.0
-Juanmi,4,4,0,12,3.0
-B. De Cordova-Reid,4,4,0,12,3.0
-Sergi Roberto,4,4,0,12,3.0
-E. Palacios,4,4,0,12,3.0
-Mikel Merino,3,4,0,12,4.0
-Fabián Ruiz,4,4,0,12,3.0
-Melero,4,4,0,12,3.0
-A. Gordon,4,4,0,12,3.0
-Sergio Camello,4,4,0,12,3.0
-L. Majer,4,4,0,12,3.0
-T. Alexander-Arnold,4,4,0,12,3.0
-T. Awoniyi,4,4,0,12,3.0
-Sobrino,4,4,0,12,3.0
-J. Zirkzee,4,4,0,12,3.0
-Jorge Molina,4,4,0,12,3.0
-T. Coulibaly,4,4,0,12,3.0
-L. Ferguson,4,4,0,12,3.0
-F. Sotoca,4,4,0,12,3.0
-Fábio Carvalho,4,4,0,12,3.0
-O. McBurnie,4,4,0,12,3.0
-Brais Méndez,4,4,0,12,3.0
-X. Chavalerin,4,4,0,12,3.0
-Lamine Yamal,4,4,0,12,3.0
-M. Svanberg,4,4,0,12,3.0
-Douglas Luiz,4,4,0,12,3.0
-P. Kadeřábek,4,4,0,12,3.0
-P. Harres,3,4,0,12,4.0
-S. Machino,4,4,0,12,3.0
-G. Lo Celso,4,4,0,12,3.0
-S. Fofana,4,4,0,12,3.0
-D. Ouattara,4,4,0,12,3.0
-J. Bruun Larsen,4,4,0,12,3.0
-D. Szoboszlai,4,4,0,12,3.0
-C. Morris,4,4,0,12,3.0
-C. Biraghi,4,4,0,12,3.0
-A. Hložek,4,4,0,12,3.0
-Lucas Boyé,4,4,0,12,3.0
-Portu,4,4,0,12,3.0
-Gonçalo Paciência,4,4,0,12,3.0
-W. Zaha,3,4,0,12,4.0
-P. Groß,4,4,0,12,3.0
-J. Doku,4,4,0,12,3.0
-A. Sima,3,4,0,12,4.0
-S. Kalajdzic,4,4,0,12,3.0
-M. Boadu,4,4,0,12,3.0
-R. Baku,4,4,0,12,3.0
-R. Del Castillo,4,4,0,12,3.0
-J. Gvardiol,4,4,0,12,3.0
-C. De Ketelaere,4,4,0,12,3.0
-J. Gittens,4,4,0,12,3.0
-Rodrigo,4,4,0,12,3.0
-Rodrygo,4,4,0,12,3.0
-M. Ducksch,4,4,0,12,3.0
-M. El Haddadi,4,4,0,12,3.0
-D. Berardi,3,4,0,12,4.0
-I. Sarr,4,4,0,12,3.0
-J. Bellegarde,4,4,0,12,3.0
-Rúben Neves,4,4,0,12,3.0
-H. Wilson,3,4,0,12,4.0
-D. Origi,4,4,0,12,3.0
-A. Rebić,4,4,0,12,3.0
-I. Bebou,4,4,0,12,3.0
-I. Cardona,4,4,0,12,3.0
-I. Koné,4,4,0,12,3.0
-Rafa Mir,4,4,0,12,3.0
-V. Grifo,4,4,0,12,3.0
-M. Guilavogui,4,4,0,12,3.0
-Roberto Firmino,4,4,0,12,3.0
-A. Doucouré,4,4,0,12,3.0
-A. Dovbyk,4,4,0,12,3.0
-A. Adli,4,4,0,12,3.0
-M. Greenwood,4,4,0,12,3.0
-Isco,4,4,0,12,3.0
-D. Frattesi,4,4,0,12,3.0
-Jude Bellingham,4,4,0,12,3.0
-W. Endo,4,4,0,12,3.0
-T. Müller,4,4,0,12,3.0
-N. Krstović,4,4,0,12,3.0
-K. Mitoma,4,4,0,12,3.0
-T. Minamino,4,4,0,12,3.0
-K. Behrens,4,4,0,12,3.0
-T. Werner,4,4,0,12,3.0
-T. Souček,4,4,0,12,3.0
-Álex Baena,3,4,0,12,4.0
-Á. Di María,3,3,0,9,3.0
-Álex Berenguer,3,3,0,9,3.0
-K. Ajer,3,3,0,9,3.0
-K. Davis,3,3,0,9,3.0
-T. Pobega,3,3,0,9,3.0
-T. Pukki,3,3,0,9,3.0
-N. Maupay,3,3,0,9,3.0
-A. Januzaj,3,3,0,9,3.0
-Álex Moreno,3,3,0,9,3.0
-K. Yıldız,3,3,0,9,3.0
-Y. Herrera,3,3,0,9,3.0
-Zito Luvumbo,3,3,0,9,3.0
-D. Doué,3,3,0,9,3.0
-R. Schmid,3,3,0,9,3.0
-J. Aholou,2,3,0,9,4.5
-M. Gabbiadini,3,3,0,9,3.0
-M. Gibbs-White,3,3,0,9,3.0
-M. Gregoritsch,3,3,0,9,3.0
-A. Robertson,3,3,0,9,3.0
-D. Gray,3,3,0,9,3.0
-C. Wood,3,3,0,9,3.0
-M. Cornet,3,3,0,9,3.0
-M. Destro,2,3,0,9,4.5
-D. Brooks,3,3,0,9,3.0
-D. Calvert-Lewin,3,3,0,9,3.0
-D. Ciofani,3,3,0,9,3.0
-R. Kristensen,3,3,0,9,3.0
-I. Williams,3,3,0,9,3.0
-M. Kovačić,3,3,0,9,3.0
-M. Kudus,3,3,0,9,3.0
-D. Ljubičić,3,3,0,9,3.0
-D. Maldini,3,3,0,9,3.0
-D. Mosquera,3,3,0,9,3.0
-D. O'Shea,3,3,0,9,3.0
-J. Bijol,3,3,0,9,3.0
-C. Ünder,3,3,0,9,3.0
-Carles Pérez,3,3,0,9,3.0
-S. Azmoun,3,3,0,9,3.0
-Carlos Soler,3,3,0,9,3.0
-Raúl de Tomás,3,3,0,9,3.0
-V. Boniface,3,3,0,9,3.0
-V. Castellanos,3,3,0,9,3.0
-A. Ounahi,3,3,0,9,3.0
-Hwang Ui-Jo,3,3,0,9,3.0
-M. Mount,2,3,0,9,4.5
-M. Munetsi,3,3,0,9,3.0
-R. Doan,2,3,0,9,4.5
-D. Okereke,3,3,0,9,3.0
-C. Nørgaard,3,3,0,9,3.0
-C. Summerville,3,3,0,9,3.0
-S. Bergwijn,2,3,0,9,4.5
-S. Castro,3,3,0,9,3.0
-C. Kouamé,3,3,0,9,3.0
-J. Brownhill,3,3,0,9,3.0
-J. Correa,2,3,0,9,4.5
-J. Allevinah,3,3,0,9,3.0
-J. Alvarez,3,3,0,9,3.0
-D. Payet,3,3,0,9,3.0
-R. Faivre,3,3,0,9,3.0
-R. Gosens,3,3,0,9,3.0
-R. James,3,3,0,9,3.0
-D. Kulusevski,3,3,0,9,3.0
-H. Çalhanoğlu,3,3,0,9,3.0
-Hermoso,3,3,0,9,3.0
-M. O'Riley,3,3,0,9,3.0
-T. Čvančara,3,3,0,9,3.0
-A. Saelemaekers,3,3,0,9,3.0
-M. Amoura,3,3,0,9,3.0
-J. Frimpong,3,3,0,9,3.0
-M. Beier,3,3,0,9,3.0
-M. Brescianini,3,3,0,9,3.0
-M. Politano,3,3,0,9,3.0
-M. Retegui,3,3,0,9,3.0
-H. Ekitike,3,3,0,9,3.0
-A. Onaiwu,3,3,0,9,3.0
-D. Zakaria,3,3,0,9,3.0
-R. Andrich,3,3,0,9,3.0
-R. Bentancur,2,3,0,9,4.5
-R. Borré,3,3,0,9,3.0
-R. Cabella,3,3,0,9,3.0
-Dany Mota,3,3,0,9,3.0
-Darder,3,3,0,9,3.0
-V. van Dijk,3,3,0,9,3.0
-Vedat Muriqi,3,3,0,9,3.0
-A. Marušić,3,3,0,9,3.0
-A. Mitrović,3,3,0,9,3.0
-Gabriel Strefezza,3,3,0,9,3.0
-A. Hakimi,3,3,0,9,3.0
-W. Khazri,3,3,0,9,3.0
-W. McKennie,3,3,0,9,3.0
-E. Adebayo,3,3,0,9,3.0
-Lucas Pérez,3,3,0,9,3.0
-C. Gakpo,3,3,0,9,3.0
-J. Haberer,3,3,0,9,3.0
-J. Harrison,3,3,0,9,3.0
-J. Hofmann,3,3,0,9,3.0
-J. Ikoné,3,3,0,9,3.0
-M. Akliouche,3,3,0,9,3.0
-S. Giménez,3,3,0,9,3.0
-S. McTominay,2,3,0,9,4.5
-C. Adams,3,3,0,9,3.0
-C. Akpom,3,3,0,9,3.0
-B. Šeško,2,3,0,9,4.5
-Barrenetxea,3,3,0,9,3.0
-J. King,2,3,0,9,4.5
-J. Koundé,3,3,0,9,3.0
-J. Le Douaron,3,3,0,9,3.0
-E. Ben Seghir,2,3,0,9,4.5
-Pablo Fornals,3,3,0,9,3.0
-Pablo Sarabia,3,3,0,9,3.0
-Paulinho,2,3,0,9,4.5
-Philippe Coutinho,3,3,0,9,3.0
-W. Orbán,3,3,0,9,3.0
-S. Polter,3,3,0,9,3.0
-S. Skrzybski,2,3,0,9,4.5
-Y. Carrasco,3,3,0,9,3.0
-Y. En-Nesyri,3,3,0,9,3.0
-L. de Jong,3,3,0,9,3.0
-S. Mané,2,3,0,9,4.5
-P. Lees-Melou,3,3,0,9,3.0
-P. Nebel,3,3,0,9,3.0
-Denis Suárez,3,3,0,9,3.0
-Dodi Lukebakio,3,3,0,9,3.0
-G. Maggiore,3,3,0,9,3.0
-G. Perrin,3,3,0,9,3.0
-G. Scamacca,3,3,0,9,3.0
-M. Zaccagni,3,3,0,9,3.0
-Willian,3,3,0,9,3.0
-Samuel Lino,3,3,0,9,3.0
-B. Diakité,3,3,0,9,3.0
-Arthur Cabral,3,3,0,9,3.0
-Asier Villalibre,3,3,0,9,3.0
-Assane Diao,3,3,0,9,3.0
-Aurélio Buta,3,3,0,9,3.0
-E. Eze,3,3,0,9,3.0
-E. Gyasi,3,3,0,9,3.0
-E. Can,3,3,0,9,3.0
-E. Dennis,3,3,0,9,3.0
-E. Nwaneri,3,3,0,9,3.0
-E. Ponce,3,3,0,9,3.0
-J. O'Brien,3,3,0,9,3.0
-Saúl Coco,3,3,0,9,3.0
-Sergi Guardiola,3,3,0,9,3.0
-Sergio Canales,3,3,0,9,3.0
-J. Schlupp,3,3,0,9,3.0
-A. Ezzalzouli,3,3,0,9,3.0
-A. Gigović,3,3,0,9,3.0
-E. Shomurodov,3,3,0,9,3.0
-P. Bamford,3,3,0,9,3.0
-G. Ilenikhena,2,3,0,9,4.5
-G. Isaksen,3,3,0,9,3.0
-Marcos Llorente,3,3,0,9,3.0
-Martín Zubimendi,3,3,0,9,3.0
-G. Bonaventura,3,3,0,9,3.0
-G. Fabbian,3,3,0,9,3.0
-Moi Gómez,3,3,0,9,3.0
-Morales,3,3,0,9,3.0
-J. Tah,3,3,0,9,3.0
-J. Vagnoman,3,3,0,9,3.0
-Ante Budimir,3,3,0,9,3.0
-Sávio,2,3,0,9,4.5
-J. Veretout,3,3,0,9,3.0
-L. Modrić,3,3,0,9,3.0
-L. Mothiba,3,3,0,9,3.0
-E. Smith Rowe,3,3,0,9,3.0
-O. Vilhelmsson,3,3,0,9,3.0
-O. Óskarsson,2,3,0,9,4.5
-Fábio Silva,3,3,0,9,3.0
-F. Tait,3,3,0,9,3.0
-F. Valverde,3,3,0,9,3.0
-N. Sansone,3,3,0,9,3.0
-Alexsandro Ribeiro,3,3,0,9,3.0
-Anastasios Douvikas,3,3,0,9,3.0
-T. Henry,3,3,0,9,3.0
-T. Hernández,3,3,0,9,3.0
-Adama Traoré,3,3,0,9,3.0
-L. Goretzka,3,3,0,9,3.0
-J. Álvarez,3,3,0,9,3.0
-J. Siebatcheu,3,3,0,9,3.0
-A. Touré,3,3,0,9,3.0
-Z. Aboukhlal,3,3,0,9,3.0
-L. Alario,3,3,0,9,3.0
-L. Bonucci,3,3,0,9,3.0
-L. Boyé,3,3,0,9,3.0
-L. De Silvestri,3,3,0,9,3.0
-Joelinton,3,3,0,9,3.0
-Jon Guridi,3,3,0,9,3.0
-N. Woltemade,3,3,0,9,3.0
-N. Zaniolo,3,3,0,9,3.0
-Muniain,3,3,0,9,3.0
-N. Amiri,3,3,0,9,3.0
-N. Bajrami,3,3,0,9,3.0
-F. Mollet,3,3,0,9,3.0
-A. Lozano,3,3,0,9,3.0
-Álvaro Negredo,3,3,0,9,3.0
-A. Caci,3,3,0,9,3.0
-A. Barák,3,3,0,9,3.0
-K. Toko-Ekambi,3,3,0,9,3.0
-João Palhinha,3,3,0,9,3.0
-K. Nakamura,3,3,0,9,3.0
-Juanmi Latasa,3,3,0,9,3.0
-K. Moore,2,2,0,6,3.0
-K. Thuram-Ulien,2,2,0,6,3.0
-K. Fayad,2,2,0,6,3.0
-T. Lemperle,2,2,0,6,3.0
-T. Louchet,2,2,0,6,3.0
-T. Mings,2,2,0,6,3.0
-A. Stiller,2,2,0,6,3.0
-A. Tameze,2,2,0,6,3.0
-A. Truffert,1,2,0,6,6.0
-A. Tuhami,2,2,0,6,3.0
-A. Véliz,2,2,0,6,3.0
-Z. Ferhat,2,2,0,6,3.0
-Z. Ibrahimović,2,2,0,6,3.0
-Kike Pérez,1,2,0,6,6.0
-Kike Salas,2,2,0,6,3.0
-Josan Ferrández,2,2,0,6,3.0
-Jota Silva,2,2,0,6,3.0
-João Cancelo,2,2,0,6,3.0
-L. Berry,2,2,0,6,3.0
-N. Milenković,2,2,0,6,3.0
-F. Caputo,2,2,0,6,3.0
-F. Dele-Bashiru,2,2,0,6,3.0
-F. Forestieri,2,2,0,6,3.0
-F. Gatti,2,2,0,6,3.0
-F. Kainz,2,2,0,6,3.0
-F. Kessié,2,2,0,6,3.0
-N. Molina,2,2,0,6,3.0
-N. O'Reilly,2,2,0,6,3.0
-N. Paz,2,2,0,6,3.0
-F. Ohene-Gyan,1,2,0,6,6.0
-N. Fekir,2,2,0,6,3.0
-N. Kalinić,2,2,0,6,3.0
-N. Matić,2,2,0,6,3.0
-N. Mbuku,2,2,0,6,3.0
-W. Anton,2,2,0,6,3.0
-F. Acerbi,2,2,0,6,3.0
-F. Anguissa,2,2,0,6,3.0
-F. Ayé,2,2,0,6,3.0
-Neymar,2,2,0,6,3.0
-F. de Jong,2,2,0,6,3.0
-Myrto Uzuni,2,2,0,6,3.0
-N. Aké,2,2,0,6,3.0
-N. Dorsch,2,2,0,6,3.0
-N. Edjouma,2,2,0,6,3.0
-N. El Aynaoui,2,2,0,6,3.0
-N. Elvedi,2,2,0,6,3.0
-F. Kostić,2,2,0,6,3.0
-F. Lejeune,2,2,0,6,3.0
-F. Moumbagna,2,2,0,6,3.0
-F. Nmecha,2,2,0,6,3.0
-A. Groeneveld,2,2,0,6,3.0
-Oier Zarraga,2,2,0,6,3.0
-Fermín López,2,2,0,6,3.0
-Fernandinho,2,2,0,6,3.0
-Florian Lejeune,2,2,0,6,3.0
-Francisco Conceição,2,2,0,6,3.0
-Fred,2,2,0,6,3.0
-F. Rieder,2,2,0,6,3.0
-F. Sacko,2,2,0,6,3.0
-F. Schär,2,2,0,6,3.0
-F. Tardieu,2,2,0,6,3.0
-F. Thauvin,2,2,0,6,3.0
-N. Pépé,2,2,0,6,3.0
-N. Schmidt,2,2,0,6,3.0
-N. Tagliafico,2,2,0,6,3.0
-N. Weiper,2,2,0,6,3.0
-Evanilson,2,2,0,6,3.0
-Marquinhos,2,2,0,6,3.0
-G. Altare,2,2,0,6,3.0
-G. Busio,2,2,0,6,3.0
-G. Caprari,2,2,0,6,3.0
-G. Ferrari,2,2,0,6,3.0
-Memphis Depay,2,2,0,6,3.0
-Mikel Vesga,2,2,0,6,3.0
-Mousa Al Ta'mari,2,2,0,6,3.0
-Fabinho,2,2,0,6,3.0
-Felipe Anderson,2,2,0,6,3.0
-Nico González,2,2,0,6,3.0
-Nuno Tavares,2,2,0,6,3.0
-E. Touré,2,2,0,6,3.0
-E. Ávila,2,2,0,6,3.0
-Elustondo,2,2,0,6,3.0
-O. Giroud,2,2,0,6,3.0
-E. Martínez,2,2,0,6,3.0
-E. Nketiah,2,2,0,6,3.0
-E. Pinnock,2,2,0,6,3.0
-E. Skhiri,2,2,0,6,3.0
-P. Almqvist,2,2,0,6,3.0
-P. Aubameyang,2,2,0,6,3.0
-P. Billing,2,2,0,6,3.0
-P. Ciss,2,2,0,6,3.0
-Mama Baldé,2,2,0,6,3.0
-Marc Bartra,2,2,0,6,3.0
-Marc Cardona,2,2,0,6,3.0
-Marcos André,2,2,0,6,3.0
-G. Gaetano,2,2,0,6,3.0
-G. Gineitis,2,2,0,6,3.0
-G. Hirst,2,2,0,6,3.0
-G. Lapadula,2,2,0,6,3.0
-P. Lienhart,2,2,0,6,3.0
-P. Onuachu,2,2,0,6,3.0
-Diogo Dalot,2,2,0,6,3.0
-M. Thorsby,2,2,0,6,3.0
-G. Wijnaldum,2,2,0,6,3.0
-M. Veljković,2,2,0,6,3.0
-M. Weiser,2,2,0,6,3.0
-M. de Roon,2,2,0,6,3.0
-P. Cutrone,2,2,0,6,3.0
-P. Daka,2,2,0,6,3.0
-P. Frankowski,2,2,0,6,3.0
-E. Löwen,2,2,0,6,3.0
-E. Delprato,2,2,0,6,3.0
-E. Dier,2,2,0,6,3.0
-E. Džeko,2,2,0,6,3.0
-Oriol Romeu,2,2,0,6,3.0
-Pedro Neto,2,2,0,6,3.0
-Pol Lirola,2,2,0,6,3.0
-Q. Boisgard,2,2,0,6,3.0
-W. Odobert,2,2,0,6,3.0
-W. Orban,2,2,0,6,3.0
-W. Swedberg,2,2,0,6,3.0
-Gerson,2,2,0,6,3.0
-M. Sabitzer,2,2,0,6,3.0
-M. Sahi,2,2,0,6,3.0
-M. Satriano,2,2,0,6,3.0
-M. Sissoko,2,2,0,6,3.0
-M. Solomon,2,2,0,6,3.0
-M. Soulé,2,2,0,6,3.0
-P. Gueye,2,2,0,6,3.0
-P. Højbjerg,2,2,0,6,3.0
-P. Jansson,2,2,0,6,3.0
-A. Martial,1,2,0,6,6.0
-A. Miranchuk,2,2,0,6,3.0
-H. Elliott,2,2,0,6,3.0
-H. Lozano,2,2,0,6,3.0
-H. Mkhitaryan,2,2,0,6,3.0
-G. Xhaka,2,2,0,6,3.0
-G. Álvarez,2,2,0,6,3.0
-A. Guðmundsson,2,2,0,6,3.0
-A. Hahn,2,2,0,6,3.0
-A. Harroui,2,2,0,6,3.0
-A. Haïdara,2,2,0,6,3.0
-E. Bardhi,2,2,0,6,3.0
-P. Pellegri,2,2,0,6,3.0
-P. Wimmer,2,2,0,6,3.0
-Pablo Maffeo,2,2,0,6,3.0
-Pablo Torre,1,2,0,6,6.0
-R. Healey,2,2,0,6,3.0
-Hugo Novoa,2,2,0,6,3.0
-M. Pjaca,2,2,0,6,3.0
-M. Richter,2,2,0,6,3.0
-Vitinha,2,2,0,6,3.0
-D. Verde,2,2,0,6,3.0
-D. Zappacosta,2,2,0,6,3.0
-Dani Gómez,2,2,0,6,3.0
-R. Aït-Nouri,2,2,0,6,3.0
-R. Bensebaïni,2,2,0,6,3.0
-Dani Vivian,2,2,0,6,3.0
-Daniel Carvajal,2,2,0,6,3.0
-Danilo,2,2,0,6,3.0
-D. Udogie,2,2,0,6,3.0
-V. Sierro,2,2,0,6,3.0
-Valery,2,2,0,6,3.0
-D. Drexler,2,2,0,6,3.0
-Unai Simón,2,2,0,6,3.0
-A. Onana,2,2,0,6,3.0
-A. Petagna,2,2,0,6,3.0
-A. Pléa,2,2,0,6,3.0
-Hwang Hee-Chan,2,2,0,6,3.0
-I. Ganago,2,2,0,6,3.0
-I. Ilić,2,2,0,6,3.0
-M. Lanzini,2,2,0,6,3.0
-M. Lemina,2,2,0,6,3.0
-M. Lopez,2,2,0,6,3.0
-H. Tabaković,2,2,0,6,3.0
-H. Traorè,2,2,0,6,3.0
-R. Dōan,2,2,0,6,3.0
-R. Hack,1,2,0,6,6.0
-R. Hamouma,2,2,0,6,3.0
-V. Janelt,2,2,0,6,3.0
-V. Kovalenko,2,2,0,6,3.0
-D. Fofana,2,2,0,6,3.0
-D. Huseinbašić,2,2,0,6,3.0
-R. Malinovskyi,2,2,0,6,3.0
-R. Mandragora,2,2,0,6,3.0
-R. Marin,2,2,0,6,3.0
-M. Hummels,2,2,0,6,3.0
-I. Niane,2,2,0,6,3.0
-I. Pussetto,2,2,0,6,3.0
-I. Rakitić,2,2,0,6,3.0
-M. Icardi,2,2,0,6,3.0
-M. Jensen,2,2,0,6,3.0
-M. Kömür,2,2,0,6,3.0
-M. Lacroix,2,2,0,6,3.0
-D. Downs,2,2,0,6,3.0
-D. Brašanac,2,2,0,6,3.0
-D. Caligiuri,2,2,0,6,3.0
-D. Doekhi,2,2,0,6,3.0
-R. Perraud,2,2,0,6,3.0
-R. Ripart,2,2,0,6,3.0
-R. Sallai,2,2,0,6,3.0
-R. Sessegnon,2,2,0,6,3.0
-M. Erlić,2,2,0,6,3.0
-M. Folorunsho,2,2,0,6,3.0
-Isi Palazón,2,2,0,6,3.0
-Iván Martín,2,2,0,6,3.0
-J. Aidoo,2,2,0,6,3.0
-M. Ginter,2,2,0,6,3.0
-M. Grüll,2,2,0,6,3.0
-A. Rrahmani,2,2,0,6,3.0
-V. Germain,2,2,0,6,3.0
-Carlos Vinícius,2,2,0,6,3.0
-Casemiro,2,2,0,6,3.0
-Cristiano Ronaldo,2,2,0,6,3.0
-D. Bakwa,2,2,0,6,3.0
-Randy Nteka,1,2,0,6,6.0
-Raíllo,2,2,0,6,3.0
-Renato Sanches,2,2,0,6,3.0
-J. Boëtius,2,2,0,6,3.0
-M. Cancellieri,2,2,0,6,3.0
-M. Caqueret,2,2,0,6,3.0
-M. Dahoud,2,2,0,6,3.0
-M. Daramy,2,2,0,6,3.0
-M. Diaby,2,2,0,6,3.0
-M. El Idrissy,2,2,0,6,3.0
-R. Nelson,2,2,0,6,3.0
-R. Oudin,2,2,0,6,3.0
-C. Larin,2,2,0,6,3.0
-J. Brown,2,2,0,6,3.0
-J. Burkardt,2,2,0,6,3.0
-J. Dasilva,2,2,0,6,3.0
-J. Andersen,2,2,0,6,3.0
-J. Beste,2,2,0,6,3.0
-J. Boga,2,2,0,6,3.0
-Caio Henrique,2,2,0,6,3.0
-Carlos Augusto,2,2,0,6,3.0
-Carlos Benavídez,2,2,0,6,3.0
-Roger Martí,2,2,0,6,3.0
-Rubén García,2,2,0,6,3.0
-S. Adamyan,2,2,0,6,3.0
-S. Alvero,2,2,0,6,3.0
-S. Bahoken,2,2,0,6,3.0
-R. Vargas,2,2,0,6,3.0
-A. Saint-Maximin,2,2,0,6,3.0
-A. Salama,2,2,0,6,3.0
-Tetê,2,2,0,6,3.0
-M. Aramu,2,2,0,6,3.0
-M. Arnold,2,2,0,6,3.0
-J. Dossou,2,2,0,6,3.0
-J. Gelhardt,2,2,0,6,3.0
-M. Blažič,2,2,0,6,3.0
-M. Braithwaite,2,2,0,6,3.0
-J. Briand,1,2,0,6,6.0
-S. Becker,2,2,0,6,3.0
-S. Benrahma,2,2,0,6,3.0
-S. Diop,2,2,0,6,3.0
-S. Esposito,2,2,0,6,3.0
-C. Hudson-Odoi,2,2,0,6,3.0
-C. Itten,2,2,0,6,3.0
-C. Führich,2,2,0,6,3.0
-C. Gytkjær,2,2,0,6,3.0
-C. Gómez,2,2,0,6,3.0
-Luis Rioja,2,2,0,6,3.0
-Léo Scienza,2,2,0,6,3.0
-J. Gradit,2,2,0,6,3.0
-J. Guilavogui,2,2,0,6,3.0
-J. Hinshelwood,2,2,0,6,3.0
-J. Ito,2,2,0,6,3.0
-M. Abline,2,2,0,6,3.0
-M. Almirón,2,2,0,6,3.0
-S. Ghoddos,2,2,0,6,3.0
-S. Jovetić,2,2,0,6,3.0
-Tete Morente,2,2,0,6,3.0
-A. Rüdiger,2,2,0,6,3.0
-A. Sabiri,2,2,0,6,3.0
-J. Kucka,2,2,0,6,3.0
-J. Lerma,2,2,0,6,3.0
-J. Leweling,2,2,0,6,3.0
-J. Lingard,2,2,0,6,3.0
-Lucas Ocampos,2,2,0,6,3.0
-Lucas Torró,2,2,0,6,3.0
-Luis Henrique,2,2,0,6,3.0
-Toni Martínez,2,2,0,6,3.0
-Tuta,2,2,0,6,3.0
-U. Sadiq,2,2,0,6,3.0
-Unai Gómez,2,2,0,6,3.0
-Unai López,2,2,0,6,3.0
-S. Khaoui,2,2,0,6,3.0
-C. Coady,2,2,0,6,3.0
-C. Dessers,2,2,0,6,3.0
-C. Ekuban,2,2,0,6,3.0
-S. Sohm,2,2,0,6,3.0
-S. Soumano,2,2,0,6,3.0
-S. Sow,2,2,0,6,3.0
-S. Tonali,2,2,0,6,3.0
-S. Verdi,2,2,0,6,3.0
-Williot Swedberg,2,2,0,6,3.0
-Y. Abdelhamid,2,2,0,6,3.0
-Y. Asprilla,2,2,0,6,3.0
-J. Murphy,2,2,0,6,3.0
-J. Mæhle,2,2,0,6,3.0
-J. Njinmah,2,2,0,6,3.0
-L. Ugochukwu,2,2,0,6,3.0
-S. Lukić,2,2,0,6,3.0
-Bremer,2,2,0,6,3.0
-C. Antwi-Adjei,2,2,0,6,3.0
-Bebé,2,2,0,6,3.0
-J. Sancho,2,2,0,6,3.0
-J. Scally,2,2,0,6,3.0
-L. Sernicola,2,2,0,6,3.0
-L. Sinisterra,2,2,0,6,3.0
-L. Stassin,2,2,0,6,3.0
-A. Engels,2,2,0,6,3.0
-A. Finnbogason,2,2,0,6,3.0
-Williams,2,2,0,6,3.0
-B. Hollerbach,2,2,0,6,3.0
-Asensio,2,2,0,6,3.0
-Brahim Díaz,2,2,0,6,3.0
-S. Pierotti,2,2,0,6,3.0
-S. Posch,2,2,0,6,3.0
-S. Ricci,2,2,0,6,3.0
-S. Rudy,2,2,0,6,3.0
-S. Sensi,2,2,0,6,3.0
-T. Barry,2,2,0,6,3.0
-L. Ocampos,2,2,0,6,3.0
-L. Paredes,2,2,0,6,3.0
-J. Odgaard,2,2,0,6,3.0
-J. Pohjanpalo,2,2,0,6,3.0
-J. Porozo,2,2,0,6,3.0
-J. Ryerson,2,2,0,6,3.0
-B. Brahimi,2,2,0,6,3.0
-B. Chilwell,2,2,0,6,3.0
-Sergio Akieme,2,2,0,6,3.0
-Sergio Arribas,2,2,0,6,3.0
-Sergio León,2,2,0,6,3.0
-Sergio Ramos,2,2,0,6,3.0
-Soldado,2,2,0,6,3.0
-Andrey Santos,2,2,0,6,3.0
-André Almeida,2,2,0,6,3.0
-L. Höler,2,2,0,6,3.0
-Jaime Mata,2,2,0,6,3.0
-J. Schöppner,2,2,0,6,3.0
-J. Stanišić,2,2,0,6,3.0
-J. Stones,2,2,0,6,3.0
-J. Strand Larsen,2,2,0,6,3.0
-André Gomes,2,2,0,6,3.0
-Angeliño,2,2,0,6,3.0
-Antoine Griezmann,2,2,0,6,3.0
-Antonio Puertas,2,2,0,6,3.0
-Antony,2,2,0,6,3.0
-Arda Güler,2,2,0,6,3.0
-Arkaitz Mariezkurrena,2,2,0,6,3.0
-T. Anjorin,2,2,0,6,3.0
-T. Arslan,2,2,0,6,3.0
-T. Bakayoko,2,2,0,6,3.0
-L. Cabrera,2,2,0,6,3.0
-L. Caldirola,2,2,0,6,3.0
-L. Camara,2,2,0,6,3.0
-L. Digne,2,2,0,6,3.0
-Javi Puado,2,2,0,6,3.0
-Javier Guerra,2,2,0,6,3.0
-Joan Jordán,2,2,0,6,3.0
-Jordi Alba,2,2,0,6,3.0
-L. Dunk,2,2,0,6,3.0
-T. Buchanan,2,2,0,6,3.0
-Aitor Paredes,2,2,0,6,3.0
-Alberto Moleiro,2,2,0,6,3.0
-T. Dallinga,2,2,0,6,3.0
-T. Douvikas,2,2,0,6,3.0
-A. Zanoli,2,2,0,6,3.0
-A. Zaroury,2,2,0,6,3.0
-Éderson,2,2,0,6,3.0
-A. Budimir,2,2,0,6,3.0
-A. Cambiaso,2,2,0,6,3.0
-Z. Çelik,2,2,0,6,3.0
-Álex,2,2,0,6,3.0
-Álex Grimaldo,2,2,0,6,3.0
-1                         M. Bayo,2,2,0,6,3.0
-A. Waris,2,2,0,6,3.0
-T. Reijnders,2,2,0,6,3.0
-T. Walcott,2,2,0,6,3.0
-T. Weah,2,2,0,6,3.0
-K. Jakić,2,2,0,6,3.0
-K. Kvaratskhelia,2,2,0,6,3.0
-K. Lala,2,2,0,6,3.0
-Jørgen Strand Larsen,2,2,0,6,3.0
-T. Lemar,2,2,0,6,3.0
-W. Cyprien,2,2,0,6,3.0
-W. Geubbels,2,2,0,6,3.0
-A. Jallow,2,2,0,6,3.0
-A. Laïdouni,2,2,0,6,3.0
-Julen Lobete,2,2,0,6,3.0
-K. Volland,2,2,0,6,3.0
-Kike,2,2,0,6,3.0
-Y. Gboho,2,2,0,6,3.0
-Y. Karamoh,2,2,0,6,3.0
-A. Danjuma,2,2,0,6,3.0
-A. Elanga,2,2,0,6,3.0
-Youssef En-Nesyri,2,2,0,6,3.0
-İ. Gündoğan,1,2,0,6,6.0
-A. Abdi,2,2,0,6,3.0
-A. Adams,2,2,0,6,3.0
-İlkay Gündoğan,2,2,0,6,3.0
-0                         A. Petagna,1,1,0,3,3.0
-0                         D. Zappacosta,1,1,0,3,3.0
-0                         K. Benzema,1,1,0,3,3.0
-1                         F. Wirtz,1,1,0,3,3.0
-1                         L. Colombo,1,1,0,3,3.0
-2                         M. Bülter,1,1,0,3,3.0
-3                         Arthur,1,1,0,3,3.0
-3                         E. Touré,1,1,0,3,3.0
-6                         E. Ünal,1,1,0,3,3.0
-A. Beck,1,1,0,3,3.0
-A. Bastoni,1,1,0,3,3.0
-Z. Davitashvili,1,1,0,3,3.0
-Z. Amdouni,1,1,0,3,3.0
-Yerson Mosquera,1,1,0,3,3.0
-Yeremi Pino,1,1,0,3,3.0
-Yeray,1,1,0,3,3.0
-Yangel Herrera,1,1,0,3,3.0
-Yan Couto,1,1,0,3,3.0
-Y. Vertessen,1,1,0,3,3.0
-Y. Touzghar,1,1,0,3,3.0
-Y. Tielemans,1,1,0,3,3.0
-Y. Suzuki,1,1,0,3,3.0
-A. Ekdal,1,1,0,3,3.0
-A. Dønnum,1,1,0,3,3.0
-A. Dossena,1,1,0,3,3.0
-K. De Winter,1,1,0,3,3.0
-K. De Bruyne,1,1,0,3,3.0
-K. Danso,1,1,0,3,3.0
-K. Bamba,1,1,0,3,3.0
-K. Baldé,1,1,0,3,3.0
-K. Ayhan,1,1,0,3,3.0
-K. Akpoguma,1,1,0,3,3.0
-K. Mavropanos,1,1,0,3,3.0
-K. Mainoo,1,1,0,3,3.0
-K. Lewis-Potter,1,1,0,3,3.0
-K. Laimer,1,1,0,3,3.0
-K. Koulibaly,1,1,0,3,3.0
-K. Karaman,1,1,0,3,3.0
-K. Hause,1,1,0,3,3.0
-K. Günter,1,1,0,3,3.0
-K. Ehizibue,1,1,0,3,3.0
-Junior Firpo,1,1,0,3,3.0
-Juan Soriano,1,1,0,3,3.0
-Juan Jesus,1,1,0,3,3.0
-Juan Cruz,1,1,0,3,3.0
-Juan Bernat,1,1,0,3,3.0
-João Moutinho,1,1,0,3,3.0
-João Gomes,1,1,0,3,3.0
-K. Rekik,1,1,0,3,3.0
-K. Piątek,1,1,0,3,3.0
-K. Paredes,1,1,0,3,3.0
-K. Mutandwa,1,1,0,3,3.0
-K. Miyoshi,1,1,0,3,3.0
-K. McLean,1,1,0,3,3.0
-K. Dolberg,1,1,0,3,3.0
-K. Diatta,1,1,0,3,3.0
-K. Demirbay,1,1,0,3,3.0
-José Gragera,1,1,0,3,3.0
-José Gayà,1,1,0,3,3.0
-Josep Chavarría,1,1,0,3,3.0
-Jorge Sáenz,1,1,0,3,3.0
-Jorge Pascual,1,1,0,3,3.0
-Kim Min-Jae,1,1,0,3,3.0
-Kaio Jorge,1,1,0,3,3.0
-Kaiky,1,1,0,3,3.0
-K. Ịheanachọ,1,1,0,3,3.0
-K. Świderski,1,1,0,3,3.0
-K. Zouma,1,1,0,3,3.0
-K. Yeboah,1,1,0,3,3.0
-K. Walker-Peters,1,1,0,3,3.0
-K. Trippier,1,1,0,3,3.0
-K. Topp,1,1,0,3,3.0
-Jérémie Bela,1,1,0,3,3.0
-L. Bénes,1,1,0,3,3.0
-L. Buchanan,1,1,0,3,3.0
-L. Brassier,1,1,0,3,3.0
-L. Bittencourt,1,1,0,3,3.0
-L. Beltrán,1,1,0,3,3.0
-L. Barreiro,1,1,0,3,3.0
-L. Banda,1,1,0,3,3.0
-L. Bailey                                  1,1,1,0,3,3.0
-L. Ayling,1,1,0,3,3.0
-L. Assignon,1,1,0,3,3.0
-L. Abram,1,1,0,3,3.0
-Koke,1,1,0,3,3.0
-Koka,1,1,0,3,3.0
-Kirian Rodríguez,1,1,0,3,3.0
-Jota,1,1,0,3,3.0
-José Sá,1,1,0,3,3.0
-Jonathan Viera,1,1,0,3,3.0
-Jon Olasagasti,1,1,0,3,3.0
-Joaquín Fernández,1,1,0,3,3.0
-Jesús Vázquez,1,1,0,3,3.0
-Jesús Areso,1,1,0,3,3.0
-Jeong Wooyeong,1,1,0,3,3.0
-Jeong Woo-Yeong,1,1,0,3,3.0
-Jeffinho,1,1,0,3,3.0
-Javier Muñoz,1,1,0,3,3.0
-Javier Hernández,1,1,0,3,3.0
-L. Dobbin,1,1,0,3,3.0
-L. Delap,1,1,0,3,3.0
-L. Da Cunha,1,1,0,3,3.0
-L. Coulibaly,1,1,0,3,3.0
-L. Cook,1,1,0,3,3.0
-L. Colombo,1,1,0,3,3.0
-Jacobo Ramón,1,1,0,3,3.0
-J. Worrall,1,1,0,3,3.0
-J. Wilson-Esbrand,1,1,0,3,3.0
-J. Willock,1,1,0,3,3.0
-J. Weigl,1,1,0,3,3.0
-J. Ward,1,1,0,3,3.0
-L. Lochoshvili,1,1,0,3,3.0
-L. Kübler,1,1,0,3,3.0
-L. Krejčí,1,1,0,3,3.0
-L. Kilian,1,1,0,3,3.0
-L. Kerber,1,1,0,3,3.0
-L. Henderson,1,1,0,3,3.0
-L. Hall,1,1,0,3,3.0
-L. Gourna-Douath,1,1,0,3,3.0
-L. Giannetti,1,1,0,3,3.0
-L. Gechter,1,1,0,3,3.0
-J. Onana,1,1,0,3,3.0
-L. O'Brien,1,1,0,3,3.0
-L. Mincarelli,1,1,0,3,3.0
-L. Mazzitelli,1,1,0,3,3.0
-L. Maina,1,1,0,3,3.0
-L. Mafouta,1,1,0,3,3.0
-L. Lucca,1,1,0,3,3.0
-J. Tchatchoua,1,1,0,3,3.0
-J. Taylor,1,1,0,3,3.0
-J. Tarkowski,1,1,0,3,3.0
-J. Solís,1,1,0,3,3.0
-J. Sebas,1,1,0,3,3.0
-Javi Muñoz,1,1,0,3,3.0
-Javi Martínez,1,1,0,3,3.0
-Javi Llabrés,1,1,0,3,3.0
-Javi Guerra,1,1,0,3,3.0
-J. Matip,1,1,0,3,3.0
-J. Manzambi,1,1,0,3,3.0
-J. Malatini,1,1,0,3,3.0
-L. Spinazzola,1,1,0,3,3.0
-L. Sinayoko,1,1,0,3,3.0
-L. Schaub,1,1,0,3,3.0
-L. Ritzka,1,1,0,3,3.0
-L. Rao-Lisoa,1,1,0,3,3.0
-L. Ranieri,1,1,0,3,3.0
-L. Pétrot,1,1,0,3,3.0
-J. Sambia,1,1,0,3,3.0
-J. Rowe,1,1,0,3,3.0
-J. Robinson,1,1,0,3,3.0
-J. Perea,1,1,0,3,3.0
-J. Palomino,1,1,0,3,3.0
-J. Ondrejka,1,1,0,3,3.0
-J. Karlsson,1,1,0,3,3.0
-Logan Costa,1,1,0,3,3.0
-Lisandro Martínez,1,1,0,3,3.0
-L. Štulac,1,1,0,3,3.0
-L. Venuti,1,1,0,3,3.0
-L. Valenti,1,1,0,3,3.0
-L. Torreira,1,1,0,3,3.0
-L. Tchaouna,1,1,0,3,3.0
-L. Sučić,1,1,0,3,3.0
-J. Nilsson,1,1,0,3,3.0
-J. Niemiec,1,1,0,3,3.0
-J. Ngankam,1,1,0,3,3.0
-J. Mwanga,1,1,0,3,3.0
-J. Mojica,1,1,0,3,3.0
-J. McGinn,1,1,0,3,3.0
-J. McAtee,1,1,0,3,3.0
-J. Hauge,1,1,0,3,3.0
-J. Greaves,1,1,0,3,3.0
-J. Grealish,1,1,0,3,3.0
-Lázaro,1,1,0,3,3.0
-Luís Maximiano,1,1,0,3,3.0
-Luka Modrić,1,1,0,3,3.0
-Luis Milla,1,1,0,3,3.0
-Lucas Moura,1,1,0,3,3.0
-Loren Morón,1,1,0,3,3.0
-J. Lotomba,1,1,0,3,3.0
-J. Locadia,1,1,0,3,3.0
-J. Laursen,1,1,0,3,3.0
-J. Laporte,1,1,0,3,3.0
-J. Krasso,1,1,0,3,3.0
-J. Kiwior,1,1,0,3,3.0
-J. Kimmich,1,1,0,3,3.0
-J. Enciso,1,1,0,3,3.0
-J. Ekkelenkamp,1,1,0,3,3.0
-J. Ekhator,1,1,0,3,3.0
-J. Eggestein,1,1,0,3,3.0
-J. Draxler,1,1,0,3,3.0
-J. Diehl,1,1,0,3,3.0
-J. Denayer,1,1,0,3,3.0
-M. Bakker,1,1,0,3,3.0
-M. Badelj,1,1,0,3,3.0
-M. Autret,1,1,0,3,3.0
-M. Andersen,1,1,0,3,3.0
-M. Albrighton,1,1,0,3,3.0
-M. Acuña,1,1,0,3,3.0
-J. Joronen,1,1,0,3,3.0
-J. Iličić,1,1,0,3,3.0
-J. Idzes,1,1,0,3,3.0
-J. Brekalo,1,1,0,3,3.0
-J. Branthwaite,1,1,0,3,3.0
-M. Brozović,1,1,0,3,3.0
-M. Broschinski,1,1,0,3,3.0
-M. Bourabia,1,1,0,3,3.0
-M. Biereth,1,1,0,3,3.0
-M. Bero,1,1,0,3,3.0
-M. Berisha,1,1,0,3,3.0
-M. Bauer,1,1,0,3,3.0
-M. Batshuayi,1,1,0,3,3.0
-M. Barreto,1,1,0,3,3.0
-M. Bamba,1,1,0,3,3.0
-J. Giraudon,1,1,0,3,3.0
-J. Giménez,1,1,0,3,3.0
-J. Gastien,1,1,0,3,3.0
-J. Foyth,1,1,0,3,3.0
-M. Diakhaby,1,1,0,3,3.0
-M. De Sciglio,1,1,0,3,3.0
-M. Darmian,1,1,0,3,3.0
-M. Coulibaly,1,1,0,3,3.0
-M. Cissé,1,1,0,3,3.0
-M. Cho,1,1,0,3,3.0
-M. Cham,1,1,0,3,3.0
-J. Bogle,1,1,0,3,3.0
-J. Asoro,1,1,0,3,3.0
-J. Antiste,1,1,0,3,3.0
-J. Anthony,1,1,0,3,3.0
-J. Cuadrado,1,1,0,3,3.0
-J. Corona,1,1,0,3,3.0
-J. Cork,1,1,0,3,3.0
-J. Clauss,1,1,0,3,3.0
-J. Bynoe-Gittens,1,1,0,3,3.0
-Iñaki Williams,1,1,0,3,3.0
-Iván Sánchez,1,1,0,3,3.0
-Ivan Rakitić,1,1,0,3,3.0
-Ismaily,1,1,0,3,3.0
-Ismaila Ciss,1,1,0,3,3.0
-Iker Muñoz,1,1,0,3,3.0
-Iker Muniain,1,1,0,3,3.0
-Iker Bravo,1,1,0,3,3.0
-Ibañez,1,1,0,3,3.0
-M. Finkgräfe,1,1,0,3,3.0
-M. Fares,1,1,0,3,3.0
-M. Faraoni,1,1,0,3,3.0
-M. Elyounoussi,1,1,0,3,3.0
-M. Elia,1,1,0,3,3.0
-M. Eggestein,1,1,0,3,3.0
-M. Doherty,1,1,0,3,3.0
-I. Ugbo,1,1,0,3,3.0
-I. Sulemana,1,1,0,3,3.0
-I. Success,1,1,0,3,3.0
-I. Sissoko,1,1,0,3,3.0
-I. Sané,1,1,0,3,3.0
-I. Perišić,1,1,0,3,3.0
-I. Nestorovski,1,1,0,3,3.0
-I. Ndiaye,1,1,0,3,3.0
-M. Honsak,1,1,0,3,3.0
-M. Hongla,1,1,0,3,3.0
-M. Gusto,1,1,0,3,3.0
-M. Geschwill,1,1,0,3,3.0
-M. Gabbia,1,1,0,3,3.0
-M. Friedl,1,1,0,3,3.0
-M. Frendrup,1,1,0,3,3.0
-J.  McGinn,1,1,0,3,3.0
-I. Maatsen,1,1,0,3,3.0
-I. Kebbal,1,1,0,3,3.0
-I. Gueye,1,1,0,3,3.0
-I. Cissoko,1,1,0,3,3.0
-I. Bennacer,1,1,0,3,3.0
-I. Belfodil,1,1,0,3,3.0
-I. Balliu,1,1,0,3,3.0
-M. Kruse,1,1,0,3,3.0
-M. Koné,1,1,0,3,3.0
-M. Kilman,1,1,0,3,3.0
-M. Kerkez,1,1,0,3,3.0
-M. Kempf,1,1,0,3,3.0
-M. Keane,1,1,0,3,3.0
-M. Kamiński,1,1,0,3,3.0
-M. Jørgensen,1,1,0,3,3.0
-I. Wadji,1,1,0,3,3.0
-H. Ziyech,1,1,0,3,3.0
-H. Wolf,1,1,0,3,3.0
-H. Traoré,1,1,0,3,3.0
-H. Ojediran,1,1,0,3,3.0
-M. Niakhate,1,1,0,3,3.0
-M. Nade,1,1,0,3,3.0
-M. Mudryk,1,1,0,3,3.0
-M. Meïté,1,1,0,3,3.0
-M. McKenzie,1,1,0,3,3.0
-M. Maolida,1,1,0,3,3.0
-M. Malsa,1,1,0,3,3.0
-M. Locatelli,1,1,0,3,3.0
-M. Leitsch,1,1,0,3,3.0
-M. Lambourde,1,1,0,3,3.0
-I. Monterisi,1,1,0,3,3.0
-I. Mbaye,1,1,0,3,3.0
-H. Maguire,1,1,0,3,3.0
-H. Guirassy,1,1,0,3,3.0
-H. Ekitiké,1,1,0,3,3.0
-H. Diarra,1,1,0,3,3.0
-H. Boudaoui,1,1,0,3,3.0
-H. Aouar,1,1,0,3,3.0
-M. Rasmussen,1,1,0,3,3.0
-M. Pieringer,1,1,0,3,3.0
-M. Philipp,1,1,0,3,3.0
-M. Pellegrino,1,1,0,3,3.0
-M. Olivera,1,1,0,3,3.0
-Hugo Álvarez,1,1,0,3,3.0
-Hugo Guillamón,1,1,0,3,3.0
-Hugo Bueno,1,1,0,3,3.0
-Hernani,1,1,0,3,3.0
-H. Šabanović,1,1,0,3,3.0
-G. Mancini,1,1,0,3,3.0
-G. Magnani,1,1,0,3,3.0
-M. Thiaw,1,1,0,3,3.0
-M. Tavernier,1,1,0,3,3.0
-M. Saračević,1,1,0,3,3.0
-M. Sanson,1,1,0,3,3.0
-M. Ritchie,1,1,0,3,3.0
-Gonzalo Verdú,1,1,0,3,3.0
-Gonzalo Escalante,1,1,0,3,3.0
-Germán Pezzella,1,1,0,3,3.0
-Gabriel Magalhães,1,1,0,3,3.0
-Gabriel Jesus                                  1,1,1,0,3,3.0
-Gabriel Jesus,1,1,0,3,3.0
-G. Zappa,1,1,0,3,3.0
-H. Mendes,1,1,0,3,3.0
-H. Meister,1,1,0,3,3.0
-M. van de Ven,1,1,0,3,3.0
-M. de Ligt,1,1,0,3,3.0
-M. Wolf,1,1,0,3,3.0
-M. Wittek,1,1,0,3,3.0
-M. Vydra,1,1,0,3,3.0
-M. Viña,1,1,0,3,3.0
-M. Valjent,1,1,0,3,3.0
-M. Uzuni,1,1,0,3,3.0
-M. Uth,1,1,0,3,3.0
-M. Ugarte,1,1,0,3,3.0
-M. Udol,1,1,0,3,3.0
-M. Trauco,1,1,0,3,3.0
-G. Scalvini,1,1,0,3,3.0
-G. Rodríguez,1,1,0,3,3.0
-G. Pereiro,1,1,0,3,3.0
-G. Orban,1,1,0,3,3.0
-G. Lloris,1,1,0,3,3.0
-G. Leoni,1,1,0,3,3.0
-G. Kyriakopoulos,1,1,0,3,3.0
-G. Kyei,1,1,0,3,3.0
-G. Konan,1,1,0,3,3.0
-G. Holtmann,1,1,0,3,3.0
-G. Hein,1,1,0,3,3.0
-G. Hanley,1,1,0,3,3.0
-G. Gudmundsson,1,1,0,3,3.0
-Marcos Alonso,1,1,0,3,3.0
-Marc Roca,1,1,0,3,3.0
-Marc Guiu,1,1,0,3,3.0
-Marc Cucurella,1,1,0,3,3.0
-Manu Sánchez,1,1,0,3,3.0
-Manu Fuster,1,1,0,3,3.0
-Mahmoud Dahoud,1,1,0,3,3.0
-G. Castro,1,1,0,3,3.0
-G. Carrillo,1,1,0,3,3.0
-G. Bello,1,1,0,3,3.0
-Fábio Vieira,1,1,0,3,3.0
-Matija Nastasić,1,1,0,3,3.0
-Mathias Pereira Lage,1,1,0,3,3.0
-Mathias Lage,1,1,0,3,3.0
-Matheus Nunes,1,1,0,3,3.0
-Matheus Henrique,1,1,0,3,3.0
-Matheus França,1,1,0,3,3.0
-Mateus Fernandes,1,1,0,3,3.0
-Mata,1,1,0,3,3.0
-Mason Greenwood,1,1,0,3,3.0
-Marko Milovanović,1,1,0,3,3.0
-Mario Gila,1,1,0,3,3.0
-Marcos Antônio,1,1,0,3,3.0
-Fidel,1,1,0,3,3.0
-Fernando Calero,1,1,0,3,3.0
-Fer Niño,1,1,0,3,3.0
-Felipe,1,1,0,3,3.0
-Montoro,1,1,0,3,3.0
-Monchu,1,1,0,3,3.0
-Miguel de la Fuente,1,1,0,3,3.0
-Miguel Rodríguez,1,1,0,3,3.0
-Miguel Gutiérrez,1,1,0,3,3.0
-Mexer,1,1,0,3,3.0
-G. Earthy,1,1,0,3,3.0
-G. Di Lorenzo,1,1,0,3,3.0
-G. Defrel,1,1,0,3,3.0
-G. Charpentier,1,1,0,3,3.0
-G. Charbonnier,1,1,0,3,3.0
-G. Castrovilli,1,1,0,3,3.0
-F. Lemaréchal,1,1,0,3,3.0
-F. Klos,1,1,0,3,3.0
-N. Dovedan,1,1,0,3,3.0
-N. Domínguez,1,1,0,3,3.0
-N. Collins,1,1,0,3,3.0
-N. Cambiaghi,1,1,0,3,3.0
-N. Bentaleb,1,1,0,3,3.0
-N. Barella,1,1,0,3,3.0
-N. Aguerd,1,1,0,3,3.0
-F. Tsadjout,1,1,0,3,3.0
-F. Tomori,1,1,0,3,3.0
-F. Santander,1,1,0,3,3.0
-F. Russo,1,1,0,3,3.0
-F. Passlack,1,1,0,3,3.0
-F. Parisi,1,1,0,3,3.0
-Fran García,1,1,0,3,3.0
-F. Coquelin,1,1,0,3,3.0
-F. Chaïbi,1,1,0,3,3.0
-F. Ceccherini,1,1,0,3,3.0
-N. Mbemba,1,1,0,3,3.0
-N. Mazraoui,1,1,0,3,3.0
-N. Madueke,1,1,0,3,3.0
-N. Keïta,1,1,0,3,3.0
-N. Gudelj,1,1,0,3,3.0
-N. Fagioli,1,1,0,3,3.0
-F. Onyeka,1,1,0,3,3.0
-F. Ogier,1,1,0,3,3.0
-F. Niederlechner,1,1,0,3,3.0
-F. Neuhaus,1,1,0,3,3.0
-F. Mendy,1,1,0,3,3.0
-F. Melegoni,1,1,0,3,3.0
-F. Maouassa,1,1,0,3,3.0
-N. Schlotterbeck,1,1,0,3,3.0
-N. Sarenren Bazee,1,1,0,3,3.0
-N. Radonjić,1,1,0,3,3.0
-N. Pérez,1,1,0,3,3.0
-N. Pisilli,1,1,0,3,3.0
-N. Petersen,1,1,0,3,3.0
-N. Pallois,1,1,0,3,3.0
-N. Nández,1,1,0,3,3.0
-N. Nkounkou,1,1,0,3,3.0
-N. Ngoumou,1,1,0,3,3.0
-N. Murru,1,1,0,3,3.0
-F. Jensen,1,1,0,3,3.0
-F. Hanin,1,1,0,3,3.0
-F. Guilbert,1,1,0,3,3.0
-F. Di Francesco,1,1,0,3,3.0
-F. Dahmen,1,1,0,3,3.0
-F. Buonanotte,1,1,0,3,3.0
-F. Boulaya,1,1,0,3,3.0
-F. Bianchi,1,1,0,3,3.0
-F. Bernardeschi,1,1,0,3,3.0
-F. Baschirotto,1,1,0,3,3.0
-F. Bandinelli,1,1,0,3,3.0
-F. Ballo,1,1,0,3,3.0
-F. Arp,1,1,0,3,3.0
-F. Agu,1,1,0,3,3.0
-Nacho Ferri,1,1,0,3,3.0
-Nacho,1,1,0,3,3.0
-Nabil Fekir,1,1,0,3,3.0
-N. Williams,1,1,0,3,3.0
-N. Tella,1,1,0,3,3.0
-N. Süle,1,1,0,3,3.0
-N. Stark,1,1,0,3,3.0
-E. Valeri,1,1,0,3,3.0
-E. Tchato,1,1,0,3,3.0
-E. Tapsoba,1,1,0,3,3.0
-E. Smith,1,1,0,3,3.0
-O. Deman,1,1,0,3,3.0
-O. Colley,1,1,0,3,3.0
-O. Bukari,1,1,0,3,3.0
-O. Bobb,1,1,0,3,3.0
-O. Aina,1,1,0,3,3.0
-O. Afolayan,1,1,0,3,3.0
-Nuno da Costa,1,1,0,3,3.0
-Nuno Mendes,1,1,0,3,3.0
-Nico Williams,1,1,0,3,3.0
-Nemanja Maksimović,1,1,0,3,3.0
-Nacho Vidal,1,1,0,3,3.0
-F. Caicedo,1,1,0,3,3.0
-E. Rexhbeçaj,1,1,0,3,3.0
-E. Nuamah,1,1,0,3,3.0
-E. Ndicka,1,1,0,3,3.0
-E. Millot,1,1,0,3,3.0
-E. Mašović,1,1,0,3,3.0
-O. Sahraoui,1,1,0,3,3.0
-O. Norwood,1,1,0,3,3.0
-O. N'Dicka,1,1,0,3,3.0
-O. Maamma,1,1,0,3,3.0
-O. Højlund,1,1,0,3,3.0
-O. Duda,1,1,0,3,3.0
-Eric García,1,1,0,3,3.0
-Enric Franquesa,1,1,0,3,3.0
-Endrick,1,1,0,3,3.0
-E. Álvarez,1,1,0,3,3.0
-E. Vignato,1,1,0,3,3.0
-E. Le Fée,1,1,0,3,3.0
-E. Kroupi,1,1,0,3,3.0
-E. Konsa,1,1,0,3,3.0
-E. Holm,1,1,0,3,3.0
-E. Goldaniga,1,1,0,3,3.0
-E. Forsberg,1,1,0,3,3.0
-E. Fernández,1,1,0,3,3.0
-E. Eyong,1,1,0,3,3.0
-P. Förster,1,1,0,3,3.0
-P. Estupiñán,1,1,0,3,3.0
-P. Dorgu,1,1,0,3,3.0
-P. Diong,1,1,0,3,3.0
-P. Diallo,1,1,0,3,3.0
-P. Dawidowicz,1,1,0,3,3.0
-E. Simms,1,1,0,3,3.0
-E. Sabbi,1,1,0,3,3.0
-Diego García,1,1,0,3,3.0
-Deulofeu,1,1,0,3,3.0
-De Marcos,1,1,0,3,3.0
-P. Mainka,1,1,0,3,3.0
-P. Jaeckel,1,1,0,3,3.0
-P. Hofmann,1,1,0,3,3.0
-P. Hincapié,1,1,0,3,3.0
-P. Herrmann,1,1,0,3,3.0
-P. Gómez,1,1,0,3,3.0
-E. Ebimbe,1,1,0,3,3.0
-E. Cömert,1,1,0,3,3.0
-E. Capoue,1,1,0,3,3.0
-E. Boyomo,1,1,0,3,3.0
-E. Bove,1,1,0,3,3.0
-E. Botheim,1,1,0,3,3.0
-E. Lepaul,1,1,0,3,3.0
-Pau Cabanes,1,1,0,3,3.0
-Patric,1,1,0,3,3.0
-Pablo Marí,1,1,0,3,3.0
-Pablo Ibáñez,1,1,0,3,3.0
-Pablo Barrios,1,1,0,3,3.0
-P. Zieliński,1,1,0,3,3.0
-P. Treu,1,1,0,3,3.0
-P. Tietz,1,1,0,3,3.0
-P. Struijk,1,1,0,3,3.0
-P. Sarr,1,1,0,3,3.0
-P. Rosario,1,1,0,3,3.0
-E. Biumla,1,1,0,3,3.0
-Dário Essugo,1,1,0,3,3.0
-Douglas Augusto,1,1,0,3,3.0
-Domingos Duarte,1,1,0,3,3.0
-Diego Llorente,1,1,0,3,3.0
-David Pereira da Costa,1,1,0,3,3.0
-David Neres,1,1,0,3,3.0
-David García,1,1,0,3,3.0
-David Costa,1,1,0,3,3.0
-Darío Poveda,1,1,0,3,3.0
-Darwin Machís,1,1,0,3,3.0
-Danilo Pereira,1,1,0,3,3.0
-Daniel Podence,1,1,0,3,3.0
-Dani Raba,1,1,0,3,3.0
-Dani Parejo                                  0,1,1,0,3,3.0
-Portillo,1,1,0,3,3.0
-Pepelu,1,1,0,3,3.0
-Pedro Pereira,1,1,0,3,3.0
-Pedri,1,1,0,3,3.0
-Pedraza,1,1,0,3,3.0
-Pau Víctor,1,1,0,3,3.0
-D. Selke,1,1,0,3,3.0
-D. Scherhant,1,1,0,3,3.0
-D. Rugani,1,1,0,3,3.0
-D. Raum,1,1,0,3,3.0
-D. Praet,1,1,0,3,3.0
-R. Dugimont,1,1,0,3,3.0
-R. Czichos,1,1,0,3,3.0
-R. Aït Nouri,1,1,0,3,3.0
-R. Araújo,1,1,0,3,3.0
-Q. Merlin,1,1,0,3,3.0
-Dango Ouattara,1,1,0,3,3.0
-D. Črnigoj,1,1,0,3,3.0
-D. Čolina,1,1,0,3,3.0
-D. Ćaleta-Car,1,1,0,3,3.0
-D. Yongwa,1,1,0,3,3.0
-D. Vavro,1,1,0,3,3.0
-D. Muñoz,1,1,0,3,3.0
-D. Mertens,1,1,0,3,3.0
-D. Machís,1,1,0,3,3.0
-D. Machado,1,1,0,3,3.0
-D. Kulusevski                                  0,1,1,0,3,3.0
-D. Kohr,1,1,0,3,3.0
-R. Koch,1,1,0,3,3.0
-R. Khedira,1,1,0,3,3.0
-R. Jiménez,1,1,0,3,3.0
-R. Holding,1,1,0,3,3.0
-R. Gagliardini,1,1,0,3,3.0
-R. Esse,1,1,0,3,3.0
-D. Sánchez,1,1,0,3,3.0
-D. Spence,1,1,0,3,3.0
-D. Sow,1,1,0,3,3.0
-D. Sinani,1,1,0,3,3.0
-D. Blum,1,1,0,3,3.0
-R. Nicolaisen,1,1,0,3,3.0
-R. Massimo,1,1,0,3,3.0
-R. Manaj,1,1,0,3,3.0
-R. Loftus-Cheek,1,1,0,3,3.0
-R. Le Normand,1,1,0,3,3.0
-R. Labeau Lascary,1,1,0,3,3.0
-D. Johnsen,1,1,0,3,3.0
-D. Jebbison,1,1,0,3,3.0
-D. James,1,1,0,3,3.0
-D. Huijsen,1,1,0,3,3.0
-D. Henderson,1,1,0,3,3.0
-D. Gómez,1,1,0,3,3.0
-D. Gosling,1,1,0,3,3.0
-D. Faraoni,1,1,0,3,3.0
-D. Ndoye,1,1,0,3,3.0
-Chimy Ávila,1,1,0,3,3.0
-Catena,1,1,0,3,3.0
-Carlos Vicente,1,1,0,3,3.0
-Radamel Falcao,1,1,0,3,3.0
-R. Yates,1,1,0,3,3.0
-R. Varane,1,1,0,3,3.0
-R. Sottil,1,1,0,3,3.0
-R. Saïss,1,1,0,3,3.0
-R. Saponara,1,1,0,3,3.0
-R. Reitz,1,1,0,3,3.0
-D. Coppola,1,1,0,3,3.0
-D. Cataldi,1,1,0,3,3.0
-D. Calabria,1,1,0,3,3.0
-D. Burn,1,1,0,3,3.0
-D. Burgzorg,1,1,0,3,3.0
-D. Bouanga,1,1,0,3,3.0
-C. Volpato,1,1,0,3,3.0
-C. Vidal,1,1,0,3,3.0
-C. Uzun,1,1,0,3,3.0
-Roberto Torres,1,1,0,3,3.0
-Rober,1,1,0,3,3.0
-Reinildo Mandava,1,1,0,3,3.0
-Raúl Moro,1,1,0,3,3.0
-Raphaël Guerreiro,1,1,0,3,3.0
-Ramón Martínez,1,1,0,3,3.0
-D. Benedetto,1,1,0,3,3.0
-D. Beljo,1,1,0,3,3.0
-D. Appiah,1,1,0,3,3.0
-César Tárrega,1,1,0,3,3.0
-Cristian Herrera,1,1,0,3,3.0
-Coke,1,1,0,3,3.0
-Chris Ramos,1,1,0,3,3.0
-S. Amallah,1,1,0,3,3.0
-S. Agüero,1,1,0,3,3.0
-Rubén Duarte,1,1,0,3,3.0
-Rubén Alcaraz,1,1,0,3,3.0
-Ronald Araújo,1,1,0,3,3.0
-Rodrigo de Paul,1,1,0,3,3.0
-Rodrigo Riquelme,1,1,0,3,3.0
-Rodrigo Gomes,1,1,0,3,3.0
-Rodrigo Becão,1,1,0,3,3.0
-Robin Le Normand,1,1,0,3,3.0
-Carlos Romero,1,1,0,3,3.0
-Carlos Fernández,1,1,0,3,3.0
-Carlos Domínguez,1,1,0,3,3.0
-Carles Aleñá,1,1,0,3,3.0
-C. Wooh,1,1,0,3,3.0
-C. Woodrow,1,1,0,3,3.0
-C. Smalling,1,1,0,3,3.0
-C. Romero,1,1,0,3,3.0
-C. Richards,1,1,0,3,3.0
-C. Pulisic,1,1,0,3,3.0
-C. Piccini,1,1,0,3,3.0
-C. Palmer                                  1,1,1,0,3,3.0
-C. Ogbene,1,1,0,3,3.0
-S. Bell,1,1,0,3,3.0
-S. Bastoni,1,1,0,3,3.0
-S. Baptiste,1,1,0,3,3.0
-S. Banza,1,1,0,3,3.0
-S. Babicka,1,1,0,3,3.0
-S. Arias,1,1,0,3,3.0
-S. Andersson,1,1,0,3,3.0
-S. Amrabat,1,1,0,3,3.0
-S. Amo-Ameyaw,1,1,0,3,3.0
-C. Jean,1,1,0,3,3.0
-C. Hountondji,1,1,0,3,3.0
-C. Hernández,1,1,0,3,3.0
-S. Doucouré,1,1,0,3,3.0
-S. Diarra,1,1,0,3,3.0
-S. Delaye,1,1,0,3,3.0
-S. Dallas,1,1,0,3,3.0
-S. Conteh,1,1,0,3,3.0
-S. Coleman,1,1,0,3,3.0
-S. Boufal,1,1,0,3,3.0
-S. Botman,1,1,0,3,3.0
-S. Bornauw,1,1,0,3,3.0
-C. Tzolis,1,1,0,3,3.0
-C. Traorè,1,1,0,3,3.0
-C. Tolisso,1,1,0,3,3.0
-C. Starfelt,1,1,0,3,3.0
-C. Ejuke,1,1,0,3,3.0
-C. Dawson,1,1,0,3,3.0
-C. Boukhalfa,1,1,0,3,3.0
-S. Kolašinac,1,1,0,3,3.0
-S. Kalu,1,1,0,3,3.0
-S. Iling-Junior,1,1,0,3,3.0
-S. Idumbo,1,1,0,3,3.0
-S. Haller,1,1,0,3,3.0
-S. Grandsir,1,1,0,3,3.0
-S. Fukuda,1,1,0,3,3.0
-C. Ngonge,1,1,0,3,3.0
-C. Matsima,1,1,0,3,3.0
-C. Lykogiannis,1,1,0,3,3.0
-C. Lenglet,1,1,0,3,3.0
-C. Klarer,1,1,0,3,3.0
-C. Jullien,1,1,0,3,3.0
-C. Archer,1,1,0,3,3.0
-C. Alcaraz,1,1,0,3,3.0
-Bryan Zaragoza,1,1,0,3,3.0
-Bruno Méndez,1,1,0,3,3.0
-Brian Oliván,1,1,0,3,3.0
-S. McKenna,1,1,0,3,3.0
-S. Mbangula,1,1,0,3,3.0
-S. Mara,1,1,0,3,3.0
-S. Mandanda,1,1,0,3,3.0
-S. Lovrić,1,1,0,3,3.0
-S. Long,1,1,0,3,3.0
-S. Lobotka,1,1,0,3,3.0
-S. Lammers,1,1,0,3,3.0
-C. Grenier,1,1,0,3,3.0
-C. Gamboa,1,1,0,3,3.0
-C. Eriksen,1,1,0,3,3.0
-S. Weissman,1,1,0,3,3.0
-S. Thioub,1,1,0,3,3.0
-S. Surridge,1,1,0,3,3.0
-S. Serdar,1,1,0,3,3.0
-S. Nwankwo,1,1,0,3,3.0
-S. Nsoki,1,1,0,3,3.0
-Beraldo,1,1,0,3,3.0
-Bellerín,1,1,0,3,3.0
-B. Yılmaz,1,1,0,3,3.0
-B. White,1,1,0,3,3.0
-B. Traoré,1,1,0,3,3.0
-B. Touré,1,1,0,3,3.0
-B. Schmitz,1,1,0,3,3.0
-C. Benavídez,1,1,0,3,3.0
-C. Bayala,1,1,0,3,3.0
-C. Baleba,1,1,0,3,3.0
-B. Henrichs,1,1,0,3,3.0
-B. Guirassy,1,1,0,3,3.0
-B. Gruda,1,1,0,3,3.0
-B. Davies,1,1,0,3,3.0
-Santi Comesaña,1,1,0,3,3.0
-Sandro Ramírez,1,1,0,3,3.0
-Samuel Sáiz,1,1,0,3,3.0
-Samuel Omorodion,1,1,0,3,3.0
-Samuel Costa,1,1,0,3,3.0
-Sam Morsy,1,1,0,3,3.0
-Salva Sevilla,1,1,0,3,3.0
-S. Żurkowski,1,1,0,3,3.0
-S. van den Berg,1,1,0,3,3.0
-S. de Vrij,1,1,0,3,3.0
-S. Zoller,1,1,0,3,3.0
-S. Widmer,1,1,0,3,3.0
-Antonio Sivera,1,1,0,3,3.0
-Antonio Rüdiger,1,1,0,3,3.0
-Antonio Raíllo,1,1,0,3,3.0
-André Silva,1,1,0,3,3.0
-Sergio González,1,1,0,3,3.0
-Sergi Darder,1,1,0,3,3.0
-Sergi Canós,1,1,0,3,3.0
-Saúl Ñíguez,1,1,0,3,3.0
-B. Badiashile,1,1,0,3,3.0
-B. André,1,1,0,3,3.0
-B. Aaronson,1,1,0,3,3.0
-Aurélien Tchouaméni,1,1,0,3,3.0
-Arthur,1,1,0,3,3.0
-B. Omeragić,1,1,0,3,3.0
-B. Nuytinck,1,1,0,3,3.0
-B. Lasme,1,1,0,3,3.0
-Alex Suárez,1,1,0,3,3.0
-Aleksandar Sedlar,1,1,0,3,3.0
-Alejo,1,1,0,3,3.0
-Alejandro Catena,1,1,0,3,3.0
-Aleix García,1,1,0,3,3.0
-Alberto Moreno,1,1,0,3,3.0
-Alberto Marí,1,1,0,3,3.0
-Aimar Oroz,1,1,0,3,3.0
-T. Cairney,1,1,0,3,3.0
-T. Bongonda,1,1,0,3,3.0
-T. Bašić,1,1,0,3,3.0
-T. Asano,1,1,0,3,3.0
-T. Almada,1,1,0,3,3.0
-Stefan Bajčetić,1,1,0,3,3.0
-Sory Kaba,1,1,0,3,3.0
-Artem Dovbyk,1,1,0,3,3.0
-Aarón Martín,1,1,0,3,3.0
-A. Álvarez,1,1,0,3,3.0
-A. Young,1,1,0,3,3.0
-A. Witsel,1,1,0,3,3.0
-A. Webster,1,1,0,3,3.0
-T. Le Bris,1,1,0,3,3.0
-T. Lamptey,1,1,0,3,3.0
-T. Kroos,1,1,0,3,3.0
-T. Krauß,1,1,0,3,3.0
-T. Kolodziejczak,1,1,0,3,3.0
-T. Kehrer,1,1,0,3,3.0
-T. George,1,1,0,3,3.0
-T. Chong,1,1,0,3,3.0
-Ander Guevara,1,1,0,3,3.0
-Amir Rrahmani,1,1,0,3,3.0
-Alfon González,1,1,0,3,3.0
-A. Terzić,1,1,0,3,3.0
-A. Sylla,1,1,0,3,3.0
-T. Pembélé,1,1,0,3,3.0
-T. Partey,1,1,0,3,3.0
-T. Oberdorf,1,1,0,3,3.0
-T. Noslin,1,1,0,3,3.0
-T. Mitchell,1,1,0,3,3.0
-T. Mangani,1,1,0,3,3.0
-T. Livramento,1,1,0,3,3.0
-Adrián Embarba,1,1,0,3,3.0
-Adrià Pedrosa,1,1,0,3,3.0
-Adria Miquel Bosch Sanchis,1,1,0,3,3.0
-Adri Embarba,1,1,0,3,3.0
-Abel Bretones,1,1,0,3,3.0
-Abdu Conté,1,1,0,3,3.0
-Abdessamad Ezzalzouli,1,1,0,3,3.0
-A. Schiavone,1,1,0,3,3.0
-A. Sarr,1,1,0,3,3.0
-A. Sangante,1,1,0,3,3.0
-A. Sanabria,1,1,0,3,3.0
-Tello,1,1,0,3,3.0
-Tadeo Allende,1,1,0,3,3.0
-T. Tomiyasu,1,1,0,3,3.0
-T. Teuma,1,1,0,3,3.0
-T. Tessmann,1,1,0,3,3.0
-T. Skarke,1,1,0,3,3.0
-T. Sainte-Luce,1,1,0,3,3.0
-T. Rothe,1,1,0,3,3.0
-A. Voglsammer,1,1,0,3,3.0
-A. Vogliacco,1,1,0,3,3.0
-A. Tosin,1,1,0,3,3.0
-A. Theate,1,1,0,3,3.0
-A. Pieper,1,1,0,3,3.0
-A. Palaversa,1,1,0,3,3.0
-A. Ounas,1,1,0,3,3.0
-A. Oukidja,1,1,0,3,3.0
-A. Ouattara,1,1,0,3,3.0
-V. Carboni,1,1,0,3,3.0
-Unai Núñez,1,1,0,3,3.0
-U. Garcia,1,1,0,3,3.0
-Trincão,1,1,0,3,3.0
-Thiago Silva,1,1,0,3,3.0
-Theo Corbeanu,1,1,0,3,3.0
-A. Stach,1,1,0,3,3.0
-A. Souquet,1,1,0,3,3.0
-A. Seydel,1,1,0,3,3.0
-A. Scott,1,1,0,3,3.0
-A. Schäfer,1,1,0,3,3.0
-A. Obert,1,1,0,3,3.0
-A. Nagida,1,1,0,3,3.0
-A. Murić,1,1,0,3,3.0
-A. Murillo,1,1,0,3,3.0
-A. Matusiwa,1,1,0,3,3.0
-A. Matturro,1,1,0,3,3.0
-A. Masuaku,1,1,0,3,3.0
-A. Mandi,1,1,0,3,3.0
-Viktor Tsygankov,1,1,0,3,3.0
-Vicente Guaita,1,1,0,3,3.0
-Vanderson,1,1,0,3,3.0
-Valery Fernández,1,1,0,3,3.0
-V. Černý,1,1,0,3,3.0
-V. Rongier,1,1,0,3,3.0
-A. Ramsey,1,1,0,3,3.0
-A. Rami,1,1,0,3,3.0
-A. Makoumbou,1,1,0,3,3.0
-A. Maitland-Niles,1,1,0,3,3.0
-A. Losilla,1,1,0,3,3.0
-A. La Mantia,1,1,0,3,3.0
-A. Kelati,1,1,0,3,3.0
-A. Kalimuendo-Muinga,1,1,0,3,3.0
-A. Jung,1,1,0,3,3.0
-W. Kanga,1,1,0,3,3.0
-W. Foderingham,1,1,0,3,3.0
-W. Faghir,1,1,0,3,3.0
-W. Cheddira,1,1,0,3,3.0
-W. Bondo,1,1,0,3,3.0
-Vítinha,1,1,0,3,3.0
-Víctor Díaz,1,1,0,3,3.0
-Vitor Roque,1,1,0,3,3.0
-Vinicius Souza,1,1,0,3,3.0
-A. Espino,1,1,0,3,3.0
-A. Elis,1,1,0,3,3.0
-William Carvalho,1,1,0,3,3.0
-Walace,1,1,0,3,3.0
-W. Zaïre-Emery,1,1,0,3,3.0
-W. Weghorst,1,1,0,3,3.0
-W. Troost-Ekong,1,1,0,3,3.0
-W. Singo,1,1,0,3,3.0
-W. Osula,1,1,0,3,3.0
-W. Ndidi,1,1,0,3,3.0
-A. Ilić,1,1,0,3,3.0
-A. Hrustić,1,1,0,3,3.0
-A. Hickey,1,1,0,3,3.0
-A. Hainaut,1,1,0,3,3.0
-A. Haidara,1,1,0,3,3.0
-A. Gómez,1,1,0,3,3.0
-Y. Gerhardt,1,1,0,3,3.0
-Y. Fofana,1,1,0,3,3.0
-Y. Engelhardt,1,1,0,3,3.0
-Y. Bissouma,1,1,0,3,3.0
-Y. Atal,1,1,0,3,3.0
-Xeka,1,1,0,3,3.0
-X. Simons,1,1,0,3,3.0
-X. Shaqiri,1,1,0,3,3.0
-Wu Lei,1,1,0,3,3.0
-A. Golovin,1,1,0,3,3.0
-A. Gilchrist,1,1,0,3,3.0
-A. Gaich,1,1,0,3,3.0
-A. Gabrielloni,1,1,0,3,3.0
-A. Fulgini,1,1,0,3,3.0
-A. Florenzi,1,1,0,3,3.0
-A. Flips,1,1,0,3,3.0
-A. Disasi,1,1,0,3,3.0
-A. Dioussé,1,1,0,3,3.0
-A. Dembélé,1,1,0,3,3.0
-A. Deiola,1,1,0,3,3.0
-A. Davies,1,1,0,3,3.0
-A. Colpani,1,1,0,3,3.0
-A. Claude-Maurice,1,1,0,3,3.0
-Y. Sugawara,1,1,0,3,3.0
-Y. Salmier,1,1,0,3,3.0
-Y. Ramadani,1,1,0,3,3.0
-Y. Ndayishimiye,1,1,0,3,3.0
-Y. Minteh,1,1,0,3,3.0
-Y. Mina,1,1,0,3,3.0
-Y. Maleh,1,1,0,3,3.0
-Y. Keitel,1,1,0,3,3.0
-Y. Kabadayı,1,1,0,3,3.0
-A. Al Dakhil,1,1,0,3,3.0
-Álvaro Djaló,1,1,0,3,3.0
-Álex Muñoz,1,1,0,3,3.0
-Álex Collado,1,1,0,3,3.0
-Álex Centelles,1,1,0,3,3.0
-Á. Rodríguez,1,1,0,3,3.0
-Á. Padilla,1,1,0,3,3.0
-Z. Savva,1,1,0,3,3.0
-A. Carboni,1,1,0,3,3.0
-A. Buongiorno,1,1,0,3,3.0
-A. Broja,1,1,0,3,3.0
-A. Bonny,1,1,0,3,3.0
-A. Boakye,1,1,0,3,3.0
-A. Bianco,1,1,0,3,3.0
-A. Bernede,1,1,0,3,3.0
-A. Ben Slimane,1,1,0,3,3.0
-K. Doumbia,1,1,0,3,3.0
-0                         D. Malen,1,1,0,3,3.0
-Óscar Rodríguez,1,1,0,3,3.0
-Óscar Mingueza,1,1,0,3,3.0
-Ó. Duarte,1,1,0,3,3.0
-Íñigo Eguaras,1,1,0,3,3.0
-Í. Bergmann Jóhannesson,1,1,0,3,3.0
-Éder Militão,1,1,0,3,3.0
-É. Capoue,1,1,0,3,3.0
-Ç. Söyüncü,1,1,0,3,3.0
-Ángel Correa,1,1,0,3,3.0
-Ángel,1,1,0,3,3.0
-Álvaro Tejero,1,1,0,3,3.0
-Álvaro García,1,1,0,3,3.0
-A. Armstrong,1,1,0,3,3.0
-A. Albers,1,1,0,3,3.0
+player_name,team_name,league,year,Clutch_Matches,Clutch_Goal,Clutch_Assist,Clutch_Score,Score_per_Match
+K. Benzema,Real Madrid,La Liga,2021,10,11,0,33,3.3
+A. Sørloth,Atletico Madrid,La Liga,2024,8,9,0,27,3.375
+A. Delort,Nice,Ligue 1,2021,7,8,0,24,3.4285714285714284
+Mohamed Salah,Liverpool,Premier League,2024,8,8,0,24,3.0
+K. Mbappé,Paris Saint Germain,Ligue 1,2022,8,8,0,24,3.0
+N. Füllkrug,Werder Bremen,Bundesliga,2022,7,8,0,24,3.4285714285714284
+K. Mbappé,Paris Saint Germain,Ligue 1,2023,8,8,0,24,3.0
+A. Diallo,Manchester United,Premier League,2024,5,7,0,21,4.2
+A. Lacazette,Lyon,Ligue 1,2022,5,7,0,21,4.2
+Cristhian Stuani,Girona,La Liga,2023,6,7,0,21,3.5
+Pedro,Lazio,Serie A,2024,6,7,0,21,3.5
+Robert Lewandowski,Barcelona,La Liga,2023,5,7,0,21,4.2
+L. Martínez,Inter,Serie A,2023,5,7,0,21,4.2
+S. Guirassy,VfB Stuttgart,Bundesliga,2023,5,7,0,21,4.2
+M. Arnautović,Bologna,Serie A,2021,7,7,0,21,3.0
+T. Kleindienst,FC Heidenheim,Bundesliga,2023,6,7,0,21,3.5
+Vinícius Júnior,Real Madrid,La Liga,2021,6,6,0,18,3.0
+F. Balogun,Reims,Ligue 1,2022,6,6,0,18,3.0
+A. Kramarić,1899 Hoffenheim,Bundesliga,2023,5,6,0,18,3.6
+C. Nkunku,RB Leipzig,Bundesliga,2022,6,6,0,18,3.0
+Ferran Torres,Barcelona,La Liga,2024,5,6,0,18,3.6
+Iago Aspas,Celta Vigo,La Liga,2024,6,6,0,18,3.0
+J. David,Lille,Ligue 1,2022,6,6,0,18,3.0
+H. Kane,Bayern Munich,Bundesliga,2023,6,6,0,18,3.0
+G. Mikautadze,Lyon,Ligue 1,2024,6,6,0,18,3.0
+H. Kane,Bayern München,Bundesliga,2024,5,6,0,18,3.6
+E. Haaland,Manchester City,Premier League,2023,6,6,0,18,3.0
+E. Haaland,Borussia Dortmund,Bundesliga,2021,6,6,0,18,3.0
+Son Heung-Min,Tottenham,Premier League,2023,6,6,0,18,3.0
+Lautaro Martínez,Inter,Serie A,2022,5,6,0,18,3.6
+A. Pinamonti,Empoli,Serie A,2021,5,6,0,18,3.6
+L. Stindl,Borussia Monchengladbach,Bundesliga,2022,5,6,0,18,3.6
+Rodrigo Muniz,Fulham,Premier League,2024,6,6,0,18,3.0
+T. Kleindienst,Borussia Mönchengladbach,Bundesliga,2024,6,6,0,18,3.0
+A. Modeste,FC Koln,Bundesliga,2021,6,6,0,18,3.0
+J. David,Lille,Ligue 1,2024,6,6,0,18,3.0
+Joselu,Espanyol,La Liga,2022,6,6,0,18,3.0
+C. Stuani,Girona,La Liga,2024,6,6,0,18,3.0
+Alexander Sørloth,Villarreal,La Liga,2023,6,6,0,18,3.0
+R. Orsolini,Bologna,Serie A,2022,5,5,0,15,3.0
+A. Belotti,Torino,Serie A,2021,3,5,0,15,5.0
+N. Okafor,AC Milan,Serie A,2023,5,5,0,15,3.0
+O. Dembélé,Paris Saint Germain,Ligue 1,2024,4,5,0,15,3.75
+H. Kane,Tottenham,Premier League,2022,5,5,0,15,3.0
+K. Havertz,Arsenal,Premier League,2023,5,5,0,15,3.0
+K. Mbappé,Real Madrid,La Liga,2024,5,5,0,15,3.0
+D. Lukébakio,Sevilla,La Liga,2024,5,5,0,15,3.0
+M. Dembélé,Lyon,Ligue 1,2021,5,5,0,15,3.0
+R. Lewandowski,Barcelona,La Liga,2022,5,5,0,15,3.0
+E. Demirović,VfB Stuttgart,Bundesliga,2024,5,5,0,15,3.0
+E. Haaland,Manchester City,Premier League,2022,5,5,0,15,3.0
+Gonçalo Ramos,Paris Saint Germain,Ligue 1,2023,5,5,0,15,3.0
+G. Reyna,Borussia Dortmund,Bundesliga,2022,5,5,0,15,3.0
+R. Sterling,Manchester City,Premier League,2021,5,5,0,15,3.0
+M. Arambarri,Getafe,La Liga,2024,4,5,0,15,3.75
+Son Heung-Min,Tottenham,Premier League,2021,5,5,0,15,3.0
+C. Stuani,Girona,La Liga,2022,5,5,0,15,3.0
+Joselu,Alaves,La Liga,2021,4,5,0,15,3.75
+J. Mateta,Crystal Palace,Premier League,2024,5,5,0,15,3.0
+B. Dia,Salernitana,Serie A,2022,5,5,0,15,3.0
+M. Bülter,FC Schalke 04,Bundesliga,2022,5,5,0,15,3.0
+D. Criscito,Genoa,Serie A,2021,5,5,0,15,3.0
+Mohamed Salah,Liverpool,Premier League,2022,5,5,0,15,3.0
+Mohamed Salah,Liverpool,Premier League,2023,5,5,0,15,3.0
+A. Gouiri,Nice,Ligue 1,2021,4,5,0,15,3.75
+R. Lewandowski,Bayern Munich,Bundesliga,2021,5,5,0,15,3.0
+D. Núñez,Liverpool,Premier League,2023,4,5,0,15,3.75
+M. Rashford,Manchester United,Premier League,2022,5,5,0,15,3.0
+F. Chiesa,Juventus,Serie A,2023,5,5,0,15,3.0
+W. Ben Yedder,Monaco,Ligue 1,2021,5,5,0,15,3.0
+W. Ben Yedder,Monaco,Ligue 1,2022,4,5,0,15,3.75
+L. Openda,Lens,Ligue 1,2022,4,5,0,15,3.75
+S. Guirassy,Borussia Dortmund,Bundesliga,2024,4,5,0,15,3.75
+Borja Mayoral,Getafe,La Liga,2023,4,4,0,12,3.0
+Oihan Sancet,Athletic Club,La Liga,2024,4,4,0,12,3.0
+J. Bellingham,Real Madrid,La Liga,2024,4,4,0,12,3.0
+P. Harres,Holstein Kiel,Bundesliga,2024,3,4,0,12,4.0
+N. Jackson,Chelsea,Premier League,2023,3,4,0,12,4.0
+H. Wilson,Fulham,Premier League,2024,3,4,0,12,4.0
+A. Dovbyk,AS Roma,Serie A,2024,4,4,0,12,3.0
+I. Salah,Rennes,Ligue 1,2023,3,4,0,12,4.0
+N. Viola,Cagliari,Serie A,2023,4,4,0,12,3.0
+N. Füllkrug,Borussia Dortmund,Bundesliga,2023,4,4,0,12,3.0
+W. Zaha,Crystal Palace,Premier League,2021,3,4,0,12,4.0
+Borja Iglesias,Real Betis,La Liga,2022,4,4,0,12,3.0
+Omar Marmoush,Eintracht Frankfurt,Bundesliga,2023,4,4,0,12,3.0
+G. Simeone,Napoli,Serie A,2022,4,4,0,12,3.0
+M. Tel,Bayern Munich,Bundesliga,2022,4,4,0,12,3.0
+C. Wilson,Newcastle,Premier League,2022,4,4,0,12,3.0
+M. Terrier,Rennes,Ligue 1,2021,4,4,0,12,3.0
+M. Tel,Bayern Munich,Bundesliga,2023,4,4,0,12,3.0
+R. Mahrez,Manchester City,Premier League,2021,4,4,0,12,3.0
+R. Lukaku,AS Roma,Serie A,2023,4,4,0,12,3.0
+D. McNeil,Everton,Premier League,2022,3,4,0,12,4.0
+R. Lukaku,Inter,Serie A,2022,4,4,0,12,3.0
+José Luis Morales,Villarreal,La Liga,2022,3,4,0,12,4.0
+M. Thuram,Inter,Serie A,2024,4,4,0,12,3.0
+M. Vecino,Lazio,Serie A,2023,4,4,0,12,3.0
+M. Thuram,Inter,Serie A,2023,4,4,0,12,3.0
+M. Niang,Empoli,Serie A,2023,4,4,0,12,3.0
+M. Rashford,Manchester United,Premier League,2021,4,4,0,12,3.0
+R. Falcao,Rayo Vallecano,La Liga,2021,4,4,0,12,3.0
+M. Pašalić,Atalanta,Serie A,2021,4,4,0,12,3.0
+T. Savanier,Montpellier,Ligue 1,2022,4,4,0,12,3.0
+Juanmi,Real Betis,La Liga,2021,4,4,0,12,3.0
+M. Kean,Fiorentina,Serie A,2024,4,4,0,12,3.0
+J. Wind,VfL Wolfsburg,Bundesliga,2024,3,4,0,12,4.0
+R. Cherki,Lyon,Ligue 1,2024,4,4,0,12,3.0
+A. Griezmann,Atletico Madrid,La Liga,2024,4,4,0,12,3.0
+Matheus Cunha,Wolves,Premier League,2024,4,4,0,12,3.0
+C. Palmer,Chelsea,Premier League,2024,4,4,0,12,3.0
+C. Morris,Luton,Premier League,2023,4,4,0,12,3.0
+B. Mbeumo,Brentford,Premier League,2023,4,4,0,12,3.0
+J. Gittens,Borussia Dortmund,Bundesliga,2024,4,4,0,12,3.0
+Mohamed Salah,Liverpool,Premier League,2021,4,4,0,12,3.0
+Jorge Molina,Granada CF,La Liga,2021,4,4,0,12,3.0
+R. Højlund,Manchester United,Premier League,2023,4,4,0,12,3.0
+K. Schlotterbeck,Vfl Bochum,Bundesliga,2023,4,4,0,12,3.0
+K. Onisiwo,FSV Mainz 05,Bundesliga,2022,4,4,0,12,3.0
+Jude Bellingham,Real Madrid,La Liga,2023,4,4,0,12,3.0
+D. Rice,Arsenal,Premier League,2023,4,4,0,12,3.0
+L. Blas,Nantes,Ligue 1,2022,4,4,0,12,3.0
+A. Lacazette,Lyon,Ligue 1,2023,4,4,0,12,3.0
+E. Emegha,Strasbourg,Ligue 1,2023,4,4,0,12,3.0
+Kike García,Alaves,La Liga,2024,3,4,0,12,4.0
+A. Sánchez,Marseille,Ligue 1,2022,4,4,0,12,3.0
+A. Thomasson,Strasbourg,Ligue 1,2021,4,4,0,12,3.0
+D. Zapata,Torino,Serie A,2023,4,4,0,12,3.0
+S. Adingra,Brighton,Premier League,2023,3,4,0,12,4.0
+Luis Alberto,Lazio,Serie A,2022,4,4,0,12,3.0
+A. Mac Allister,Brighton,Premier League,2022,4,4,0,12,3.0
+Rafael Leão,AC Milan,Serie A,2022,3,4,0,12,4.0
+M. Dabbur,1899 Hoffenheim,Bundesliga,2022,4,4,0,12,3.0
+S. Machino,Holstein Kiel,Bundesliga,2024,4,4,0,12,3.0
+Lucas Paquetá,Lyon,Ligue 1,2021,4,4,0,12,3.0
+S. Guirassy,Rennes,Ligue 1,2021,3,4,0,12,4.0
+Lucas Boyé,Granada CF,La Liga,2023,4,4,0,12,3.0
+T. Abraham,AS Roma,Serie A,2022,4,4,0,12,3.0
+Son Heung-Min,Tottenham,Premier League,2022,3,4,0,12,4.0
+L. Jović,AC Milan,Serie A,2023,4,4,0,12,3.0
+E. Choupo-Moting,Bayern Munich,Bundesliga,2021,4,4,0,12,3.0
+L. Muriel,Atalanta,Serie A,2021,4,4,0,12,3.0
+L. Messi,Paris Saint Germain,Ligue 1,2022,3,4,0,12,4.0
+A. Semenyo,Bournemouth,Premier League,2024,4,4,0,12,3.0
+L. Suárez,Atletico Madrid,La Liga,2021,3,4,0,12,4.0
+L. Pellegrini,AS Roma,Serie A,2021,4,4,0,12,3.0
+L. Jović,Fiorentina,Serie A,2022,4,4,0,12,3.0
+Á. Correa,Atletico Madrid,La Liga,2024,4,4,0,12,3.0
+S. Mounié,Stade Brestois 29,Ligue 1,2021,4,4,0,12,3.0
+Gonçalo Ramos,Paris Saint Germain,Ligue 1,2024,3,4,0,12,4.0
+O. Watkins,Aston Villa,Premier League,2023,4,4,0,12,3.0
+H. Barnes,Leicester,Premier League,2022,4,4,0,12,3.0
+H. Diallo,Strasbourg,Ligue 1,2022,4,4,0,12,3.0
+Y. Wissa,Brentford,Premier League,2021,4,4,0,12,3.0
+Y. Wissa,Brentford,Premier League,2022,4,4,0,12,3.0
+G. Rutter,1899 Hoffenheim,Bundesliga,2021,3,3,0,9,3.0
+Álvaro Morata,Atletico Madrid,La Liga,2022,2,3,0,9,4.5
+A. Adli,Bayer Leverkusen,Bundesliga,2023,3,3,0,9,3.0
+Y. Wissa,Brentford,Premier League,2024,3,3,0,9,3.0
+Y. Moukoko,Borussia Dortmund,Bundesliga,2022,3,3,0,9,3.0
+H. Diallo,Strasbourg,Ligue 1,2021,3,3,0,9,3.0
+H. Barnes,Newcastle,Premier League,2023,2,3,0,9,4.5
+Gorka Guruzeta,Athletic Club,La Liga,2024,3,3,0,9,3.0
+G. Ilenikhena,Monaco,Ligue 1,2024,2,3,0,9,4.5
+O. Óskarsson,Real Sociedad,La Liga,2024,2,3,0,9,4.5
+O. Édouard,Crystal Palace,Premier League,2021,2,3,0,9,4.5
+O. Watkins,Aston Villa,Premier League,2022,3,3,0,9,3.0
+O. Watkins,Aston Villa,Premier League,2021,3,3,0,9,3.0
+O. Vilhelmsson,SV Darmstadt 98,Bundesliga,2023,3,3,0,9,3.0
+C. Akpom,Lille,Ligue 1,2024,3,3,0,9,3.0
+Bruno Fernandes,Manchester United,Premier League,2023,3,3,0,9,3.0
+Álex Baena,Villarreal,La Liga,2022,2,3,0,9,4.5
+Á. Di María,Paris Saint Germain,Ligue 1,2021,3,3,0,9,3.0
+A. Ayew,LE Havre,Ligue 1,2023,2,3,0,9,4.5
+Á. Correa,Atletico Madrid,La Liga,2021,3,3,0,9,3.0
+G. Simeone,Verona,Serie A,2021,3,3,0,9,3.0
+Gonçalo Guedes,Valencia,La Liga,2021,3,3,0,9,3.0
+L. Martínez,Inter,Serie A,2024,3,3,0,9,3.0
+S. Skrzybski,Holstein Kiel,Bundesliga,2024,2,3,0,9,4.5
+S. Milinković-Savić,Lazio,Serie A,2022,3,3,0,9,3.0
+S. Milinković-Savić,Lazio,Serie A,2021,3,3,0,9,3.0
+S. Michel,Union Berlin,Bundesliga,2022,2,3,0,9,4.5
+S. McTominay,Manchester United,Premier League,2023,2,3,0,9,4.5
+S. Mavididi,Montpellier,Ligue 1,2022,3,3,0,9,3.0
+Sergio Canales,Real Betis,La Liga,2021,3,3,0,9,3.0
+L. Trossard,Arsenal,Premier League,2023,3,3,0,9,3.0
+Darder,Espanyol,La Liga,2022,3,3,0,9,3.0
+L. Sané,Bayern München,Bundesliga,2024,3,3,0,9,3.0
+L. Samardžić,Udinese,Serie A,2023,3,3,0,9,3.0
+A. Rabiot,Marseille,Ligue 1,2024,3,3,0,9,3.0
+A. Rabiot,Juventus,Serie A,2022,2,3,0,9,4.5
+A. Pinamonti,Genoa,Serie A,2024,3,3,0,9,3.0
+E. Buendía,Aston Villa,Premier League,2022,3,3,0,9,3.0
+L. Openda,RB Leipzig,Bundesliga,2023,3,3,0,9,3.0
+E. Adebayo,Luton,Premier League,2023,3,3,0,9,3.0
+Douglas Luiz,Aston Villa,Premier League,2023,3,3,0,9,3.0
+Dodi Lukebakio,Sevilla,La Liga,2023,3,3,0,9,3.0
+Diogo Jota,Liverpool,Premier League,2023,3,3,0,9,3.0
+L. Pavoletti,Cagliari,Serie A,2023,2,3,0,9,4.5
+Lucas Pérez,Cadiz,La Liga,2022,3,3,0,9,3.0
+S. Katompa Mvumpa,VfB Stuttgart,Bundesliga,2023,3,3,0,9,3.0
+S. Katompa Mvumpa,VfB Stuttgart,Bundesliga,2022,3,3,0,9,3.0
+A. Sánchez,Inter,Serie A,2021,3,3,0,9,3.0
+S. Gnabry,Bayern München,Bundesliga,2024,3,3,0,9,3.0
+Dani Olmo,Barcelona,La Liga,2024,3,3,0,9,3.0
+Lee Jae-Sung,FSV Mainz 05,Bundesliga,2023,2,3,0,9,4.5
+Sávio,Girona,La Liga,2023,2,3,0,9,4.5
+Son Heung-Min,Tottenham,Premier League,2024,3,3,0,9,3.0
+A. Nordin,Saint Etienne,Ligue 1,2021,3,3,0,9,3.0
+Sobrino,Cadiz,La Liga,2021,3,3,0,9,3.0
+L. Bailey,Aston Villa,Premier League,2023,3,3,0,9,3.0
+E. Dennis,Watford,Premier League,2021,3,3,0,9,3.0
+E. Demirović,FC Augsburg,Bundesliga,2023,3,3,0,9,3.0
+L. Ajorque,Stade Brestois 29,Ligue 1,2024,3,3,0,9,3.0
+Lautaro Martínez,Inter,Serie A,2021,3,3,0,9,3.0
+Lamine Yamal,Barcelona,La Liga,2024,3,3,0,9,3.0
+L. de Jong,Barcelona,La Liga,2021,3,3,0,9,3.0
+L. Waldschmidt,VfL Wolfsburg,Bundesliga,2022,3,3,0,9,3.0
+S. Fofana,Lens,Ligue 1,2021,3,3,0,9,3.0
+S. El Shaarawy,AS Roma,Serie A,2021,3,3,0,9,3.0
+S. Bergwijn,Tottenham,Premier League,2021,2,3,0,9,4.5
+S. Mané,Liverpool,Premier League,2021,2,3,0,9,4.5
+Lucas Vázquez,Real Madrid,La Liga,2022,3,3,0,9,3.0
+D. Zakaria,Monaco,Ligue 1,2024,3,3,0,9,3.0
+D. Welbeck,Brighton,Premier League,2021,3,3,0,9,3.0
+D. Vlahović,Juventus,Serie A,2024,3,3,0,9,3.0
+D. Vlahović,Juventus,Serie A,2023,3,3,0,9,3.0
+Rúben Neves,Wolves,Premier League,2021,3,3,0,9,3.0
+Rodrygo,Real Madrid,La Liga,2022,3,3,0,9,3.0
+Rodrigo,Leeds,Premier League,2022,3,3,0,9,3.0
+Rodri,Manchester City,Premier League,2023,3,3,0,9,3.0
+Roberto Firmino,Liverpool,Premier League,2022,3,3,0,9,3.0
+Richarlison,Tottenham,Premier League,2024,3,3,0,9,3.0
+S. Giménez,AC Milan,Serie A,2024,3,3,0,9,3.0
+M. Bayo,LE Havre,Ligue 1,2023,2,3,0,9,4.5
+M. Bayo,Clermont Foot,Ligue 1,2021,3,3,0,9,3.0
+D. Undav,VfB Stuttgart,Bundesliga,2024,3,3,0,9,3.0
+D. Undav,VfB Stuttgart,Bundesliga,2023,3,3,0,9,3.0
+A. Mitrović,Fulham,Premier League,2022,3,3,0,9,3.0
+A. Milik,Marseille,Ligue 1,2021,3,3,0,9,3.0
+A. Milik,Juventus,Serie A,2022,3,3,0,9,3.0
+T. Coulibaly,VfB Stuttgart,Bundesliga,2022,3,3,0,9,3.0
+K. Stöger,Vfl Bochum,Bundesliga,2023,3,3,0,9,3.0
+E. Guessand,Nice,Ligue 1,2023,3,3,0,9,3.0
+K. Nakamura,Reims,Ligue 1,2024,3,3,0,9,3.0
+D. Szoboszlai,RB Leipzig,Bundesliga,2022,3,3,0,9,3.0
+D. Solanke,Tottenham,Premier League,2024,3,3,0,9,3.0
+M. Antonio,West Ham,Premier League,2021,2,3,0,9,4.5
+M. Amoura,VfL Wolfsburg,Bundesliga,2024,3,3,0,9,3.0
+Raphinha,Barcelona,La Liga,2024,3,3,0,9,3.0
+Abdón Prats,Mallorca,La Liga,2023,2,3,0,9,4.5
+Rafael Leão,AC Milan,Serie A,2021,3,3,0,9,3.0
+D. Solanke,Bournemouth,Premier League,2023,3,3,0,9,3.0
+D. Ouattara,Bournemouth,Premier League,2024,3,3,0,9,3.0
+D. Origi,Liverpool,Premier League,2021,3,3,0,9,3.0
+E. Nwaneri,Arsenal,Premier League,2024,3,3,0,9,3.0
+Jubal,Auxerre,Ligue 1,2024,2,3,0,9,4.5
+T. Pukki,Norwich,Premier League,2021,3,3,0,9,3.0
+A. Lozano,Cadiz,La Liga,2021,3,3,0,9,3.0
+A. Lookman,Atalanta,Serie A,2024,3,3,0,9,3.0
+K. Mbappé,Paris Saint Germain,Ligue 1,2021,3,3,0,9,3.0
+K. Gameiro,Strasbourg,Ligue 1,2022,3,3,0,9,3.0
+T. Koopmeiners,Atalanta,Serie A,2022,3,3,0,9,3.0
+M. Ducksch,Werder Bremen,Bundesliga,2022,3,3,0,9,3.0
+R. Piccoli,Lecce,Serie A,2023,3,3,0,9,3.0
+Anastasios Douvikas,Celta Vigo,La Liga,2023,3,3,0,9,3.0
+R. Orsolini,Bologna,Serie A,2024,3,3,0,9,3.0
+M. Destro,Genoa,Serie A,2021,2,3,0,9,4.5
+M. Depay,Barcelona,La Liga,2021,3,3,0,9,3.0
+D. Mosquera,Verona,Serie A,2024,3,3,0,9,3.0
+D. Malen,Borussia Dortmund,Bundesliga,2023,3,3,0,9,3.0
+R. Kolo Muani,Paris Saint Germain,Ligue 1,2023,3,3,0,9,3.0
+Ante Budimir,Osasuna,La Liga,2023,3,3,0,9,3.0
+Ansu Fati,Barcelona,La Liga,2022,3,3,0,9,3.0
+M. Greenwood,Marseille,Ligue 1,2024,3,3,0,9,3.0
+D. Maldini,Monza,Serie A,2023,3,3,0,9,3.0
+D. Lukébakio,Hertha Berlin,Bundesliga,2022,3,3,0,9,3.0
+M. Fofana,Lyon,Ligue 1,2024,3,3,0,9,3.0
+M. Fofana,Lyon,Ligue 1,2023,3,3,0,9,3.0
+M. El Haddadi,Leganes,La Liga,2024,3,3,0,9,3.0
+D. Frattesi,Inter,Serie A,2023,3,3,0,9,3.0
+M. Ingvartsen,FSV Mainz 05,Bundesliga,2022,3,3,0,9,3.0
+A. Kalimuendo,Rennes,Ligue 1,2024,3,3,0,9,3.0
+T. Souček,West Ham,Premier League,2023,3,3,0,9,3.0
+T. Savanier,Montpellier,Ligue 1,2021,3,3,0,9,3.0
+João Pedro,Brighton,Premier League,2024,3,3,0,9,3.0
+João Pedro,Brighton,Premier League,2023,3,3,0,9,3.0
+E. Wahi,Montpellier,Ligue 1,2022,3,3,0,9,3.0
+E. Smith Rowe,Arsenal,Premier League,2021,3,3,0,9,3.0
+João Félix,Atletico Madrid,La Liga,2022,2,3,0,9,4.5
+José Luis Morales,Villarreal,La Liga,2023,3,3,0,9,3.0
+K. Benzema,Real Madrid,La Liga,2022,2,3,0,9,4.5
+E. Rashani,Clermont Foot,Ligue 1,2021,2,3,0,9,4.5
+M. Ingvartsen,FSV Mainz 05,Bundesliga,2021,3,3,0,9,3.0
+R. Højlund,Atalanta,Serie A,2022,3,3,0,9,3.0
+M. Pantović,VfL BOCHUM,Bundesliga,2021,3,3,0,9,3.0
+D. Dumfries,Inter,Serie A,2024,3,3,0,9,3.0
+D. Ciofani,Cremonese,Serie A,2022,3,3,0,9,3.0
+M. Retegui,Atalanta,Serie A,2024,3,3,0,9,3.0
+M. Pessina,Monza,Serie A,2023,3,3,0,9,3.0
+A. Isak,Newcastle,Premier League,2023,3,3,0,9,3.0
+A. Isak,Newcastle,Premier League,2022,3,3,0,9,3.0
+J. Ramsey,Aston Villa,Premier League,2021,3,3,0,9,3.0
+F. Bonazzoli,Salernitana,Serie A,2021,3,3,0,9,3.0
+J. Ward-Prowse,Southampton,Premier League,2022,3,3,0,9,3.0
+J. Ward-Prowse,Southampton,Premier League,2021,3,3,0,9,3.0
+J. Vásquez,Genoa,Serie A,2024,3,3,0,9,3.0
+J. Vardy,Leicester,Premier League,2021,3,3,0,9,3.0
+E. Ünal,Getafe,La Liga,2022,3,3,0,9,3.0
+Jorginho,Chelsea,Premier League,2021,3,3,0,9,3.0
+M. Thuram,Borussia Monchengladbach,Bundesliga,2022,3,3,0,9,3.0
+M. Terrier,Rennes,Ligue 1,2022,3,3,0,9,3.0
+Carlos Soler,Valencia,La Liga,2021,3,3,0,9,3.0
+Matheus Cunha,Wolves,Premier League,2023,3,3,0,9,3.0
+R. Bentancur,Tottenham,Premier League,2022,2,3,0,9,4.5
+B. Bourigeaud,Rennes,Ligue 1,2023,3,3,0,9,3.0
+Marcos Llorente,Atletico Madrid,La Liga,2023,3,3,0,9,3.0
+Marco Asensio,Real Madrid,La Liga,2022,3,3,0,9,3.0
+M. Đurić,Verona,Serie A,2023,3,3,0,9,3.0
+B. Dia,Villarreal,La Liga,2021,3,3,0,9,3.0
+Pere Milla,Espanyol,La Liga,2024,3,3,0,9,3.0
+Pere Milla,Elche,La Liga,2021,3,3,0,9,3.0
+Mikel Oyarzabal,Real Sociedad,La Liga,2021,3,3,0,9,3.0
+C. Summerville,Leeds,Premier League,2022,3,3,0,9,3.0
+Melero,Levante,La Liga,2021,3,3,0,9,3.0
+C. Immobile,Lazio,Serie A,2021,3,3,0,9,3.0
+Muniain,Athletic Club,La Liga,2021,3,3,0,9,3.0
+Mostafa Mohamed,Nantes,Ligue 1,2024,3,3,0,9,3.0
+Mostafa Mohamed,Nantes,Ligue 1,2022,3,3,0,9,3.0
+F. Wirtz,Bayer Leverkusen,Bundesliga,2023,2,3,0,9,4.5
+Vedat Muriqi,Mallorca,La Liga,2023,3,3,0,9,3.0
+V. Osimhen,Napoli,Serie A,2021,3,3,0,9,3.0
+V. Muriqi,Mallorca,La Liga,2024,3,3,0,9,3.0
+J. Durán,Aston Villa,Premier League,2024,3,3,0,9,3.0
+J. Durán,Aston Villa,Premier League,2023,2,3,0,9,4.5
+J. Musiala,Bayern München,Bundesliga,2024,3,3,0,9,3.0
+J. Mateta,Crystal Palace,Premier League,2023,3,3,0,9,3.0
+F. Honorat,Stade Brestois 29,Ligue 1,2021,3,3,0,9,3.0
+J. Maddison,Leicester,Premier League,2021,3,3,0,9,3.0
+Morales,Levante,La Liga,2021,3,3,0,9,3.0
+C. Pulišić,AC Milan,Serie A,2023,3,3,0,9,3.0
+C. Palmer,Chelsea,Premier League,2023,3,3,0,9,3.0
+C. Nkunku,RB Leipzig,Bundesliga,2021,3,3,0,9,3.0
+N. Maupay,Brighton,Premier League,2021,3,3,0,9,3.0
+B. Mbeumo,Brentford,Premier League,2022,3,3,0,9,3.0
+B. Johnson,Nottingham Forest,Premier League,2022,3,3,0,9,3.0
+P. Schick,Bayer Leverkusen,Bundesliga,2021,3,3,0,9,3.0
+P. Nebel,FSV Mainz 05,Bundesliga,2024,3,3,0,9,3.0
+Ayoze Pérez,Villarreal,La Liga,2024,3,3,0,9,3.0
+A. Gigović,Holstein Kiel,Bundesliga,2024,3,3,0,9,3.0
+A. Garnacho,Manchester United,Premier League,2024,3,3,0,9,3.0
+A. Garnacho,Manchester United,Premier League,2022,3,3,0,9,3.0
+Fábio Silva,Las Palmas,La Liga,2024,3,3,0,9,3.0
+I. Toney,Brentford,Premier League,2021,2,3,0,9,4.5
+J. Brandt,Borussia Dortmund,Bundesliga,2022,3,3,0,9,3.0
+J. Bowen,West Ham,Premier League,2021,3,3,0,9,3.0
+J. Ayew,Leicester,Premier League,2024,3,3,0,9,3.0
+J. David,Lille,Ligue 1,2023,2,3,0,9,4.5
+J. Cajuste,Reims,Ligue 1,2022,3,3,0,9,3.0
+P. Foden,Manchester City,Premier League,2024,3,3,0,9,3.0
+P. Dybala,AS Roma,Serie A,2022,3,3,0,9,3.0
+Beto,Udinese,Serie A,2021,3,3,0,9,3.0
+Bernardo Silva,Manchester City,Premier League,2023,3,3,0,9,3.0
+B. Šeško,RB Leipzig,Bundesliga,2023,2,3,0,9,4.5
+N. Krstović,Lecce,Serie A,2023,3,3,0,9,3.0
+N. Jackson,Villarreal,La Liga,2022,3,3,0,9,3.0
+N. González,Fiorentina,Serie A,2022,3,3,0,9,3.0
+C. Gallagher,Crystal Palace,Premier League,2021,3,3,0,9,3.0
+C. Gakpo,Liverpool,Premier League,2023,3,3,0,9,3.0
+X. Chavalerin,Estac Troyes,Ligue 1,2022,3,3,0,9,3.0
+Willian José,Real Betis,La Liga,2021,3,3,0,9,3.0
+W. Saïd,Lens,Ligue 1,2023,3,3,0,9,3.0
+I. Koné,Lorient,Ligue 1,2022,3,3,0,9,3.0
+Hwang Ui-Jo,Bordeaux,Ligue 1,2021,3,3,0,9,3.0
+J. Alvarez,Atletico Madrid,La Liga,2024,3,3,0,9,3.0
+W. McKennie,Juventus,Serie A,2021,3,3,0,9,3.0
+O. McBurnie,Sheffield Utd,Premier League,2023,3,3,0,9,3.0
+Borja Mayoral,Getafe,La Liga,2024,3,3,0,9,3.0
+Borja Mayoral,Getafe,La Liga,2022,3,3,0,9,3.0
+Borja Iglesias,Real Betis,La Liga,2021,3,3,0,9,3.0
+Omar Marmoush,Eintracht Frankfurt,Bundesliga,2024,3,3,0,9,3.0
+O. Burke,Werder Bremen,Bundesliga,2024,3,3,0,9,3.0
+C. De Ketelaere,Atalanta,Serie A,2023,3,3,0,9,3.0
+C. Baumgartner,RB Leipzig,Bundesliga,2023,3,3,0,9,3.0
+C. Bakambu,Marseille,Ligue 1,2021,3,3,0,9,3.0
+N. Woltemade,VfB Stuttgart,Bundesliga,2024,3,3,0,9,3.0
+Gerard Moreno,Villarreal,La Liga,2022,3,3,0,9,3.0
+G. Scamacca,Sassuolo,Serie A,2021,3,3,0,9,3.0
+G. Laborde,Rennes,Ligue 1,2021,3,3,0,9,3.0
+Gabriel Martinelli,Arsenal,Premier League,2023,2,3,0,9,4.5
+Gabriel Martinelli,Arsenal,Premier League,2022,3,3,0,9,3.0
+İ. Gündoğan,Manchester City,Premier League,2021,1,2,0,6,6.0
+A. Abdi,Nice,Ligue 1,2024,2,2,0,6,3.0
+G. Álvarez,Getafe,La Liga,2022,2,2,0,6,3.0
+G. Laborde,Nice,Ligue 1,2022,2,2,0,6,3.0
+G. Lapadula,Cagliari,Serie A,2023,2,2,0,6,3.0
+G. Lo Celso,Real Betis,La Liga,2024,2,2,0,6,3.0
+G. Maggiore,Salernitana,Serie A,2023,2,2,0,6,3.0
+Gerard Moreno,Villarreal,La Liga,2021,2,2,0,6,3.0
+Gerard Moreno,Villarreal,La Liga,2023,2,2,0,6,3.0
+Gerard Moreno,Villarreal,La Liga,2024,2,2,0,6,3.0
+Y. Poulsen,RB Leipzig,Bundesliga,2024,2,2,0,6,3.0
+Y. Poulsen,RB Leipzig,Bundesliga,2023,2,2,0,6,3.0
+Y. Poulsen,RB Leipzig,Bundesliga,2022,2,2,0,6,3.0
+Y. Moukoko,Borussia Dortmund,Bundesliga,2023,2,2,0,6,3.0
+Y. Herrera,Girona,La Liga,2022,2,2,0,6,3.0
+Y. En-Nesyri,Sevilla,La Liga,2022,2,2,0,6,3.0
+Gonçalo Paciência,Vfl Bochum,Bundesliga,2023,2,2,0,6,3.0
+H. Ekitike,Reims,Ligue 1,2021,2,2,0,6,3.0
+H. Barnes,Newcastle,Premier League,2024,2,2,0,6,3.0
+Gorka Guruzeta,Athletic Club,La Liga,2022,2,2,0,6,3.0
+G. Isaksen,Lazio,Serie A,2024,2,2,0,6,3.0
+G. Hirst,Ipswich,Premier League,2024,2,2,0,6,3.0
+G. Gineitis,Torino,Serie A,2024,2,2,0,6,3.0
+G. Fabbian,Bologna,Serie A,2023,2,2,0,6,3.0
+Y. Asprilla,Girona,La Liga,2024,2,2,0,6,3.0
+A. Doucouré,Everton,Premier League,2021,2,2,0,6,3.0
+Borja Mayoral,Getafe,La Liga,2021,2,2,0,6,3.0
+Beto,Udinese,Serie A,2022,2,2,0,6,3.0
+Omar Marmoush,VfB Stuttgart,Bundesliga,2021,2,2,0,6,3.0
+Oihan Sancet,Athletic Club,La Liga,2023,2,2,0,6,3.0
+P. Jansson,Brentford,Premier League,2021,2,2,0,6,3.0
+O. Burke,Werder Bremen,Bundesliga,2022,2,2,0,6,3.0
+C. Coady,Wolves,Premier League,2021,2,2,0,6,3.0
+C. Biraghi,Fiorentina,Serie A,2022,2,2,0,6,3.0
+C. Baumgartner,1899 Hoffenheim,Bundesliga,2021,1,2,0,6,6.0
+C. Bakambu,Real Betis,La Liga,2024,2,2,0,6,3.0
+Nuno Tavares,Marseille,Ligue 1,2022,2,2,0,6,3.0
+Neymar,Paris Saint Germain,Ligue 1,2021,2,2,0,6,3.0
+N. Zaniolo,Aston Villa,Premier League,2023,2,2,0,6,3.0
+N. Weiper,FSV Mainz 05,Bundesliga,2022,2,2,0,6,3.0
+O. Édouard,Crystal Palace,Premier League,2023,2,2,0,6,3.0
+C. Antwi-Adjei,Vfl Bochum,Bundesliga,2023,2,2,0,6,3.0
+C. Immobile,Lazio,Serie A,2022,2,2,0,6,3.0
+N. Vlašić,Torino,Serie A,2024,2,2,0,6,3.0
+N. Tagliafico,Lyon,Ligue 1,2023,2,2,0,6,3.0
+C. Gómez,Rennes,Ligue 1,2024,2,2,0,6,3.0
+C. Gytkjær,Venezia,Serie A,2024,2,2,0,6,3.0
+C. Gallagher,Chelsea,Premier League,2023,2,2,0,6,3.0
+C. Ekuban,Genoa,Serie A,2023,2,2,0,6,3.0
+C. Dessers,Cremonese,Serie A,2022,2,2,0,6,3.0
+N. Schmidt,Werder Bremen,Bundesliga,2022,2,2,0,6,3.0
+N. Paz,Como,Serie A,2024,2,2,0,6,3.0
+N. O'Reilly,Manchester City,Premier League,2024,2,2,0,6,3.0
+N. Molina,Udinese,Serie A,2021,2,2,0,6,3.0
+N. Mbuku,Reims,Ligue 1,2021,2,2,0,6,3.0
+P. Bamford,Leeds,Premier League,2021,2,2,0,6,3.0
+P. Aubameyang,Marseille,Ligue 1,2023,2,2,0,6,3.0
+Brais Méndez,Celta Vigo,La Liga,2021,2,2,0,6,3.0
+P. Foden,Manchester City,Premier League,2023,2,2,0,6,3.0
+P. Foden,Manchester City,Premier League,2021,2,2,0,6,3.0
+P. Dybala,Juventus,Serie A,2021,2,2,0,6,3.0
+P. Dybala,AS Roma,Serie A,2023,2,2,0,6,3.0
+Beto,Everton,Premier League,2023,2,2,0,6,3.0
+Bernardo Silva,Manchester City,Premier League,2021,2,2,0,6,3.0
+Bebé,Rayo Vallecano,La Liga,2023,2,2,0,6,3.0
+Barrenetxea,Real Sociedad,La Liga,2022,2,2,0,6,3.0
+N. Matić,AS Roma,Serie A,2022,2,2,0,6,3.0
+N. Kalinić,Verona,Serie A,2021,2,2,0,6,3.0
+N. González,Fiorentina,Serie A,2023,2,2,0,6,3.0
+N. González,Fiorentina,Serie A,2021,2,2,0,6,3.0
+N. Fekir,Real Betis,La Liga,2022,2,2,0,6,3.0
+C. Kouamé,Fiorentina,Serie A,2023,2,2,0,6,3.0
+C. Itten,SpVgg Greuther Furth,Bundesliga,2021,2,2,0,6,3.0
+C. Immobile,Lazio,Serie A,2023,2,2,0,6,3.0
+C. Pulišić,AC Milan,Serie A,2024,2,2,0,6,3.0
+Memphis Depay,Atletico Madrid,La Liga,2023,2,2,0,6,3.0
+N. Edjouma,Toulouse,Ligue 1,2024,2,2,0,6,3.0
+Myrto Uzuni,Granada CF,La Liga,2023,2,2,0,6,3.0
+C. Nørgaard,Brentford,Premier League,2024,2,2,0,6,3.0
+Pedro,Lazio,Serie A,2022,2,2,0,6,3.0
+Paulinho,Bayer Leverkusen,Bundesliga,2021,1,2,0,6,6.0
+B. Saka,Arsenal,Premier League,2022,2,2,0,6,3.0
+B. Saka,Arsenal,Premier League,2021,2,2,0,6,3.0
+B. Mbeumo,Brentford,Premier League,2024,2,2,0,6,3.0
+B. Hollerbach,Union Berlin,Bundesliga,2024,2,2,0,6,3.0
+Pablo Torre,Barcelona,La Liga,2024,1,2,0,6,6.0
+Pablo Fornals,West Ham,Premier League,2021,2,2,0,6,3.0
+P. Schick,Bayer Leverkusen,Bundesliga,2024,2,2,0,6,3.0
+P. Onuachu,Southampton,Premier League,2024,2,2,0,6,3.0
+P. Groß,Brighton,Premier League,2022,2,2,0,6,3.0
+R. Andrich,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+Portu,Girona,La Liga,2023,2,2,0,6,3.0
+Philippe Coutinho,Barcelona,La Liga,2021,2,2,0,6,3.0
+B. Embolo,Monaco,Ligue 1,2022,2,2,0,6,3.0
+B. Embolo,Borussia Monchengladbach,Bundesliga,2021,2,2,0,6,3.0
+B. Dieng,Lorient,Ligue 1,2023,2,2,0,6,3.0
+B. Dieng,Angers,Ligue 1,2024,2,2,0,6,3.0
+B. Diakité,Lille,Ligue 1,2023,2,2,0,6,3.0
+B. Dia,Salernitana,Serie A,2023,1,2,0,6,6.0
+B. De Cordova-Reid,Fulham,Premier League,2023,2,2,0,6,3.0
+R. Del Castillo,Stade Brestois 29,Ligue 1,2023,2,2,0,6,3.0
+Mikel Vesga,Athletic Club,La Liga,2022,2,2,0,6,3.0
+Mikel Oyarzabal,Real Sociedad,La Liga,2023,2,2,0,6,3.0
+Mikel Merino,Real Sociedad,La Liga,2023,2,2,0,6,3.0
+Mikel Merino,Arsenal,Premier League,2024,1,2,0,6,6.0
+C. Wilson,Newcastle,Premier League,2023,2,2,0,6,3.0
+B. Bourigeaud,Rennes,Ligue 1,2022,2,2,0,6,3.0
+B. Barcola,Paris Saint Germain,Ligue 1,2024,2,2,0,6,3.0
+B. Barcola,Lyon,Ligue 1,2022,2,2,0,6,3.0
+Matheus Cunha,Atletico Madrid,La Liga,2021,2,2,0,6,3.0
+Martín Zubimendi,Real Sociedad,La Liga,2023,2,2,0,6,3.0
+Marquinhos,Paris Saint Germain,Ligue 1,2021,2,2,0,6,3.0
+Marco Asensio,Aston Villa,Premier League,2024,2,2,0,6,3.0
+Marc Cardona,Las Palmas,La Liga,2023,2,2,0,6,3.0
+Carlos Benavídez,Alaves,La Liga,2023,2,2,0,6,3.0
+C. Ünder,Marseille,Ligue 1,2021,2,2,0,6,3.0
+C. Wood,Nottingham Forest,Premier League,2023,2,2,0,6,3.0
+M. Ødegaard,Arsenal,Premier League,2022,2,2,0,6,3.0
+M. Ødegaard,Arsenal,Premier League,2021,2,2,0,6,3.0
+M. Weiser,Werder Bremen,Bundesliga,2024,2,2,0,6,3.0
+M. Vecino,Lazio,Serie A,2024,2,2,0,6,3.0
+R. Aït-Nouri,Wolves,Premier League,2024,2,2,0,6,3.0
+D. Bakwa,Strasbourg,Ligue 1,2024,2,2,0,6,3.0
+M. Thorsby,Sampdoria,Serie A,2021,2,2,0,6,3.0
+M. Svanberg,VfL Wolfsburg,Bundesliga,2024,2,2,0,6,3.0
+Cristiano Ronaldo,Manchester United,Premier League,2021,2,2,0,6,3.0
+M. Solomon,Fulham,Premier League,2022,2,2,0,6,3.0
+M. Simon,Nantes,Ligue 1,2022,2,2,0,6,3.0
+M. Simon,Nantes,Ligue 1,2021,2,2,0,6,3.0
+R. Cabella,Lille,Ligue 1,2022,2,2,0,6,3.0
+R. Borré,Eintracht Frankfurt,Bundesliga,2022,2,2,0,6,3.0
+R. Barkley,Nice,Ligue 1,2022,1,2,0,6,6.0
+R. Barkley,Luton,Premier League,2023,2,2,0,6,3.0
+R. Barkley,Aston Villa,Premier League,2024,2,2,0,6,3.0
+R. Baku,VfL Wolfsburg,Bundesliga,2022,2,2,0,6,3.0
+B. Cristante,AS Roma,Serie A,2024,2,2,0,6,3.0
+B. Cristante,AS Roma,Serie A,2023,2,2,0,6,3.0
+B. Brahimi,Nice,Ligue 1,2022,2,2,0,6,3.0
+D. Doekhi,Union Berlin,Bundesliga,2022,2,2,0,6,3.0
+D. Calvert-Lewin,Everton,Premier League,2021,2,2,0,6,3.0
+M. O'Riley,Brighton,Premier League,2024,2,2,0,6,3.0
+M. Mount,Chelsea,Premier League,2021,1,2,0,6,6.0
+M. Lopez,Sassuolo,Serie A,2021,2,2,0,6,3.0
+M. Satriano,Stade Brestois 29,Ligue 1,2023,2,2,0,6,3.0
+M. Sahi,Strasbourg,Ligue 1,2023,2,2,0,6,3.0
+M. Richter,Hertha Berlin,Bundesliga,2022,2,2,0,6,3.0
+M. Reus,Borussia Dortmund,Bundesliga,2023,2,2,0,6,3.0
+M. Reus,Borussia Dortmund,Bundesliga,2021,2,2,0,6,3.0
+M. Politano,Napoli,Serie A,2023,2,2,0,6,3.0
+M. Pjaca,Torino,Serie A,2021,2,2,0,6,3.0
+D. Caligiuri,FC Augsburg,Bundesliga,2021,2,2,0,6,3.0
+D. Brooks,Bournemouth,Premier League,2024,2,2,0,6,3.0
+D. Berardi,Sassuolo,Serie A,2023,2,2,0,6,3.0
+D. Berardi,Sassuolo,Serie A,2022,1,2,0,6,6.0
+R. Hack,Borussia Monchengladbach,Bundesliga,2023,1,2,0,6,6.0
+R. Gosens,Inter,Serie A,2022,2,2,0,6,3.0
+Ayoze Pérez,Leicester,Premier League,2021,1,2,0,6,6.0
+Aurélio Buta,Eintracht Frankfurt,Bundesliga,2022,2,2,0,6,3.0
+Assane Diao,Como,Serie A,2024,2,2,0,6,3.0
+Asier Villalibre,Athletic Club,La Liga,2021,2,2,0,6,3.0
+Arthur Cabral,Fiorentina,Serie A,2022,2,2,0,6,3.0
+Arkaitz Mariezkurrena,Real Sociedad,La Liga,2024,2,2,0,6,3.0
+R. Falcao,Rayo Vallecano,La Liga,2022,2,2,0,6,3.0
+R. Dōan,SC Freiburg,Bundesliga,2022,2,2,0,6,3.0
+R. Doan,SC Freiburg,Bundesliga,2024,1,2,0,6,6.0
+R. Lukaku,Chelsea,Premier League,2021,2,2,0,6,3.0
+M. Olise,Crystal Palace,Premier League,2022,2,2,0,6,3.0
+D. Drexler,FC Schalke 04,Bundesliga,2022,2,2,0,6,3.0
+D. Downs,1.FC Köln,Bundesliga,2023,2,2,0,6,3.0
+D. Doué,Rennes,Ligue 1,2022,2,2,0,6,3.0
+M. El Idrissy,Ajaccio,Ligue 1,2022,2,2,0,6,3.0
+M. Kömür,FC Augsburg,Bundesliga,2024,2,2,0,6,3.0
+M. Kudus,West Ham,Premier League,2023,2,2,0,6,3.0
+M. Kovačić,Manchester City,Premier League,2024,2,2,0,6,3.0
+D. Ings,Aston Villa,Premier League,2021,2,2,0,6,3.0
+D. Huseinbašić,FC Koln,Bundesliga,2022,2,2,0,6,3.0
+D. Gray,Everton,Premier League,2022,2,2,0,6,3.0
+M. Jensen,Brentford,Premier League,2022,2,2,0,6,3.0
+M. Icardi,Paris Saint Germain,Ligue 1,2021,2,2,0,6,3.0
+M. Hummels,Borussia Dortmund,Bundesliga,2023,2,2,0,6,3.0
+M. Guéhi,Crystal Palace,Premier League,2024,2,2,0,6,3.0
+M. Guilavogui,Lens,Ligue 1,2023,2,2,0,6,3.0
+M. Guilavogui,FC St. Pauli,Bundesliga,2024,2,2,0,6,3.0
+M. Pessina,Monza,Serie A,2022,2,2,0,6,3.0
+R. Healey,Toulouse,Ligue 1,2022,2,2,0,6,3.0
+R. Hamouma,Saint Etienne,Ligue 1,2021,2,2,0,6,3.0
+R. Kristensen,Leeds,Premier League,2022,2,2,0,6,3.0
+R. Kolo Muani,Paris Saint Germain,Ligue 1,2024,2,2,0,6,3.0
+R. Kolo Muani,Nantes,Ligue 1,2021,2,2,0,6,3.0
+Arda Güler,Real Madrid,La Liga,2023,2,2,0,6,3.0
+Antonio Puertas,Granada CF,La Liga,2021,2,2,0,6,3.0
+Antoine Griezmann,Atletico Madrid,La Liga,2023,2,2,0,6,3.0
+Ansu Fati,Barcelona,La Liga,2021,2,2,0,6,3.0
+R. Kolo Muani,Eintracht Frankfurt,Bundesliga,2022,2,2,0,6,3.0
+R. Schmid,Werder Bremen,Bundesliga,2024,2,2,0,6,3.0
+M. Gregoritsch,FC Augsburg,Bundesliga,2021,2,2,0,6,3.0
+M. Gibbs-White,Nottingham Forest,Premier League,2023,2,2,0,6,3.0
+D. Malen,Borussia Dortmund,Bundesliga,2021,2,2,0,6,3.0
+D. Ljubičić,FC Koln,Bundesliga,2022,2,2,0,6,3.0
+D. Kulusevski,Tottenham,Premier League,2024,2,2,0,6,3.0
+M. Gabbiadini,Sampdoria,Serie A,2021,2,2,0,6,3.0
+M. Folorunsho,Verona,Serie A,2023,2,2,0,6,3.0
+Alexsandro Ribeiro,Lille,Ligue 1,2022,2,2,0,6,3.0
+R. Orsolini,Bologna,Serie A,2023,2,2,0,6,3.0
+R. Orsolini,Bologna,Serie A,2021,2,2,0,6,3.0
+R. Malinovskyi,Atalanta,Serie A,2021,2,2,0,6,3.0
+R. Lukaku,Napoli,Serie A,2024,2,2,0,6,3.0
+Richarlison,Everton,Premier League,2021,2,2,0,6,3.0
+M. Diaby,Bayer Leverkusen,Bundesliga,2021,2,2,0,6,3.0
+M. Depay,Atletico Madrid,La Liga,2022,2,2,0,6,3.0
+M. Dembélé,Lyon,Ligue 1,2022,2,2,0,6,3.0
+D. Okereke,Cremonese,Serie A,2022,2,2,0,6,3.0
+D. O'Shea,Burnley,Premier League,2023,2,2,0,6,3.0
+D. Núñez,Liverpool,Premier League,2024,1,2,0,6,6.0
+D. McNeil,Everton,Premier League,2023,2,2,0,6,3.0
+M. Daramy,Reims,Ligue 1,2023,2,2,0,6,3.0
+M. Grüll,Werder Bremen,Bundesliga,2024,2,2,0,6,3.0
+R. Lewandowski,Barcelona,La Liga,2024,2,2,0,6,3.0
+Rafael Leão,AC Milan,Serie A,2024,2,2,0,6,3.0
+Rafa Mir,Sevilla,La Liga,2021,2,2,0,6,3.0
+R. Sessegnon,Fulham,Premier League,2024,2,2,0,6,3.0
+S. Azmoun,Bayer Leverkusen,Bundesliga,2022,2,2,0,6,3.0
+M. Dabbur,1899 Hoffenheim,Bundesliga,2021,2,2,0,6,3.0
+M. Cornet,Burnley,Premier League,2021,2,2,0,6,3.0
+M. Camara,Stade Brestois 29,Ligue 1,2024,2,2,0,6,3.0
+M. Camara,Stade Brestois 29,Ligue 1,2022,2,2,0,6,3.0
+D. Payet,Marseille,Ligue 1,2021,2,2,0,6,3.0
+M. Brescianini,Atalanta,Serie A,2024,2,2,0,6,3.0
+M. Braithwaite,Espanyol,La Liga,2022,2,2,0,6,3.0
+M. Boadu,Monaco,Ligue 1,2021,2,2,0,6,3.0
+M. Blažič,Angers,Ligue 1,2022,2,2,0,6,3.0
+R. Sallai,SC Freiburg,Bundesliga,2023,2,2,0,6,3.0
+R. Piccoli,Empoli,Serie A,2022,2,2,0,6,3.0
+R. Piccoli,Cagliari,Serie A,2024,2,2,0,6,3.0
+A. Waris,Strasbourg,Ligue 1,2021,2,2,0,6,3.0
+Rodri,Manchester City,Premier League,2021,2,2,0,6,3.0
+Richarlison,Tottenham,Premier League,2023,2,2,0,6,3.0
+D. Vlahović,Fiorentina,Serie A,2021,2,2,0,6,3.0
+D. Verde,Spezia,Serie A,2021,2,2,0,6,3.0
+M. Aramu,Venezia,Serie A,2021,2,2,0,6,3.0
+M. Antonio,West Ham,Premier League,2022,2,2,0,6,3.0
+M. Almirón,Newcastle,Premier League,2022,2,2,0,6,3.0
+M. Dahoud,Borussia Dortmund,Bundesliga,2021,2,2,0,6,3.0
+Renato Sanches,Paris Saint Germain,Ligue 1,2022,2,2,0,6,3.0
+Raúl de Tomás,Espanyol,La Liga,2021,2,2,0,6,3.0
+Raúl García,Osasuna,La Liga,2024,2,2,0,6,3.0
+Raúl García,Osasuna,La Liga,2023,2,2,0,6,3.0
+Raphinha,Barcelona,La Liga,2022,2,2,0,6,3.0
+Randy Nteka,Rayo Vallecano,La Liga,2024,1,2,0,6,6.0
+Alberto Moleiro,Las Palmas,La Liga,2024,2,2,0,6,3.0
+S. Chukwueze,Villarreal,La Liga,2021,2,2,0,6,3.0
+S. Chukwueze,AC Milan,Serie A,2024,2,2,0,6,3.0
+S. Castro,Bologna,Serie A,2024,2,2,0,6,3.0
+S. Bahoken,Angers,Ligue 1,2021,2,2,0,6,3.0
+M'Bala Nzola,Fiorentina,Serie A,2023,2,2,0,6,3.0
+Léo Scienza,1. FC Heidenheim,Bundesliga,2024,2,2,0,6,3.0
+Luis Rioja,Alaves,La Liga,2023,2,2,0,6,3.0
+Luis Alberto,Lazio,Serie A,2021,2,2,0,6,3.0
+D. Zapata,Atalanta,Serie A,2021,2,2,0,6,3.0
+D. Welbeck,Brighton,Premier League,2023,2,2,0,6,3.0
+D. Welbeck,Brighton,Premier League,2022,2,2,0,6,3.0
+Lucas Vázquez,Real Madrid,La Liga,2021,2,2,0,6,3.0
+M. Beier,1899 Hoffenheim,Bundesliga,2023,2,2,0,6,3.0
+Roger Martí,Levante,La Liga,2021,2,2,0,6,3.0
+Abdón Prats,Mallorca,La Liga,2021,2,2,0,6,3.0
+A. Zaroury,Lens,Ligue 1,2024,2,2,0,6,3.0
+A. Sima,Stade Brestois 29,Ligue 1,2024,1,2,0,6,6.0
+A. Semenyo,Bournemouth,Premier League,2023,2,2,0,6,3.0
+S. Gnabry,Bayern Munich,Bundesliga,2022,2,2,0,6,3.0
+S. Sohm,Parma,Serie A,2024,2,2,0,6,3.0
+Lucas Ocampos,Sevilla,La Liga,2023,2,2,0,6,3.0
+Lee Kang-In,Paris Saint Germain,Ligue 1,2024,2,2,0,6,3.0
+Lee Kang-In,Mallorca,La Liga,2022,2,2,0,6,3.0
+Daniel Carvajal,Real Madrid,La Liga,2023,2,2,0,6,3.0
+Dani Parejo,Villarreal,La Liga,2022,2,2,0,6,3.0
+L. Waldschmidt,1.FC Köln,Bundesliga,2023,2,2,0,6,3.0
+M. Akliouche,Monaco,Ligue 1,2024,2,2,0,6,3.0
+S. El Shaarawy,AS Roma,Serie A,2023,2,2,0,6,3.0
+S. El Shaarawy,AS Roma,Serie A,2022,2,2,0,6,3.0
+A. Truffert,Rennes,Ligue 1,2021,1,2,0,6,6.0
+A. Touré,Le Havre,Ligue 1,2024,2,2,0,6,3.0
+A. Tameze,Verona,Serie A,2021,2,2,0,6,3.0
+S. Pierotti,Lecce,Serie A,2024,2,2,0,6,3.0
+A. Salama,Angers,Ligue 1,2022,2,2,0,6,3.0
+A. Saelemaekers,Bologna,Serie A,2023,2,2,0,6,3.0
+A. Sabiri,Sampdoria,Serie A,2021,2,2,0,6,3.0
+S. Michel,Union Berlin,Bundesliga,2021,2,2,0,6,3.0
+S. Mavididi,Montpellier,Ligue 1,2021,2,2,0,6,3.0
+L. Suárez,Granada CF,La Liga,2021,2,2,0,6,3.0
+L. Stassin,Saint Etienne,Ligue 1,2024,2,2,0,6,3.0
+L. Sernicola,Cremonese,Serie A,2022,2,2,0,6,3.0
+Denis Suárez,Celta Vigo,La Liga,2021,2,2,0,6,3.0
+L. Samardžić,Udinese,Serie A,2022,2,2,0,6,3.0
+L. Samardžić,Udinese,Serie A,2021,2,2,0,6,3.0
+L. Pellegrini,AS Roma,Serie A,2023,2,2,0,6,3.0
+S. Khaoui,Clermont Foot,Ligue 1,2022,2,2,0,6,3.0
+S. Kalajdzic,Wolves,Premier League,2023,2,2,0,6,3.0
+S. Kalajdzic,VfB Stuttgart,Bundesliga,2021,2,2,0,6,3.0
+L. Díaz,Liverpool,Premier League,2023,2,2,0,6,3.0
+L. Dunk,Brighton,Premier League,2023,2,2,0,6,3.0
+L. Camara,Monaco,Ligue 1,2024,2,2,0,6,3.0
+L. Boyé,Elche,La Liga,2022,2,2,0,6,3.0
+L. Bonucci,Juventus,Serie A,2021,2,2,0,6,3.0
+L. Blas,Rennes,Ligue 1,2024,2,2,0,6,3.0
+L. Paredes,AS Roma,Serie A,2023,2,2,0,6,3.0
+L. Openda,RB Leipzig,Bundesliga,2024,2,2,0,6,3.0
+L. Nmecha,VfL Wolfsburg,Bundesliga,2024,1,2,0,6,6.0
+L. Nmecha,VfL Wolfsburg,Bundesliga,2022,2,2,0,6,3.0
+E. Bardhi,Levante,La Liga,2021,2,2,0,6,3.0
+Diogo Jota,Liverpool,Premier League,2024,2,2,0,6,3.0
+Diogo Jota,Liverpool,Premier League,2021,2,2,0,6,3.0
+L. Trossard,Brighton,Premier League,2021,2,2,0,6,3.0
+S. Rudy,1899 Hoffenheim,Bundesliga,2021,2,2,0,6,3.0
+S. Polter,FC Schalke 04,Bundesliga,2022,2,2,0,6,3.0
+Sergio Arribas,Almeria,La Liga,2023,2,2,0,6,3.0
+Sergio Akieme,Reims,Ligue 1,2023,2,2,0,6,3.0
+Sergi Roberto,Barcelona,La Liga,2023,2,2,0,6,3.0
+Sergi Guardiola,Rayo Vallecano,La Liga,2021,2,2,0,6,3.0
+A. Rebić,AC Milan,Serie A,2021,2,2,0,6,3.0
+Saúl Coco,Torino,Serie A,2024,2,2,0,6,3.0
+S. Tigges,Borussia Dortmund,Bundesliga,2021,2,2,0,6,3.0
+S. Tigges,1.FC Köln,Bundesliga,2023,2,2,0,6,3.0
+S. Sow,Saint Etienne,Ligue 1,2021,2,2,0,6,3.0
+S. Soumano,Lorient,Ligue 1,2021,2,2,0,6,3.0
+T. Anjorin,Empoli,Serie A,2024,2,2,0,6,3.0
+L. Majer,Rennes,Ligue 1,2021,2,2,0,6,3.0
+E. Ben Seghir,Monaco,Ligue 1,2024,1,2,0,6,6.0
+L. Goretzka,Bayern Munich,Bundesliga,2023,2,2,0,6,3.0
+L. Ferguson,Bologna,Serie A,2023,2,2,0,6,3.0
+L. Ferguson,Bologna,Serie A,2022,2,2,0,6,3.0
+T. Abraham,AS Roma,Serie A,2021,2,2,0,6,3.0
+Soldado,Levante,La Liga,2021,2,2,0,6,3.0
+A. Ounahi,Angers,Ligue 1,2021,2,2,0,6,3.0
+A. Onaiwu,Toulouse,Ligue 1,2022,2,2,0,6,3.0
+A. Nordin,Montpellier,Ligue 1,2024,2,2,0,6,3.0
+Sergio León,Valladolid,La Liga,2022,2,2,0,6,3.0
+T. Lemar,Atletico Madrid,La Liga,2021,2,2,0,6,3.0
+L. Berry,Luton,Premier League,2023,2,2,0,6,3.0
+E. Emegha,Strasbourg,Ligue 1,2024,2,2,0,6,3.0
+E. Elmas,Napoli,Serie A,2023,2,2,0,6,3.0
+E. Elmas,Napoli,Serie A,2022,2,2,0,6,3.0
+E. Džeko,Inter,Serie A,2021,2,2,0,6,3.0
+E. Delprato,Parma,Serie A,2024,2,2,0,6,3.0
+L. Alario,Bayer Leverkusen,Bundesliga,2021,2,2,0,6,3.0
+Kike Pérez,Elche,La Liga,2021,1,2,0,6,6.0
+Sergio Camello,Rayo Vallecano,La Liga,2022,2,2,0,6,3.0
+T. Kubo,Real Sociedad,La Liga,2022,2,2,0,6,3.0
+T. Henry,Venezia,Serie A,2021,2,2,0,6,3.0
+T. Douvikas,Celta Vigo,La Liga,2024,2,2,0,6,3.0
+A. Marušić,Lazio,Serie A,2024,2,2,0,6,3.0
+T. Barry,Villarreal,La Liga,2024,2,2,0,6,3.0
+T. Bakayoko,Lorient,Ligue 1,2023,2,2,0,6,3.0
+T. Awoniyi,Nottingham Forest,Premier League,2023,2,2,0,6,3.0
+T. Reijnders,AC Milan,Serie A,2024,2,2,0,6,3.0
+K. Yıldız,Juventus,Serie A,2024,2,2,0,6,3.0
+K. Toko-Ekambi,Lyon,Ligue 1,2021,2,2,0,6,3.0
+K. Thuram-Ulien,Nice,Ligue 1,2021,2,2,0,6,3.0
+K. Schade,SC Freiburg,Bundesliga,2021,2,2,0,6,3.0
+K. Schade,Brentford,Premier League,2024,2,2,0,6,3.0
+E. Gyasi,Spezia,Serie A,2021,2,2,0,6,3.0
+E. Ferguson,Brighton,Premier League,2022,2,2,0,6,3.0
+T. Alexander-Arnold,Liverpool,Premier League,2023,2,2,0,6,3.0
+A. Lookman,Atalanta,Serie A,2022,2,2,0,6,3.0
+A. Laïdouni,Union Berlin,Bundesliga,2022,2,2,0,6,3.0
+A. Lacazette,Lyon,Ligue 1,2024,2,2,0,6,3.0
+T. Minamino,Liverpool,Premier League,2021,2,2,0,6,3.0
+T. Lemperle,FC Koln,Bundesliga,2021,2,2,0,6,3.0
+T. Čvančara,Borussia Monchengladbach,Bundesliga,2023,2,2,0,6,3.0
+E. Löwen,VfL BOCHUM,Bundesliga,2021,2,2,0,6,3.0
+E. Lamela,Sevilla,La Liga,2022,2,2,0,6,3.0
+E. Lamela,Sevilla,La Liga,2021,2,2,0,6,3.0
+E. Haaland,Manchester City,Premier League,2024,2,2,0,6,3.0
+K. Havertz,Chelsea,Premier League,2022,2,2,0,6,3.0
+K. Havertz,Chelsea,Premier League,2021,2,2,0,6,3.0
+K. Havertz,Arsenal,Premier League,2024,2,2,0,6,3.0
+K. Davis,Udinese,Serie A,2024,2,2,0,6,3.0
+K. Coman,Bayern München,Bundesliga,2024,2,2,0,6,3.0
+Kike,Osasuna,La Liga,2021,2,2,0,6,3.0
+Jota Silva,Nottingham Forest,Premier League,2024,2,2,0,6,3.0
+K. Coman,Bayern Munich,Bundesliga,2021,2,2,0,6,3.0
+K. Behrens,Union Berlin,Bundesliga,2021,2,2,0,6,3.0
+K. Ajer,Brentford,Premier League,2023,2,2,0,6,3.0
+E. Rashani,Clermont Foot,Ligue 1,2023,1,2,0,6,6.0
+E. Ponce,Elche,La Liga,2022,2,2,0,6,3.0
+E. Palacios,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+E. Palacios,Bayer Leverkusen,Bundesliga,2021,2,2,0,6,3.0
+Jørgen Strand Larsen,Celta Vigo,La Liga,2023,2,2,0,6,3.0
+Junior Messias,AC Milan,Serie A,2022,2,2,0,6,3.0
+Julen Lobete,Real Sociedad,La Liga,2021,2,2,0,6,3.0
+K. Mitoma,Brighton,Premier League,2024,2,2,0,6,3.0
+T. Moffi,Nice,Ligue 1,2023,1,2,0,6,6.0
+T. Moffi,Lorient,Ligue 1,2021,2,2,0,6,3.0
+A. Martial,Manchester United,Premier League,2022,1,2,0,6,6.0
+A. Mac Allister,Brighton,Premier League,2021,2,2,0,6,3.0
+T. Weah,Lille,Ligue 1,2021,2,2,0,6,3.0
+A. Lacazette,Arsenal,Premier League,2021,2,2,0,6,3.0
+A. Kramarić,1899 Hoffenheim,Bundesliga,2022,2,2,0,6,3.0
+A. Kalimuendo,Rennes,Ligue 1,2023,2,2,0,6,3.0
+A. Januzaj,Las Palmas,La Liga,2024,2,2,0,6,3.0
+A. Jallow,Metz,Ligue 1,2023,2,2,0,6,3.0
+A. Iwobi,Fulham,Premier League,2024,2,2,0,6,3.0
+A. Iwobi,Fulham,Premier League,2023,2,2,0,6,3.0
+T. Savanier,Montpellier,Ligue 1,2023,2,2,0,6,3.0
+V. Janelt,Brentford,Premier League,2022,2,2,0,6,3.0
+João Pedro,Watford,Premier League,2021,2,2,0,6,3.0
+João Félix,Chelsea,Premier League,2022,2,2,0,6,3.0
+E. Zhegrova,Lille,Ligue 1,2022,1,2,0,6,6.0
+E. Wahi,Lens,Ligue 1,2023,2,2,0,6,3.0
+João Félix,Atletico Madrid,La Liga,2021,2,2,0,6,3.0
+João Cancelo,Barcelona,La Liga,2023,2,2,0,6,3.0
+J. Vardy,Leicester,Premier League,2022,2,2,0,6,3.0
+J. Thielmann,FC Koln,Bundesliga,2022,2,2,0,6,3.0
+J. Thielmann,FC Koln,Bundesliga,2021,2,2,0,6,3.0
+Josan Ferrández,Elche,La Liga,2021,2,2,0,6,3.0
+F. Anguissa,Napoli,Serie A,2024,2,2,0,6,3.0
+F. Acerbi,Lazio,Serie A,2021,2,2,0,6,3.0
+Evanilson,Bournemouth,Premier League,2024,2,2,0,6,3.0
+Elustondo,Real Sociedad,La Liga,2021,2,2,0,6,3.0
+E. Ünal,Bournemouth,Premier League,2024,2,2,0,6,3.0
+E. Ávila,Osasuna,La Liga,2021,2,2,0,6,3.0
+Jorge de Frutos,Rayo Vallecano,La Liga,2023,2,2,0,6,3.0
+Joan Jordán,Alaves,La Liga,2024,2,2,0,6,3.0
+Javier Guerra,Valencia,La Liga,2023,2,2,0,6,3.0
+Javi Puado,Espanyol,La Liga,2021,2,2,0,6,3.0
+Juanmi Latasa,Getafe,La Liga,2023,2,2,0,6,3.0
+T. Werner,Tottenham,Premier League,2023,2,2,0,6,3.0
+J. Stage,Werder Bremen,Bundesliga,2023,2,2,0,6,3.0
+F. Honorat,Borussia Mönchengladbach,Bundesliga,2024,2,2,0,6,3.0
+F. Forestieri,Udinese,Serie A,2021,2,2,0,6,3.0
+F. Dele-Bashiru,Lazio,Serie A,2024,2,2,0,6,3.0
+J. Siebatcheu,Borussia Monchengladbach,Bundesliga,2023,2,2,0,6,3.0
+J. Schöppner,1. FC Heidenheim,Bundesliga,2024,2,2,0,6,3.0
+J. Sancho,Chelsea,Premier League,2024,2,2,0,6,3.0
+J. Ryerson,Borussia Dortmund,Bundesliga,2023,2,2,0,6,3.0
+J. Porozo,Estac Troyes,Ligue 1,2022,2,2,0,6,3.0
+J. Pohjanpalo,Venezia,Serie A,2024,2,2,0,6,3.0
+J. Álvarez,Manchester City,Premier League,2023,2,2,0,6,3.0
+J. Zirkzee,Bologna,Serie A,2023,2,2,0,6,3.0
+F. Balogun,Monaco,Ligue 1,2023,1,2,0,6,6.0
+F. Ayé,Auxerre,Ligue 1,2024,2,2,0,6,3.0
+J. Ward-Prowse,West Ham,Premier League,2023,2,2,0,6,3.0
+J. Veretout,Marseille,Ligue 1,2022,2,2,0,6,3.0
+V. Castellanos,Lazio,Serie A,2024,2,2,0,6,3.0
+A. Isak,Newcastle,Premier League,2024,2,2,0,6,3.0
+A. Hložek,1899 Hoffenheim,Bundesliga,2024,2,2,0,6,3.0
+A. Haïdara,RB Leipzig,Bundesliga,2021,2,2,0,6,3.0
+V. Boniface,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+Unai Gómez,Athletic Club,La Liga,2023,2,2,0,6,3.0
+U. Sadiq,Valencia,La Liga,2024,2,2,0,6,3.0
+Toni Martínez,Alaves,La Liga,2024,2,2,0,6,3.0
+Tiago Tomás,VfL Wolfsburg,Bundesliga,2024,2,2,0,6,3.0
+Tiago Tomás,VfB Stuttgart,Bundesliga,2022,2,2,0,6,3.0
+Tiago Tomás,VfB Stuttgart,Bundesliga,2021,2,2,0,6,3.0
+Tetê,Lyon,Ligue 1,2021,2,2,0,6,3.0
+Vinícius Júnior,Real Madrid,La Liga,2024,2,2,0,6,3.0
+J. Stones,Manchester City,Premier League,2024,2,2,0,6,3.0
+J. Stanišić,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+J. Stage,Werder Bremen,Bundesliga,2024,2,2,0,6,3.0
+J. Haberer,SC Freiburg,Bundesliga,2021,2,2,0,6,3.0
+J. Gelhardt,Leeds,Premier League,2021,2,2,0,6,3.0
+J. Frimpong,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+J. Odgaard,Bologna,Serie A,2023,2,2,0,6,3.0
+J. O'Brien,Everton,Premier League,2024,2,2,0,6,3.0
+J. Musiala,Bayern Munich,Bundesliga,2022,2,2,0,6,3.0
+J. Musiala,Bayern Munich,Bundesliga,2021,2,2,0,6,3.0
+F. Magri,Toulouse,Ligue 1,2024,2,2,0,6,3.0
+F. Magri,Toulouse,Ligue 1,2023,2,2,0,6,3.0
+F. Kostić,Eintracht Frankfurt,Bundesliga,2021,2,2,0,6,3.0
+F. Kainz,1.FC Köln,Bundesliga,2023,2,2,0,6,3.0
+J. Maddison,Tottenham,Premier League,2024,2,2,0,6,3.0
+J. Lingard,Manchester United,Premier League,2021,2,2,0,6,3.0
+J. Koundé,Sevilla,La Liga,2021,2,2,0,6,3.0
+J. Strand Larsen,Wolves,Premier League,2024,2,2,0,6,3.0
+V. Grifo,SC Freiburg,Bundesliga,2022,2,2,0,6,3.0
+A. Hahn,FC Augsburg,Bundesliga,2022,2,2,0,6,3.0
+A. Groeneveld,Villarreal,La Liga,2021,2,2,0,6,3.0
+A. Gouiri,Rennes,Ligue 1,2023,2,2,0,6,3.0
+A. Gordon,Everton,Premier League,2021,2,2,0,6,3.0
+V. Osimhen,Napoli,Serie A,2023,2,2,0,6,3.0
+V. Osimhen,Napoli,Serie A,2022,2,2,0,6,3.0
+V. Muriqi,Mallorca,La Liga,2022,2,2,0,6,3.0
+W. Orban,RB Leipzig,Bundesliga,2021,2,2,0,6,3.0
+J. Kluivert,Bournemouth,Premier League,2024,2,2,0,6,3.0
+J. Kluivert,Bournemouth,Premier League,2023,2,2,0,6,3.0
+J. King,Watford,Premier League,2021,1,2,0,6,6.0
+F. Ohene-Gyan,AS Roma,Serie A,2021,1,2,0,6,6.0
+F. Moumbagna,Marseille,Ligue 1,2023,2,2,0,6,3.0
+J. Hofmann,Borussia Monchengladbach,Bundesliga,2021,2,2,0,6,3.0
+J. Hinshelwood,Brighton,Premier League,2024,2,2,0,6,3.0
+J. Harrison,Leeds,Premier League,2021,2,2,0,6,3.0
+J. Bellegarde,Wolves,Premier League,2023,2,2,0,6,3.0
+J. David,Lille,Ligue 1,2021,2,2,0,6,3.0
+J. Dasilva,Brentford,Premier League,2022,2,2,0,6,3.0
+J. Correa,Inter,Serie A,2021,1,2,0,6,6.0
+J. Cajuste,Reims,Ligue 1,2021,2,2,0,6,3.0
+F. Wirtz,Bayer Leverkusen,Bundesliga,2021,2,2,0,6,3.0
+F. Valverde,Real Madrid,La Liga,2022,2,2,0,6,3.0
+F. Thauvin,Udinese,Serie A,2024,2,2,0,6,3.0
+F. Tardieu,Estac Troyes,Ligue 1,2021,2,2,0,6,3.0
+F. Tait,Rennes,Ligue 1,2021,2,2,0,6,3.0
+F. Sotoca,Lens,Ligue 1,2022,2,2,0,6,3.0
+F. Sotoca,Lens,Ligue 1,2021,2,2,0,6,3.0
+J. Bruun Larsen,1899 Hoffenheim,Bundesliga,2024,2,2,0,6,3.0
+J. Kluivert,Valencia,La Liga,2022,2,2,0,6,3.0
+Valery,Mallorca,La Liga,2024,2,2,0,6,3.0
+V. van Dijk,Liverpool,Premier League,2024,2,2,0,6,3.0
+Isco,Real Betis,La Liga,2023,2,2,0,6,3.0
+Iago Aspas,Celta Vigo,La Liga,2021,2,2,0,6,3.0
+I. Williams,Athletic Club,La Liga,2024,2,2,0,6,3.0
+I. Toney,Brentford,Premier League,2022,2,2,0,6,3.0
+I. Sarr,Crystal Palace,Premier League,2024,2,2,0,6,3.0
+J. Brownhill,Burnley,Premier League,2023,2,2,0,6,3.0
+J. Brown,Luton,Premier League,2023,2,2,0,6,3.0
+J. Briand,Bordeaux,Ligue 1,2021,1,2,0,6,6.0
+J. Boëtius,FSV Mainz 05,Bundesliga,2021,2,2,0,6,3.0
+J. Bowen,West Ham,Premier League,2024,2,2,0,6,3.0
+Fernandinho,Manchester City,Premier League,2021,2,2,0,6,3.0
+Fabián Ruiz,Napoli,Serie A,2021,2,2,0,6,3.0
+Fabinho,Liverpool,Premier League,2021,2,2,0,6,3.0
+J. Boga,Nice,Ligue 1,2023,2,2,0,6,3.0
+J. Bijol,Udinese,Serie A,2022,2,2,0,6,3.0
+J. Beste,FC Heidenheim,Bundesliga,2023,2,2,0,6,3.0
+W. Odobert,Estac Troyes,Ligue 1,2022,2,2,0,6,3.0
+W. Khazri,Saint Etienne,Ligue 1,2021,2,2,0,6,3.0
+W. Geubbels,Nantes,Ligue 1,2021,2,2,0,6,3.0
+A. Finnbogason,FC Augsburg,Bundesliga,2021,2,2,0,6,3.0
+A. Ezzalzouli,Osasuna,La Liga,2022,2,2,0,6,3.0
+A. Engels,FC Augsburg,Bundesliga,2023,2,2,0,6,3.0
+W. Endo,VfB Stuttgart,Bundesliga,2022,2,2,0,6,3.0
+W. Cyprien,Nantes,Ligue 1,2021,2,2,0,6,3.0
+W. Ben Yedder,Monaco,Ligue 1,2023,2,2,0,6,3.0
+Y. Carrasco,Atletico Madrid,La Liga,2021,2,2,0,6,3.0
+J. Aidoo,Celta Vigo,La Liga,2022,2,2,0,6,3.0
+J. Aholou,Strasbourg,Ligue 1,2022,1,2,0,6,6.0
+Fábio Carvalho,Liverpool,Premier League,2022,2,2,0,6,3.0
+Fábio Carvalho,Brentford,Premier League,2024,2,2,0,6,3.0
+Francisco Conceição,Juventus,Serie A,2024,2,2,0,6,3.0
+Ferran Torres,Barcelona,La Liga,2023,2,2,0,6,3.0
+Williot Swedberg,Celta Vigo,La Liga,2023,2,2,0,6,3.0
+Willian José,Real Betis,La Liga,2023,2,2,0,6,3.0
+Willian,Fulham,Premier League,2023,2,2,0,6,3.0
+Williams,Athletic Club,La Liga,2021,2,2,0,6,3.0
+W. Swedberg,Celta Vigo,La Liga,2024,2,2,0,6,3.0
+W. Orbán,RB Leipzig,Bundesliga,2022,2,2,0,6,3.0
+Z. Ferhat,Angers,Ligue 1,2024,2,2,0,6,3.0
+I. Pussetto,Udinese,Serie A,2021,2,2,0,6,3.0
+I. Ganago,Lens,Ligue 1,2021,2,2,0,6,3.0
+I. Bebou,1899 Hoffenheim,Bundesliga,2023,2,2,0,6,3.0
+Hugo Duro,Valencia,La Liga,2023,2,2,0,6,3.0
+Hugo Duro,Valencia,La Liga,2021,1,2,0,6,6.0
+Hermoso,Atletico Madrid,La Liga,2021,2,2,0,6,3.0
+H. Çalhanoğlu,Inter,Serie A,2023,2,2,0,6,3.0
+H. Traorè,Sassuolo,Serie A,2021,2,2,0,6,3.0
+H. Tabaković,1899 Hoffenheim,Bundesliga,2024,2,2,0,6,3.0
+Gerson,Marseille,Ligue 1,2021,2,2,0,6,3.0
+G. Rutter,Brighton,Premier League,2024,2,2,0,6,3.0
+G. Raspadori,Sassuolo,Serie A,2021,2,2,0,6,3.0
+G. Raspadori,Napoli,Serie A,2023,2,2,0,6,3.0
+G. Raspadori,Napoli,Serie A,2022,2,2,0,6,3.0
+G. Perrin,Auxerre,Ligue 1,2021,2,2,0,6,3.0
+Álvaro Negredo,Cadiz,La Liga,2021,2,2,0,6,3.0
+Álvaro Morata,Atletico Madrid,La Liga,2023,2,2,0,6,3.0
+A. Adams,Montpellier,Ligue 1,2023,2,2,0,6,3.0
+İlkay Gündoğan,Barcelona,La Liga,2023,2,2,0,6,3.0
+H. Elliott,Liverpool,Premier League,2023,2,2,0,6,3.0
+Z. Aboukhlal,Toulouse,Ligue 1,2024,2,2,0,6,3.0
+Youssef En-Nesyri,Sevilla,La Liga,2023,2,2,0,6,3.0
+A. Candreva,Sampdoria,Serie A,2021,2,2,0,6,3.0
+A. Candreva,Salernitana,Serie A,2022,2,2,0,6,3.0
+Y. Wissa,Brentford,Premier League,2023,2,2,0,6,3.0
+Bruno Guimarães,Newcastle,Premier League,2024,2,2,0,6,3.0
+Bruno Guimarães,Newcastle,Premier League,2023,2,2,0,6,3.0
+Bruno Guimarães,Newcastle,Premier League,2022,2,2,0,6,3.0
+Bruno Guimarães,Newcastle,Premier League,2021,2,2,0,6,3.0
+Bruno Fernandes,Manchester United,Premier League,2024,2,2,0,6,3.0
+Bruno Fernandes,Manchester United,Premier League,2021,2,2,0,6,3.0
+P. Cutrone,Como,Serie A,2024,2,2,0,6,3.0
+Éderson,Atalanta,Serie A,2023,2,2,0,6,3.0
+Álex Moreno,Real Betis,La Liga,2021,2,2,0,6,3.0
+Álex Grimaldo,Bayer Leverkusen,Bundesliga,2023,2,2,0,6,3.0
+Álex Berenguer,Athletic Club,La Liga,2023,2,2,0,6,3.0
+Á. Correa,Atletico Madrid,La Liga,2022,2,2,0,6,3.0
+A. Barák,Verona,Serie A,2021,2,2,0,6,3.0
+Zito Luvumbo,Cagliari,Serie A,2023,2,2,0,6,3.0
+Z. Çelik,Lille,Ligue 1,2021,2,2,0,6,3.0
+Z. Ibrahimović,AC Milan,Serie A,2021,2,2,0,6,3.0
+0                         A. Petagna,Napoli,Serie A,2021,1,1,0,3,3.0
+0                         K. Benzema,Real Madrid,La Liga,2022,1,1,0,3,3.0
+1                         F. Wirtz,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+1                         L. Colombo,Lecce,Serie A,2022,1,1,0,3,3.0
+1                         M. Bayo,Lille,Ligue 1,2022,1,1,0,3,3.0
+1                         M. Bayo,Lille,Ligue 1,2024,1,1,0,3,3.0
+2                         M. Bülter,FC Schalke 04,Bundesliga,2022,1,1,0,3,3.0
+3                         Arthur,Fiorentina,Serie A,2023,1,1,0,3,3.0
+3                         E. Touré,Atalanta,Serie A,2023,1,1,0,3,3.0
+A. Budimir,Osasuna,La Liga,2021,1,1,0,3,3.0
+A. Broja,Chelsea,Premier League,2022,1,1,0,3,3.0
+A. Bonny,Parma,Serie A,2024,1,1,0,3,3.0
+A. Boakye,Saint Etienne,Ligue 1,2024,1,1,0,3,3.0
+A. Bianco,Monza,Serie A,2024,1,1,0,3,3.0
+A. Bernede,Verona,Serie A,2024,1,1,0,3,3.0
+A. Ben Slimane,Luton,Premier League,2023,1,1,0,3,3.0
+A. Belotti,Como,Serie A,2024,1,1,0,3,3.0
+A. Belotti,AS Roma,Serie A,2023,1,1,0,3,3.0
+A. Beck,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+A. Bastoni,Inter,Serie A,2023,1,1,0,3,3.0
+A. Barák,Fiorentina,Serie A,2023,1,1,0,3,3.0
+A. Ayew,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+Zito Luvumbo,Cagliari,Serie A,2024,1,1,0,3,3.0
+Z. Savva,Torino,Serie A,2023,1,1,0,3,3.0
+Z. Davitashvili,Saint Etienne,Ligue 1,2024,1,1,0,3,3.0
+G. Zappa,Cagliari,Serie A,2024,1,1,0,3,3.0
+G. Xhaka,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+G. Xhaka,Arsenal,Premier League,2022,1,1,0,3,3.0
+G. Wijnaldum,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+G. Wijnaldum,AS Roma,Serie A,2022,1,1,0,3,3.0
+G. Simeone,Napoli,Serie A,2024,1,1,0,3,3.0
+G. Simeone,Napoli,Serie A,2023,1,1,0,3,3.0
+G. Scalvini,Atalanta,Serie A,2021,1,1,0,3,3.0
+G. Rutter,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+G. Rodríguez,Barcelona,La Liga,2022,1,1,0,3,3.0
+G. Raspadori,Napoli,Serie A,2024,1,1,0,3,3.0
+G. Perrin,Auxerre,Ligue 1,2022,1,1,0,3,3.0
+G. Pereiro,Cagliari,Serie A,2021,1,1,0,3,3.0
+G. Orban,Lyon,Ligue 1,2023,1,1,0,3,3.0
+G. Mikautadze,Metz,Ligue 1,2023,1,1,0,3,3.0
+0                         D. Zappacosta,Atalanta,Serie A,2023,1,1,0,3,3.0
+Gabriel Strefezza,Lecce,Serie A,2023,1,1,0,3,3.0
+Gabriel Strefezza,Lecce,Serie A,2022,1,1,0,3,3.0
+G. Mancini,AS Roma,Serie A,2023,1,1,0,3,3.0
+G. Magnani,Empoli,Serie A,2022,1,1,0,3,3.0
+G. Maggiore,Spezia,Serie A,2021,1,1,0,3,3.0
+G. Lo Celso,Villarreal,La Liga,2022,1,1,0,3,3.0
+G. Lo Celso,Villarreal,La Liga,2021,1,1,0,3,3.0
+G. Lloris,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+G. Leoni,Parma,Serie A,2024,1,1,0,3,3.0
+G. Laborde,Rennes,Ligue 1,2022,1,1,0,3,3.0
+G. Kyriakopoulos,Inter,Serie A,2024,1,1,0,3,3.0
+G. Kyei,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+Gabriel Strefezza,Como,Serie A,2024,1,1,0,3,3.0
+Gabriel Magalhães,Arsenal,Premier League,2022,1,1,0,3,3.0
+Gabriel Jesus                                  1,Arsenal,Premier League,2023,1,1,0,3,3.0
+Gabriel Jesus,Manchester City,Premier League,2021,1,1,0,3,3.0
+G. Holtmann,VfL Bochum,Bundesliga,2024,1,1,0,3,3.0
+G. Hein,Metz,Ligue 1,2024,1,1,0,3,3.0
+G. Hanley,Norwich,Premier League,2021,1,1,0,3,3.0
+G. Gudmundsson,Lille,Ligue 1,2023,1,1,0,3,3.0
+G. Gaetano,Napoli,Serie A,2023,1,1,0,3,3.0
+G. Gaetano,Napoli,Serie A,2022,1,1,0,3,3.0
+G. Ferrari,Sassuolo,Serie A,2023,1,1,0,3,3.0
+G. Ferrari,Sassuolo,Serie A,2021,1,1,0,3,3.0
+G. Fabbian,Bologna,Serie A,2024,1,1,0,3,3.0
+Gonçalo Paciência,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+Gonçalo Paciência,Celta Vigo,La Liga,2022,1,1,0,3,3.0
+Gonçalo Guedes,Wolves,Premier League,2024,1,1,0,3,3.0
+Gonçalo Guedes,Villarreal,La Liga,2023,1,1,0,3,3.0
+Gonzalo Verdú,Elche,La Liga,2022,1,1,0,3,3.0
+Gonzalo Escalante,Cadiz,La Liga,2023,1,1,0,3,3.0
+Germán Pezzella,Real Betis,La Liga,2023,1,1,0,3,3.0
+H. Mkhitaryan,AS Roma,Serie A,2021,1,1,0,3,3.0
+H. Mendes,Marseille,Ligue 1,2021,1,1,0,3,3.0
+H. Meister,Rennes,Ligue 1,2024,1,1,0,3,3.0
+H. Maguire,Manchester United,Premier League,2023,1,1,0,3,3.0
+H. Lozano,Napoli,Serie A,2022,1,1,0,3,3.0
+H. Lozano,Napoli,Serie A,2021,1,1,0,3,3.0
+H. Kane,Tottenham,Premier League,2021,1,1,0,3,3.0
+H. Guirassy,Nantes,Ligue 1,2024,1,1,0,3,3.0
+H. Ekitiké,Eintracht Frankfurt,Bundesliga,2024,1,1,0,3,3.0
+H. Ekitike,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+H. Diarra,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+H. Boudaoui,Nice,Ligue 1,2021,1,1,0,3,3.0
+H. Barnes,Leicester,Premier League,2021,1,1,0,3,3.0
+H. Aouar,Lyon,Ligue 1,2021,1,1,0,3,3.0
+G. Konan,Reims,Ligue 1,2021,1,1,0,3,3.0
+G. Isaksen,Lazio,Serie A,2023,1,1,0,3,3.0
+Hwang Hee-Chan,Wolves,Premier League,2021,1,1,0,3,3.0
+Hugo Álvarez,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+Hugo Novoa,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+Hugo Novoa,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+Hugo Guillamón,Valencia,La Liga,2022,1,1,0,3,3.0
+Hugo Duro,Valencia,La Liga,2024,1,1,0,3,3.0
+Hugo Bueno,Liverpool,Premier League,2023,1,1,0,3,3.0
+Hernani,Parma,Serie A,2024,1,1,0,3,3.0
+Hermoso,Atletico Madrid,La Liga,2022,1,1,0,3,3.0
+H. Šabanović,Angers,Ligue 1,2022,1,1,0,3,3.0
+H. Çalhanoğlu,Inter,Serie A,2024,1,1,0,3,3.0
+H. Ziyech,Chelsea,Premier League,2021,1,1,0,3,3.0
+H. Wolf,Borussia Monchengladbach,Bundesliga,2022,1,1,0,3,3.0
+H. Traoré,Auxerre,Ligue 1,2024,1,1,0,3,3.0
+H. Ojediran,Lens,Ligue 1,2024,1,1,0,3,3.0
+H. Mkhitaryan,Inter,Serie A,2022,1,1,0,3,3.0
+G. Busio,Venezia,Serie A,2021,1,1,0,3,3.0
+G. Bonaventura,Fiorentina,Serie A,2023,1,1,0,3,3.0
+G. Bonaventura,Fiorentina,Serie A,2022,1,1,0,3,3.0
+G. Bonaventura,Fiorentina,Serie A,2021,1,1,0,3,3.0
+G. Bello,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+I. Cissoko,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+I. Cardona,Stade Brestois 29,Ligue 1,2021,1,1,0,3,3.0
+I. Cardona,Saint Etienne,Ligue 1,2024,1,1,0,3,3.0
+I. Cardona,Saint Etienne,Ligue 1,2023,1,1,0,3,3.0
+I. Cardona,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+I. Bennacer,AC Milan,Serie A,2021,1,1,0,3,3.0
+I. Belfodil,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+I. Bebou,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+I. Bebou,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+I. Balliu,Cadiz,La Liga,2022,1,1,0,3,3.0
+Hwang Hee-Chan,Wolves,Premier League,2024,1,1,0,3,3.0
+I. Koné,Lorient,Ligue 1,2021,1,1,0,3,3.0
+I. Kebbal,Reims,Ligue 1,2021,1,1,0,3,3.0
+I. Ilić,Torino,Serie A,2023,1,1,0,3,3.0
+I. Ilić,Torino,Serie A,2022,1,1,0,3,3.0
+I. Gueye,Everton,Premier League,2023,1,1,0,3,3.0
+G. Earthy,West Ham,Premier League,2023,1,1,0,3,3.0
+G. Di Lorenzo,Napoli,Serie A,2022,1,1,0,3,3.0
+G. Defrel,Sassuolo,Serie A,2021,1,1,0,3,3.0
+G. Charpentier,Parma,Serie A,2024,1,1,0,3,3.0
+G. Charbonnier,Auxerre,Ligue 1,2021,1,1,0,3,3.0
+G. Castrovilli,Fiorentina,Serie A,2021,1,1,0,3,3.0
+G. Castro,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+G. Carrillo,Elche,La Liga,2021,1,1,0,3,3.0
+G. Caprari,Verona,Serie A,2021,1,1,0,3,3.0
+G. Caprari,Monza,Serie A,2022,1,1,0,3,3.0
+G. Busio,Venezia,Serie A,2024,1,1,0,3,3.0
+I. Success,Udinese,Serie A,2023,1,1,0,3,3.0
+I. Sissoko,Saint Etienne,Ligue 1,2024,1,1,0,3,3.0
+I. Sarr,Watford,Premier League,2021,1,1,0,3,3.0
+I. Sarr,Marseille,Ligue 1,2023,1,1,0,3,3.0
+I. Sané,Metz,Ligue 1,2023,1,1,0,3,3.0
+I. Salah,Stade Brestois 29,Ligue 1,2024,1,1,0,3,3.0
+I. Rakitić,Sevilla,La Liga,2022,1,1,0,3,3.0
+I. Rakitić,Sevilla,La Liga,2021,1,1,0,3,3.0
+I. Perišić,Inter,Serie A,2021,1,1,0,3,3.0
+I. Niane,Metz,Ligue 1,2021,1,1,0,3,3.0
+I. Niane,Angers,Ligue 1,2024,1,1,0,3,3.0
+I. Nestorovski,Udinese,Serie A,2022,1,1,0,3,3.0
+I. Ndiaye,Everton,Premier League,2024,1,1,0,3,3.0
+I. Monterisi,Frosinone,Serie A,2023,1,1,0,3,3.0
+I. Mbaye,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+I. Maatsen,Borussia Dortmund,Bundesliga,2023,1,1,0,3,3.0
+Ismaila Ciss,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Isi Palazón,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Isi Palazón,Rayo Vallecano,La Liga,2021,1,1,0,3,3.0
+Isco,Real Madrid,La Liga,2021,1,1,0,3,3.0
+Isco,Real Betis,La Liga,2024,1,1,0,3,3.0
+Iker Muñoz,Osasuna,La Liga,2023,1,1,0,3,3.0
+Iker Muniain,Athletic Club,La Liga,2023,1,1,0,3,3.0
+Iker Bravo,Udinese,Serie A,2024,1,1,0,3,3.0
+Ibañez,AS Roma,Serie A,2022,1,1,0,3,3.0
+Iago Aspas,Celta Vigo,La Liga,2023,1,1,0,3,3.0
+Iago Aspas,Celta Vigo,La Liga,2022,1,1,0,3,3.0
+I. Williams,Athletic Club,La Liga,2022,1,1,0,3,3.0
+I. Wadji,Saint Etienne,Ligue 1,2023,1,1,0,3,3.0
+I. Ugbo,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+I. Toney,Brentford,Premier League,2023,1,1,0,3,3.0
+I. Sulemana,Atalanta,Serie A,2024,1,1,0,3,3.0
+Iñaki Williams,Athletic Club,La Liga,2023,1,1,0,3,3.0
+Iván Sánchez,Valladolid,La Liga,2024,1,1,0,3,3.0
+Iván Martín,Girona,La Liga,2023,1,1,0,3,3.0
+Iván Martín,Girona,La Liga,2022,1,1,0,3,3.0
+Ivan Rakitić,Sevilla,La Liga,2023,1,1,0,3,3.0
+Ismaily,Lille,Ligue 1,2022,1,1,0,3,3.0
+G. Altare,Lazio,Serie A,2024,1,1,0,3,3.0
+G. Altare,Cagliari,Serie A,2021,1,1,0,3,3.0
+Fábio Vieira,Arsenal,Premier League,2023,1,1,0,3,3.0
+Fred,Manchester United,Premier League,2022,1,1,0,3,3.0
+Fred,Manchester United,Premier League,2021,1,1,0,3,3.0
+Fran García,Rayo Vallecano,La Liga,2022,1,1,0,3,3.0
+Florian Lejeune,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Florian Lejeune,Barcelona,La Liga,2023,1,1,0,3,3.0
+Fidel,Elche,La Liga,2021,1,1,0,3,3.0
+Ferran Torres,Manchester City,Premier League,2021,1,1,0,3,3.0
+J. Bellingham,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+J. Bellingham,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+J. Bellegarde,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+J. Bellegarde,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+J. Ayew,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+J. Ayew,Crystal Palace,Premier League,2022,1,1,0,3,3.0
+J. Asoro,Metz,Ligue 1,2023,1,1,0,3,3.0
+J. Antiste,Sassuolo,Serie A,2022,1,1,0,3,3.0
+J. Anthony,Bournemouth,Premier League,2022,1,1,0,3,3.0
+J. Andersen,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+J. Andersen,Brighton,Premier League,2021,1,1,0,3,3.0
+J. Allevinah,Clermont Foot,Ligue 1,2023,1,1,0,3,3.0
+J. Allevinah,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+J. Allevinah,Clermont Foot,Ligue 1,2021,1,1,0,3,3.0
+J. Aholou,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+J.  McGinn,Aston Villa,Premier League,2021,1,1,0,3,3.0
+J. Brandt,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+J. Bogle,Sheffield Utd,Premier League,2023,1,1,0,3,3.0
+Ferran Torres,Barcelona,La Liga,2022,1,1,0,3,3.0
+Fernando Calero,Espanyol,La Liga,2024,1,1,0,3,3.0
+Fermín López,Barcelona,La Liga,2024,1,1,0,3,3.0
+Fermín López,Barcelona,La Liga,2023,1,1,0,3,3.0
+Fer Niño,Mallorca,La Liga,2021,1,1,0,3,3.0
+Felipe Anderson,Lazio,Serie A,2022,1,1,0,3,3.0
+Felipe Anderson,Lazio,Serie A,2021,1,1,0,3,3.0
+Felipe,Atletico Madrid,La Liga,2021,1,1,0,3,3.0
+Fabián Ruiz,Paris Saint Germain,Ligue 1,2023,1,1,0,3,3.0
+Fabián Ruiz,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+F. de Jong,Barcelona,La Liga,2024,1,1,0,3,3.0
+F. de Jong,Barcelona,La Liga,2021,1,1,0,3,3.0
+F. Wirtz,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+J. Bijol,Como,Serie A,2024,1,1,0,3,3.0
+J. Burkardt,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+J. Bruun Larsen,Burnley,Premier League,2023,1,1,0,3,3.0
+F. Valverde,Real Madrid,La Liga,2024,1,1,0,3,3.0
+F. Tsadjout,Cremonese,Serie A,2022,1,1,0,3,3.0
+F. Tomori,AC Milan,Serie A,2023,1,1,0,3,3.0
+F. Tait,Rennes,Ligue 1,2022,1,1,0,3,3.0
+F. Schär,Newcastle,Premier League,2024,1,1,0,3,3.0
+F. Schär,Newcastle,Premier League,2023,1,1,0,3,3.0
+F. Santander,Bologna,Serie A,2021,1,1,0,3,3.0
+F. Sacko,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+J. Bruun Larsen,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+J. Brownhill,Burnley,Premier League,2021,1,1,0,3,3.0
+J. Brekalo,Torino,Serie A,2021,1,1,0,3,3.0
+J. Branthwaite,Everton,Premier League,2023,1,1,0,3,3.0
+J. Brandt,Borussia Dortmund,Bundesliga,2024,1,1,0,3,3.0
+J. Brandt,Borussia Dortmund,Bundesliga,2023,1,1,0,3,3.0
+J. Dossou,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+J. Dossou,Clermont Foot,Ligue 1,2021,1,1,0,3,3.0
+J. Doku,Rennes,Ligue 1,2022,1,1,0,3,3.0
+J. Doku,Rennes,Ligue 1,2021,1,1,0,3,3.0
+J. Doku,Manchester City,Premier League,2024,1,1,0,3,3.0
+J. Doku,Manchester City,Premier League,2023,1,1,0,3,3.0
+J. Diehl,VfB Stuttgart,Bundesliga,2024,1,1,0,3,3.0
+J. Denayer,Lyon,Ligue 1,2021,1,1,0,3,3.0
+J. Cuadrado,Juventus,Serie A,2021,1,1,0,3,3.0
+J. Correa,Inter,Serie A,2022,1,1,0,3,3.0
+J. Corona,Sevilla,La Liga,2022,1,1,0,3,3.0
+J. Cork,Burnley,Premier League,2021,1,1,0,3,3.0
+J. Clauss,Lens,Ligue 1,2021,1,1,0,3,3.0
+J. Cajuste,Ipswich,Premier League,2024,1,1,0,3,3.0
+J. Bynoe-Gittens,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+J. Burkardt,FSV Mainz 05,Bundesliga,2023,1,1,0,3,3.0
+J. Guilavogui,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+J. Guilavogui,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+J. Greaves,Ipswich,Premier League,2024,1,1,0,3,3.0
+J. Grealish,Manchester City,Premier League,2023,1,1,0,3,3.0
+J. Gradit,Lens,Ligue 1,2023,1,1,0,3,3.0
+J. Gradit,Lens,Ligue 1,2022,1,1,0,3,3.0
+J. Giraudon,Lille,Ligue 1,2021,1,1,0,3,3.0
+J. Giménez,Atletico Madrid,La Liga,2022,1,1,0,3,3.0
+J. Gastien,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+J. Frimpong,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+J. Foyth,Villarreal,La Liga,2022,1,1,0,3,3.0
+J. Enciso,Brighton,Premier League,2022,1,1,0,3,3.0
+J. Ekkelenkamp,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+J. Ekhator,Genoa,Serie A,2024,1,1,0,3,3.0
+J. Eggestein,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+J. Draxler,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+F. Neuhaus,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+F. Mollet,Nantes,Ligue 1,2023,1,1,0,3,3.0
+F. Mollet,Montpellier,Ligue 1,2021,1,1,0,3,3.0
+J. Iličić,Atalanta,Serie A,2021,1,1,0,3,3.0
+J. Ikoné,Lille,Ligue 1,2021,1,1,0,3,3.0
+J. Ikoné,Fiorentina,Serie A,2023,1,1,0,3,3.0
+J. Ikoné,Fiorentina,Serie A,2022,1,1,0,3,3.0
+J. Idzes,Venezia,Serie A,2024,1,1,0,3,3.0
+J. Hofmann,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+J. Hauge,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+J. Harrison,Leeds,Premier League,2022,1,1,0,3,3.0
+J. Haberer,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+J. Gvardiol,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+J. Gvardiol,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+J. Gvardiol,Manchester City,Premier League,2024,1,1,0,3,3.0
+J. Gvardiol,Manchester City,Premier League,2023,1,1,0,3,3.0
+J. Kimmich,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+J. Karlsson,Bologna,Serie A,2024,1,1,0,3,3.0
+J. Joronen,Verona,Serie A,2024,1,1,0,3,3.0
+J. Ito,Reims,Ligue 1,2023,1,1,0,3,3.0
+J. Ito,Reims,Ligue 1,2022,1,1,0,3,3.0
+F. Sacko,Marseille,Ligue 1,2023,1,1,0,3,3.0
+F. Russo,Mallorca,La Liga,2021,1,1,0,3,3.0
+F. Rieder,VfB Stuttgart,Bundesliga,2024,1,1,0,3,3.0
+F. Rieder,Rennes,Ligue 1,2023,1,1,0,3,3.0
+F. Passlack,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+F. Parisi,Empoli,Serie A,2022,1,1,0,3,3.0
+F. Onyeka,Brentford,Premier League,2023,1,1,0,3,3.0
+F. Ogier,Clermont Foot,Ligue 1,2023,1,1,0,3,3.0
+F. Nmecha,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+F. Nmecha,Borussia Dortmund,Bundesliga,2024,1,1,0,3,3.0
+F. Niederlechner,FC Augsburg,Bundesliga,2021,1,1,0,3,3.0
+J. Leweling,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+J. Leweling,SpVgg Greuther Furth,Bundesliga,2021,1,1,0,3,3.0
+J. Lerma,Manchester City,Premier League,2022,1,1,0,3,3.0
+J. Lerma,Bournemouth,Premier League,2022,1,1,0,3,3.0
+J. Le Douaron,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+J. Le Douaron,Stade Brestois 29,Ligue 1,2022,1,1,0,3,3.0
+J. Le Douaron,Stade Brestois 29,Ligue 1,2021,1,1,0,3,3.0
+J. Laursen,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+J. Laporte,Lorient,Ligue 1,2021,1,1,0,3,3.0
+J. Kucka,Watford,Premier League,2021,1,1,0,3,3.0
+J. Kucka,Norwich,Premier League,2021,1,1,0,3,3.0
+J. Krasso,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+J. Koundé,Real Betis,La Liga,2022,1,1,0,3,3.0
+J. Kluivert,Nice,Ligue 1,2021,1,1,0,3,3.0
+J. Kiwior,Arsenal,Premier League,2022,1,1,0,3,3.0
+J. King,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+J. Manzambi,SC Freiburg,Bundesliga,2024,1,1,0,3,3.0
+J. Malatini,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+F. Mollet,FC Schalke 04,Bundesliga,2022,1,1,0,3,3.0
+F. Mendy,Real Madrid,La Liga,2021,1,1,0,3,3.0
+F. Melegoni,Genoa,Serie A,2021,1,1,0,3,3.0
+F. Maouassa,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+F. Lemaréchal,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+F. Lejeune,Real Sociedad,La Liga,2022,1,1,0,3,3.0
+F. Lejeune,Rayo Vallecano,La Liga,2022,1,1,0,3,3.0
+F. Klos,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+F. Kessié,Barcelona,La Liga,2022,1,1,0,3,3.0
+F. Kessié,AC Milan,Serie A,2021,1,1,0,3,3.0
+F. Jensen,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+J. Maddison,Leicester,Premier League,2022,1,1,0,3,3.0
+J. Lotomba,Nice,Ligue 1,2023,1,1,0,3,3.0
+J. Locadia,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+J. Njinmah,Werder Bremen,Bundesliga,2024,1,1,0,3,3.0
+J. Njinmah,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+J. Nilsson,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+J. Niemiec,Fortuna Dusseldorf,Bundesliga,2023,1,1,0,3,3.0
+J. Ngankam,Hertha Berlin,Bundesliga,2022,1,1,0,3,3.0
+J. Mæhle,VfL Wolfsburg,Bundesliga,2024,1,1,0,3,3.0
+J. Mæhle,Atalanta,Serie A,2021,1,1,0,3,3.0
+J. Mwanga,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+J. Musiala,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+J. Murphy,Newcastle,Premier League,2023,1,1,0,3,3.0
+J. Murphy,Newcastle,Premier League,2022,1,1,0,3,3.0
+J. Mojica,Mallorca,La Liga,2024,1,1,0,3,3.0
+J. McGinn,Aston Villa,Premier League,2024,1,1,0,3,3.0
+J. McAtee,Manchester City,Premier League,2024,1,1,0,3,3.0
+J. Matip,Tottenham,Premier League,2023,1,1,0,3,3.0
+J. Mateta,Crystal Palace,Premier League,2022,1,1,0,3,3.0
+J. Sebas,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+J. Schlupp,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+J. Schlupp,Crystal Palace,Premier League,2022,1,1,0,3,3.0
+J. Schlupp,Crystal Palace,Premier League,2021,1,1,0,3,3.0
+J. Scally,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+J. Scally,Borussia Monchengladbach,Bundesliga,2021,1,1,0,3,3.0
+J. Sambia,Salernitana,Serie A,2023,1,1,0,3,3.0
+J. Rowe,Marseille,Ligue 1,2024,1,1,0,3,3.0
+J. Robinson,Luton,Premier League,2023,1,1,0,3,3.0
+J. Ramsey,Aston Villa,Premier League,2023,1,1,0,3,3.0
+J. Ramsey,Aston Villa,Premier League,2022,1,1,0,3,3.0
+J. Perea,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+J. Palomino,Atalanta,Serie A,2022,1,1,0,3,3.0
+J. Ondrejka,Parma,Serie A,2024,1,1,0,3,3.0
+J. Onana,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+J. O'Brien,Lyon,Ligue 1,2023,1,1,0,3,3.0
+J. Tah,Bayer Leverkusen,Bundesliga,2021,1,1,0,3,3.0
+J. Stage,Werder Bremen,Bundesliga,2022,1,1,0,3,3.0
+J. Solís,Girona,La Liga,2024,1,1,0,3,3.0
+J. Siebatcheu,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+F. Honorat,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+F. Hanin,Angers,Ligue 1,2024,1,1,0,3,3.0
+F. Guilbert,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+F. Gatti,Sassuolo,Serie A,2023,1,1,0,3,3.0
+F. Gatti,Juventus,Serie A,2023,1,1,0,3,3.0
+F. Di Francesco,Lecce,Serie A,2023,1,1,0,3,3.0
+F. Dahmen,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+F. Coquelin,Villarreal,La Liga,2022,1,1,0,3,3.0
+F. Chiesa,Juventus,Serie A,2022,1,1,0,3,3.0
+F. Chaïbi,Toulouse,Ligue 1,2022,1,1,0,3,3.0
+F. Ceccherini,Verona,Serie A,2022,1,1,0,3,3.0
+F. Caputo,Empoli,Serie A,2023,1,1,0,3,3.0
+F. Ballo,AC Milan,Serie A,2022,1,1,0,3,3.0
+F. Arp,Holstein Kiel,Bundesliga,2024,1,1,0,3,3.0
+J. Ward,Crystal Palace,Premier League,2022,1,1,0,3,3.0
+J. Vásquez,Genoa,Serie A,2021,1,1,0,3,3.0
+J. Vásquez,Cremonese,Serie A,2022,1,1,0,3,3.0
+J. Veretout,AS Roma,Serie A,2021,1,1,0,3,3.0
+J. Vardy,Leicester,Premier League,2024,1,1,0,3,3.0
+J. Vagnoman,VfB Stuttgart,Bundesliga,2024,1,1,0,3,3.0
+J. Vagnoman,VfB Stuttgart,Bundesliga,2023,1,1,0,3,3.0
+J. Vagnoman,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+J. Thielmann,1.FC Köln,Bundesliga,2023,1,1,0,3,3.0
+J. Tchatchoua,Verona,Serie A,2024,1,1,0,3,3.0
+J. Taylor,Ipswich,Premier League,2024,1,1,0,3,3.0
+J. Tarkowski,Everton,Premier League,2024,1,1,0,3,3.0
+J. Tah,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+J. Tah,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+J. Worrall,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+J. Wind,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+J. Wind,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+J. Wilson-Esbrand,Reims,Ligue 1,2023,1,1,0,3,3.0
+J. Willock,Newcastle,Premier League,2023,1,1,0,3,3.0
+J. Weigl,Borussia Monchengladbach,Bundesliga,2022,1,1,0,3,3.0
+F. Caputo,Empoli,Serie A,2022,1,1,0,3,3.0
+F. Caicedo,Genoa,Serie A,2021,1,1,0,3,3.0
+F. Buonanotte,Leicester,Premier League,2024,1,1,0,3,3.0
+F. Boulaya,Metz,Ligue 1,2021,1,1,0,3,3.0
+F. Bonazzoli,Salernitana,Serie A,2022,1,1,0,3,3.0
+F. Bianchi,Genoa,Serie A,2021,1,1,0,3,3.0
+F. Bernardeschi,Juventus,Serie A,2021,1,1,0,3,3.0
+F. Baschirotto,Lecce,Serie A,2024,1,1,0,3,3.0
+F. Bandinelli,Empoli,Serie A,2021,1,1,0,3,3.0
+F. Balogun,Monaco,Ligue 1,2024,1,1,0,3,3.0
+Jesús Areso,Osasuna,La Liga,2023,1,1,0,3,3.0
+Jeong Wooyeong,Union Berlin,Bundesliga,2024,1,1,0,3,3.0
+Jeong Woo-Yeong,VfB Stuttgart,Bundesliga,2023,1,1,0,3,3.0
+Jeffinho,Lyon,Ligue 1,2023,1,1,0,3,3.0
+Javier Muñoz,Las Palmas,La Liga,2023,1,1,0,3,3.0
+Javier Hernández,Cadiz,La Liga,2023,1,1,0,3,3.0
+Javi Muñoz,Las Palmas,La Liga,2024,1,1,0,3,3.0
+Javi Martínez,Osasuna,La Liga,2021,1,1,0,3,3.0
+Javi Llabrés,Mallorca,La Liga,2023,1,1,0,3,3.0
+Javi Guerra,Valencia,La Liga,2022,1,1,0,3,3.0
+Jaime Mata,Getafe,La Liga,2023,1,1,0,3,3.0
+Jaime Mata,Getafe,La Liga,2022,1,1,0,3,3.0
+Jacobo Ramón,Real Madrid,La Liga,2024,1,1,0,3,3.0
+J. Álvarez,Manchester City,Premier League,2022,1,1,0,3,3.0
+J. Zirkzee,Manchester United,Premier League,2024,1,1,0,3,3.0
+J. Zirkzee,Bologna,Serie A,2022,1,1,0,3,3.0
+Jorge de Frutos,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+Jorge de Frutos,Levante,La Liga,2021,1,1,0,3,3.0
+Jorge Sáenz,Leganes,La Liga,2024,1,1,0,3,3.0
+Jorge Pascual,Villarreal,La Liga,2022,1,1,0,3,3.0
+Jordi Alba,Barcelona,La Liga,2022,1,1,0,3,3.0
+Jordi Alba,Barcelona,La Liga,2021,1,1,0,3,3.0
+Jonathan Viera,Las Palmas,La Liga,2023,1,1,0,3,3.0
+Jon Olasagasti,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+Jon Guridi,Real Sociedad,La Liga,2021,1,1,0,3,3.0
+Jon Guridi,Alaves,La Liga,2024,1,1,0,3,3.0
+Jon Guridi,Alaves,La Liga,2023,1,1,0,3,3.0
+Joelinton,Newcastle,Premier League,2024,1,1,0,3,3.0
+Joelinton,Newcastle,Premier League,2023,1,1,0,3,3.0
+Joelinton,Newcastle,Premier League,2022,1,1,0,3,3.0
+Joaquín Fernández,Atletico Madrid,La Liga,2022,1,1,0,3,3.0
+Jesús Vázquez,Valencia,La Liga,2023,1,1,0,3,3.0
+Jota,Rennes,Ligue 1,2024,1,1,0,3,3.0
+José Sá,Arsenal,Premier League,2021,1,1,0,3,3.0
+José Gragera,Espanyol,La Liga,2022,1,1,0,3,3.0
+José Gayà,Valencia,La Liga,2021,1,1,0,3,3.0
+Josep Chavarría,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Joselu,Real Madrid,La Liga,2023,1,1,0,3,3.0
+F. Agu,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+Eric García,Barcelona,La Liga,2024,1,1,0,3,3.0
+Enric Franquesa,Leganes,La Liga,2024,1,1,0,3,3.0
+Endrick,Real Madrid,La Liga,2024,1,1,0,3,3.0
+E. Ünal,Getafe,La Liga,2021,1,1,0,3,3.0
+E. Ünal,Bournemouth,Premier League,2023,1,1,0,3,3.0
+E. Álvarez,West Ham,Premier League,2023,1,1,0,3,3.0
+E. Zhegrova,Lille,Ligue 1,2024,1,1,0,3,3.0
+E. Zhegrova,Lille,Ligue 1,2023,1,1,0,3,3.0
+Jorginho,Chelsea,Premier League,2022,1,1,0,3,3.0
+João Moutinho,Wolves,Premier League,2021,1,1,0,3,3.0
+João Gomes,Wolves,Premier League,2022,1,1,0,3,3.0
+João Félix,Chelsea,Premier League,2024,1,1,0,3,3.0
+E. Zhegrova,Lille,Ligue 1,2021,1,1,0,3,3.0
+E. Wahi,Montpellier,Ligue 1,2021,1,1,0,3,3.0
+E. Vignato,Empoli,Serie A,2022,1,1,0,3,3.0
+E. Valeri,Cremonese,Serie A,2022,1,1,0,3,3.0
+E. Touré,VfB Stuttgart,Bundesliga,2024,1,1,0,3,3.0
+E. Touré,Almeria,La Liga,2022,1,1,0,3,3.0
+E. Tchato,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+E. Tapsoba,RB Leipzig,Bundesliga,2024,1,1,0,3,3.0
+E. Smith,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+E. Skhiri,FC Koln,Bundesliga,2022,1,1,0,3,3.0
+E. Skhiri,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+E. Simms,Everton,Premier League,2022,1,1,0,3,3.0
+João Félix,Barcelona,La Liga,2023,1,1,0,3,3.0
+Junior Messias,Genoa,Serie A,2024,1,1,0,3,3.0
+Junior Messias,Genoa,Serie A,2023,1,1,0,3,3.0
+Junior Messias,AC Milan,Serie A,2021,1,1,0,3,3.0
+Junior Firpo,Leeds,Premier League,2022,1,1,0,3,3.0
+Jubal,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+Jubal,Auxerre,Ligue 1,2022,1,1,0,3,3.0
+Jubal,Auxerre,Ligue 1,2021,1,1,0,3,3.0
+Juanmi Latasa,Valladolid,La Liga,2024,1,1,0,3,3.0
+Juan Soriano,Osasuna,La Liga,2024,1,1,0,3,3.0
+Juan Jesus,Napoli,Serie A,2023,1,1,0,3,3.0
+Juan Cruz,Real Betis,La Liga,2022,1,1,0,3,3.0
+Juan Bernat,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+João Pedro,Cagliari,Serie A,2021,1,1,0,3,3.0
+João Palhinha,Leeds,Premier League,2022,1,1,0,3,3.0
+João Palhinha,Fulham,Premier League,2023,1,1,0,3,3.0
+João Palhinha,Fulham,Premier League,2022,1,1,0,3,3.0
+K. Bamba,Nantes,Ligue 1,2023,1,1,0,3,3.0
+K. Baldé,Monza,Serie A,2024,1,1,0,3,3.0
+K. Ayhan,Sassuolo,Serie A,2021,1,1,0,3,3.0
+K. Akpoguma,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+E. Shomurodov,Cagliari,Serie A,2023,1,1,0,3,3.0
+E. Shomurodov,AS Roma,Serie A,2024,1,1,0,3,3.0
+E. Shomurodov,AS Roma,Serie A,2021,1,1,0,3,3.0
+E. Sabbi,LE Havre,Ligue 1,2023,1,1,0,3,3.0
+E. Rexhbeçaj,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+E. Rashani,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+E. Ponce,Elche,La Liga,2021,1,1,0,3,3.0
+E. Pinnock,Newcastle,Premier League,2022,1,1,0,3,3.0
+E. Pinnock,Brentford,Premier League,2022,1,1,0,3,3.0
+E. Nuamah,Lyon,Ligue 1,2024,1,1,0,3,3.0
+K. Ajer,Brentford,Premier League,2021,1,1,0,3,3.0
+Jérémie Bela,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+K. Gameiro,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+K. Fayad,Montpellier,Ligue 1,2023,1,1,0,3,3.0
+K. Fayad,Lyon,Ligue 1,2024,1,1,0,3,3.0
+K. Ehizibue,Udinese,Serie A,2022,1,1,0,3,3.0
+K. Doumbia,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+K. Dolberg,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+K. Diatta,Monaco,Ligue 1,2022,1,1,0,3,3.0
+K. Demirbay,Bayer Leverkusen,Bundesliga,2021,1,1,0,3,3.0
+K. De Winter,Genoa,Serie A,2024,1,1,0,3,3.0
+K. De Bruyne,Manchester City,Premier League,2021,1,1,0,3,3.0
+K. Davis,Udinese,Serie A,2023,1,1,0,3,3.0
+K. Danso,Lens,Ligue 1,2023,1,1,0,3,3.0
+K. Coman,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+K. Coman,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+K. Behrens,VfL Wolfsburg,Bundesliga,2024,1,1,0,3,3.0
+K. Behrens,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+E. Holm,Atalanta,Serie A,2023,1,1,0,3,3.0
+K. Mavropanos,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+K. Mainoo,Manchester United,Premier League,2023,1,1,0,3,3.0
+K. Lewis-Potter,Brentford,Premier League,2024,1,1,0,3,3.0
+K. Lala,Stade Brestois 29,Ligue 1,2024,1,1,0,3,3.0
+K. Lala,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+K. Laimer,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+K. Kvaratskhelia,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+K. Kvaratskhelia,Napoli,Serie A,2023,1,1,0,3,3.0
+K. Koulibaly,Napoli,Serie A,2021,1,1,0,3,3.0
+K. Karaman,FC Schalke 04,Bundesliga,2022,1,1,0,3,3.0
+K. Jakić,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+K. Jakić,Eintracht Frankfurt,Bundesliga,2022,1,1,0,3,3.0
+K. Hause,Aston Villa,Premier League,2021,1,1,0,3,3.0
+K. Günter,AC Milan,Serie A,2021,1,1,0,3,3.0
+K. Gameiro,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+K. Moore,Bournemouth,Premier League,2022,1,1,0,3,3.0
+K. Miyoshi,VfL Bochum,Bundesliga,2024,1,1,0,3,3.0
+K. Mitoma,Brighton,Premier League,2023,1,1,0,3,3.0
+K. Mitoma,Brighton,Premier League,2022,1,1,0,3,3.0
+K. McLean,Norwich,Premier League,2021,1,1,0,3,3.0
+E. Nketiah,Crystal Palace,Premier League,2024,1,1,0,3,3.0
+E. Nketiah,Arsenal,Premier League,2022,1,1,0,3,3.0
+E. Ndicka,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+E. Millot,VfB Stuttgart,Bundesliga,2024,1,1,0,3,3.0
+E. Mašović,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+E. Martínez,Luton,Premier League,2023,1,1,0,3,3.0
+E. Martínez,Arsenal,Premier League,2022,1,1,0,3,3.0
+E. Lepaul,Angers,Ligue 1,2024,1,1,0,3,3.0
+E. Le Fée,Lorient,Ligue 1,2022,1,1,0,3,3.0
+E. Kroupi,Lorient,Ligue 1,2023,1,1,0,3,3.0
+E. Konsa,Aston Villa,Premier League,2024,1,1,0,3,3.0
+K. Piątek,Salernitana,Serie A,2022,1,1,0,3,3.0
+E. Gyasi,Empoli,Serie A,2023,1,1,0,3,3.0
+E. Guessand,Nice,Ligue 1,2024,1,1,0,3,3.0
+E. Guessand,Nice,Ligue 1,2021,1,1,0,3,3.0
+E. Guessand,Nantes,Ligue 1,2022,1,1,0,3,3.0
+E. Goldaniga,Como,Serie A,2024,1,1,0,3,3.0
+E. Forsberg,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+E. Fernández,Chelsea,Premier League,2023,1,1,0,3,3.0
+E. Ferguson,Brighton,Premier League,2024,1,1,0,3,3.0
+E. Ferguson,Brighton,Premier League,2023,1,1,0,3,3.0
+E. Eze,Crystal Palace,Premier League,2024,1,1,0,3,3.0
+K. Paredes,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+K. Onisiwo,FSV Mainz 05,Bundesliga,2023,1,1,0,3,3.0
+K. Onisiwo,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+K. Mutandwa,Cagliari,Serie A,2023,1,1,0,3,3.0
+K. Moore,Bournemouth,Premier League,2023,1,1,0,3,3.0
+K. Yıldız,Juventus,Serie A,2023,1,1,0,3,3.0
+K. Yeboah,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+K. Walker-Peters,Southampton,Premier League,2022,1,1,0,3,3.0
+K. Volland,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+K. Volland,Reims,Ligue 1,2021,1,1,0,3,3.0
+K. Trippier,Newcastle,Premier League,2021,1,1,0,3,3.0
+K. Topp,Werder Bremen,Bundesliga,2024,1,1,0,3,3.0
+K. Toko-Ekambi,Lyon,Ligue 1,2022,1,1,0,3,3.0
+K. Stöger,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+K. Stöger,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+K. Schlotterbeck,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+K. Schlotterbeck,FC Heidenheim,Bundesliga,2023,1,1,0,3,3.0
+K. Schlotterbeck,FC Augsburg,Bundesliga,2024,1,1,0,3,3.0
+K. Schade,SC Freiburg,Bundesliga,2022,1,1,0,3,3.0
+K. Schade,Brentford,Premier League,2023,1,1,0,3,3.0
+K. Rekik,Sevilla,La Liga,2022,1,1,0,3,3.0
+L. Ajorque,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+L. Ajorque,FSV Mainz 05,Bundesliga,2023,1,1,0,3,3.0
+L. Ajorque,FSV Mainz 05,Bundesliga,2022,1,1,0,3,3.0
+L. Abram,Alaves,La Liga,2021,1,1,0,3,3.0
+Koke,Atletico Madrid,La Liga,2024,1,1,0,3,3.0
+Koka,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+Kirian Rodríguez,Las Palmas,La Liga,2023,1,1,0,3,3.0
+Kim Min-Jae,Napoli,Serie A,2022,1,1,0,3,3.0
+Kike Salas,Sevilla,La Liga,2024,1,1,0,3,3.0
+Kike Salas,Sevilla,La Liga,2023,1,1,0,3,3.0
+Kike García,Osasuna,La Liga,2022,1,1,0,3,3.0
+Kaio Jorge,Frosinone,Serie A,2023,1,1,0,3,3.0
+Kaiky,Almeria,La Liga,2023,1,1,0,3,3.0
+K. Ịheanachọ,Leicester,Premier League,2021,1,1,0,3,3.0
+K. Świderski,Verona,Serie A,2023,1,1,0,3,3.0
+K. Zouma,West Ham,Premier League,2023,1,1,0,3,3.0
+L. Bittencourt,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+L. Beltrán,Fiorentina,Serie A,2023,1,1,0,3,3.0
+L. Barreiro,FSV Mainz 05,Bundesliga,2023,1,1,0,3,3.0
+L. Banda,Lecce,Serie A,2022,1,1,0,3,3.0
+L. Bailey                                  1,Aston Villa,Premier League,2023,1,1,0,3,3.0
+L. Bailey,Aston Villa,Premier League,2024,1,1,0,3,3.0
+E. Eze,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+E. Eze,Crystal Palace,Premier League,2022,1,1,0,3,3.0
+E. Eyong,Villarreal,La Liga,2024,1,1,0,3,3.0
+E. Elmas,Napoli,Serie A,2021,1,1,0,3,3.0
+E. Ebimbe,Eintracht Frankfurt,Bundesliga,2022,1,1,0,3,3.0
+E. Dier,Newcastle,Premier League,2021,1,1,0,3,3.0
+E. Dier,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+L. Ayling,Leeds,Premier League,2021,1,1,0,3,3.0
+L. Assignon,Rennes,Ligue 1,2024,1,1,0,3,3.0
+L. Alario,Eintracht Frankfurt,Bundesliga,2022,1,1,0,3,3.0
+L. De Silvestri,Bologna,Serie A,2021,1,1,0,3,3.0
+L. Da Cunha,Clermont Foot,Ligue 1,2021,1,1,0,3,3.0
+L. Coulibaly,Auxerre,Ligue 1,2024,1,1,0,3,3.0
+L. Cook,Bournemouth,Premier League,2024,1,1,0,3,3.0
+L. Colombo,Monza,Serie A,2023,1,1,0,3,3.0
+L. Caldirola,Monza,Serie A,2023,1,1,0,3,3.0
+L. Caldirola,Monza,Serie A,2022,1,1,0,3,3.0
+L. Cabrera,Espanyol,La Liga,2024,1,1,0,3,3.0
+L. Cabrera,Espanyol,La Liga,2021,1,1,0,3,3.0
+L. Bénes,Union Berlin,Bundesliga,2024,1,1,0,3,3.0
+L. Buchanan,Werder Bremen,Bundesliga,2022,1,1,0,3,3.0
+L. Brassier,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+L. Boyé,Elche,La Liga,2021,1,1,0,3,3.0
+L. Bonucci,Juventus,Serie A,2022,1,1,0,3,3.0
+L. Blas,Rennes,Ligue 1,2023,1,1,0,3,3.0
+L. Blas,Nantes,Ligue 1,2021,1,1,0,3,3.0
+E. Biumla,Angers,Ligue 1,2024,1,1,0,3,3.0
+E. Ben Seghir,Monaco,Ligue 1,2022,1,1,0,3,3.0
+L. Hall,Newcastle,Premier League,2023,1,1,0,3,3.0
+L. Gourna-Douath,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+L. Goretzka,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+L. Giannetti,Napoli,Serie A,2024,1,1,0,3,3.0
+L. Gechter,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+L. Díaz,Liverpool,Premier League,2024,1,1,0,3,3.0
+L. Díaz,Liverpool,Premier League,2022,1,1,0,3,3.0
+L. Díaz,Liverpool,Premier League,2021,1,1,0,3,3.0
+L. Dobbin,Everton,Premier League,2023,1,1,0,3,3.0
+L. Digne,Everton,Premier League,2022,1,1,0,3,3.0
+L. Digne,Aston Villa,Premier League,2023,1,1,0,3,3.0
+L. Delap,Ipswich,Premier League,2024,1,1,0,3,3.0
+L. De Silvestri,Bologna,Serie A,2023,1,1,0,3,3.0
+L. De Silvestri,Bologna,Serie A,2022,1,1,0,3,3.0
+L. Kerber,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+L. Jović,AC Milan,Serie A,2024,1,1,0,3,3.0
+L. Höler,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+L. Höler,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+L. Henderson,Empoli,Serie A,2021,1,1,0,3,3.0
+E. Cömert,Valencia,La Liga,2022,1,1,0,3,3.0
+E. Choupo-Moting,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+E. Choupo-Moting,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+E. Capoue,Villarreal,La Liga,2021,1,1,0,3,3.0
+E. Can,Borussia Dortmund,Bundesliga,2024,1,1,0,3,3.0
+E. Can,Borussia Dortmund,Bundesliga,2023,1,1,0,3,3.0
+E. Can,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+E. Buendía,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+E. Boyomo,Osasuna,La Liga,2024,1,1,0,3,3.0
+E. Bove,AS Roma,Serie A,2021,1,1,0,3,3.0
+E. Botheim,Salernitana,Serie A,2022,1,1,0,3,3.0
+L. Modrić,Real Madrid,La Liga,2021,1,1,0,3,3.0
+L. Mincarelli,Montpellier,Ligue 1,2024,1,1,0,3,3.0
+L. Messi,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+L. Mazzitelli,Frosinone,Serie A,2023,1,1,0,3,3.0
+L. Martínez,Tottenham,Premier League,2023,1,1,0,3,3.0
+L. Martínez,Inter,Serie A,2022,1,1,0,3,3.0
+L. Martínez,Inter,Serie A,2021,1,1,0,3,3.0
+L. Majer,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+L. Majer,Rennes,Ligue 1,2022,1,1,0,3,3.0
+L. Maina,FC Koln,Bundesliga,2022,1,1,0,3,3.0
+L. Mafouta,Metz,Ligue 1,2021,1,1,0,3,3.0
+L. Lucca,Udinese,Serie A,2024,1,1,0,3,3.0
+L. Lochoshvili,Cremonese,Serie A,2022,1,1,0,3,3.0
+L. Kübler,SC Freiburg,Bundesliga,2024,1,1,0,3,3.0
+L. Krejčí,Girona,La Liga,2024,1,1,0,3,3.0
+L. Kilian,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+L. Muriel,Atalanta,Serie A,2023,1,1,0,3,3.0
+L. Muriel,Atalanta,Serie A,2022,1,1,0,3,3.0
+Dário Essugo,Las Palmas,La Liga,2024,1,1,0,3,3.0
+Douglas Luiz,Aston Villa,Premier League,2022,1,1,0,3,3.0
+Douglas Augusto,Nantes,Ligue 1,2024,1,1,0,3,3.0
+Domingos Duarte,Getafe,La Liga,2024,1,1,0,3,3.0
+Diogo Jota,Liverpool,Premier League,2022,1,1,0,3,3.0
+Diogo Dalot,Manchester United,Premier League,2023,1,1,0,3,3.0
+Diogo Dalot,Manchester United,Premier League,2022,1,1,0,3,3.0
+Diego Llorente,AS Roma,Serie A,2023,1,1,0,3,3.0
+Diego García,Leganes,La Liga,2024,1,1,0,3,3.0
+L. Mothiba,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+L. Mothiba,Strasbourg,Ligue 1,2022,1,1,0,3,3.0
+L. Mothiba,Estac Troyes,Ligue 1,2021,1,1,0,3,3.0
+L. Modrić,Real Madrid,La Liga,2024,1,1,0,3,3.0
+L. Modrić,Real Madrid,La Liga,2022,1,1,0,3,3.0
+L. Schaub,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+L. Sané,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+L. Sané,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+L. Samardžić,Atalanta,Serie A,2024,1,1,0,3,3.0
+L. Ritzka,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+L. Rao-Lisoa,Angers,Ligue 1,2022,1,1,0,3,3.0
+L. Ranieri,Fiorentina,Serie A,2023,1,1,0,3,3.0
+L. Pétrot,Lorient,Ligue 1,2021,1,1,0,3,3.0
+L. Pellegrini,AS Roma,Serie A,2022,1,1,0,3,3.0
+L. Pavoletti,Cagliari,Serie A,2024,1,1,0,3,3.0
+L. Pavoletti,Cagliari,Serie A,2021,1,1,0,3,3.0
+L. Ocampos,Sevilla,La Liga,2022,1,1,0,3,3.0
+L. Ocampos,Sevilla,La Liga,2021,1,1,0,3,3.0
+L. O'Brien,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+L. Nmecha,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+L. Nmecha,VfL Wolfsburg,Bundesliga,2021,1,1,0,3,3.0
+L. Sinisterra,Bournemouth,Premier League,2023,1,1,0,3,3.0
+L. Sinayoko,Auxerre,Ligue 1,2024,1,1,0,3,3.0
+Deulofeu,Udinese,Serie A,2021,1,1,0,3,3.0
+Denis Suárez,Villarreal,La Liga,2024,1,1,0,3,3.0
+De Marcos,Athletic Club,La Liga,2021,1,1,0,3,3.0
+David Pereira da Costa,Lens,Ligue 1,2023,1,1,0,3,3.0
+David Neres,Napoli,Serie A,2024,1,1,0,3,3.0
+David García,Osasuna,La Liga,2021,1,1,0,3,3.0
+David Costa,Lens,Ligue 1,2022,1,1,0,3,3.0
+Darío Poveda,Getafe,La Liga,2021,1,1,0,3,3.0
+Darwin Machís,Cadiz,La Liga,2023,1,1,0,3,3.0
+Dany Mota,Monza,Serie A,2024,1,1,0,3,3.0
+Dany Mota,Monza,Serie A,2023,1,1,0,3,3.0
+Dany Mota,Monza,Serie A,2022,1,1,0,3,3.0
+Danilo Pereira,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+Danilo,Juventus,Serie A,2022,1,1,0,3,3.0
+Lee Jae-Sung,FSV Mainz 05,Bundesliga,2022,1,1,0,3,3.0
+Lee Jae-Sung,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+Lamine Yamal,Barcelona,La Liga,2023,1,1,0,3,3.0
+L. Štulac,Empoli,Serie A,2021,1,1,0,3,3.0
+L. Venuti,AC Milan,Serie A,2021,1,1,0,3,3.0
+L. Valenti,Parma,Serie A,2024,1,1,0,3,3.0
+L. Ugochukwu,Southampton,Premier League,2024,1,1,0,3,3.0
+L. Ugochukwu,Rennes,Ligue 1,2021,1,1,0,3,3.0
+L. Trossard,Brighton,Premier League,2022,1,1,0,3,3.0
+L. Torreira,Fiorentina,Serie A,2021,1,1,0,3,3.0
+L. Tchaouna,Lazio,Serie A,2024,1,1,0,3,3.0
+L. Sučić,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+L. Suárez,Marseille,Ligue 1,2022,1,1,0,3,3.0
+L. Stindl,Borussia Monchengladbach,Bundesliga,2021,1,1,0,3,3.0
+L. Spinazzola,AS Roma,Serie A,2023,1,1,0,3,3.0
+L. Sinisterra,Bournemouth,Premier League,2024,1,1,0,3,3.0
+Logan Costa,Lyon,Ligue 1,2022,1,1,0,3,3.0
+Lisandro Martínez,Manchester United,Premier League,2024,1,1,0,3,3.0
+Lee Kang-In,Elche,La Liga,2021,1,1,0,3,3.0
+Danilo,Juventus,Serie A,2021,1,1,0,3,3.0
+Daniel Podence,Wolves,Premier League,2022,1,1,0,3,3.0
+Dani Vivian,Athletic Club,La Liga,2024,1,1,0,3,3.0
+Dani Vivian,Athletic Club,La Liga,2022,1,1,0,3,3.0
+Dani Raba,Leganes,La Liga,2024,1,1,0,3,3.0
+Dani Parejo                                  0,Villarreal,La Liga,2024,1,1,0,3,3.0
+Dani Parejo,Villarreal,La Liga,2024,1,1,0,3,3.0
+Dani Parejo,Villarreal,La Liga,2023,1,1,0,3,3.0
+Dani Parejo,Villarreal,La Liga,2021,1,1,0,3,3.0
+Dani Olmo,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+Dani Olmo,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+Dani Gómez,Valencia,La Liga,2024,1,1,0,3,3.0
+Dani Gómez,Levante,La Liga,2021,1,1,0,3,3.0
+Luis Henrique,Marseille,Ligue 1,2023,1,1,0,3,3.0
+Lucas Vázquez,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Dango Ouattara,Lorient,Ligue 1,2021,1,1,0,3,3.0
+D. Črnigoj,Venezia,Serie A,2021,1,1,0,3,3.0
+D. Čolina,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+D. Ćaleta-Car,Marseille,Ligue 1,2021,1,1,0,3,3.0
+D. Zappacosta,Atalanta,Serie A,2024,1,1,0,3,3.0
+D. Zappacosta,Atalanta,Serie A,2023,1,1,0,3,3.0
+D. Zapata,Atalanta,Serie A,2022,1,1,0,3,3.0
+D. Yongwa,Lorient,Ligue 1,2023,1,1,0,3,3.0
+Lucas Torró,Osasuna,La Liga,2023,1,1,0,3,3.0
+Lucas Torró,Osasuna,La Liga,2022,1,1,0,3,3.0
+Lucas Paquetá,West Ham,Premier League,2024,1,1,0,3,3.0
+Lucas Paquetá,West Ham,Premier League,2023,1,1,0,3,3.0
+Lucas Moura,Tottenham,Premier League,2022,1,1,0,3,3.0
+Loren Morón,Espanyol,La Liga,2021,1,1,0,3,3.0
+M. Arnautović,Inter,Serie A,2023,1,1,0,3,3.0
+M. Antonio,West Ham,Premier League,2023,1,1,0,3,3.0
+M. Andersen,Luton,Premier League,2023,1,1,0,3,3.0
+M. Albrighton,Leicester,Premier League,2021,1,1,0,3,3.0
+M. Akliouche,Monaco,Ligue 1,2023,1,1,0,3,3.0
+M. Acuña,Sevilla,La Liga,2022,1,1,0,3,3.0
+M. Abline,Rennes,Ligue 1,2022,1,1,0,3,3.0
+M. Abline,Nantes,Ligue 1,2024,1,1,0,3,3.0
+M'Bala Nzola,Spezia,Serie A,2022,1,1,0,3,3.0
+M'Bala Nzola,Spezia,Serie A,2021,1,1,0,3,3.0
+M'Bala Nzola,Lens,Ligue 1,2024,1,1,0,3,3.0
+Lázaro,Almeria,La Liga,2022,1,1,0,3,3.0
+Luís Maximiano,Athletic Club,La Liga,2021,1,1,0,3,3.0
+Luka Modrić,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Luis Milla,Granada CF,La Liga,2021,1,1,0,3,3.0
+Luis Henrique,Marseille,Ligue 1,2024,1,1,0,3,3.0
+M. Bamba,Lorient,Ligue 1,2023,1,1,0,3,3.0
+M. Bakker,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+M. Badelj,Genoa,Serie A,2021,1,1,0,3,3.0
+M. Autret,Auxerre,Ligue 1,2022,1,1,0,3,3.0
+M. Arnold,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+M. Arnold,VfL Wolfsburg,Bundesliga,2021,1,1,0,3,3.0
+D. Vlahović,Juventus,Serie A,2022,1,1,0,3,3.0
+D. Vlahović,Juventus,Serie A,2021,1,1,0,3,3.0
+D. Vavro,VfL Wolfsburg,Bundesliga,2024,1,1,0,3,3.0
+D. Undav,Brighton,Premier League,2022,1,1,0,3,3.0
+D. Udogie,Udinese,Serie A,2022,1,1,0,3,3.0
+D. Udogie,Udinese,Serie A,2021,1,1,0,3,3.0
+D. Sánchez,Tottenham,Premier League,2021,1,1,0,3,3.0
+D. Szoboszlai,Liverpool,Premier League,2023,1,1,0,3,3.0
+D. Spence,Tottenham,Premier League,2024,1,1,0,3,3.0
+D. Sow,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+M. Bülter,1899 Hoffenheim,Bundesliga,2023,1,1,0,3,3.0
+M. Brozović,Inter,Serie A,2022,1,1,0,3,3.0
+M. Broschinski,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+M. Brescianini,Frosinone,Serie A,2023,1,1,0,3,3.0
+M. Bourabia,Spezia,Serie A,2021,1,1,0,3,3.0
+M. Boadu,Monaco,Ligue 1,2023,1,1,0,3,3.0
+M. Boadu,Monaco,Ligue 1,2022,1,1,0,3,3.0
+M. Biereth,Monaco,Ligue 1,2024,1,1,0,3,3.0
+M. Bero,Vfl Bochum,Bundesliga,2023,1,1,0,3,3.0
+M. Berisha,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+M. Beier,Borussia Dortmund,Bundesliga,2024,1,1,0,3,3.0
+M. Bayo,Lille,Ligue 1,2024,1,1,0,3,3.0
+M. Bayo,Lille,Ligue 1,2022,1,1,0,3,3.0
+M. Bauer,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+M. Batshuayi,Eintracht Frankfurt,Bundesliga,2024,1,1,0,3,3.0
+M. Barreto,Ajaccio,Ligue 1,2022,1,1,0,3,3.0
+M. Caqueret,Lyon,Ligue 1,2022,1,1,0,3,3.0
+M. Cancellieri,Parma,Serie A,2024,1,1,0,3,3.0
+M. Cancellieri,Empoli,Serie A,2023,1,1,0,3,3.0
+D. Solanke,Bournemouth,Premier League,2022,1,1,0,3,3.0
+D. Sinani,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+D. Selke,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+D. Scherhant,Hertha Berlin,Bundesliga,2022,1,1,0,3,3.0
+D. Rugani,Juventus,Serie A,2023,1,1,0,3,3.0
+D. Rice,West Ham,Premier League,2022,1,1,0,3,3.0
+D. Rice,Arsenal,Premier League,2024,1,1,0,3,3.0
+D. Raum,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+D. Praet,Leicester,Premier League,2022,1,1,0,3,3.0
+D. Payet,Marseille,Ligue 1,2022,1,1,0,3,3.0
+D. Ouattara,Bournemouth,Premier League,2022,1,1,0,3,3.0
+M. Camara,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+M. Bülter,1899 Hoffenheim,Bundesliga,2024,1,1,0,3,3.0
+M. De Sciglio,Juventus,Serie A,2021,1,1,0,3,3.0
+M. Darmian,Parma,Serie A,2024,1,1,0,3,3.0
+D. Origi,AC Milan,Serie A,2022,1,1,0,3,3.0
+D. Okereke,Venezia,Serie A,2021,1,1,0,3,3.0
+D. O'Shea,West Ham,Premier League,2023,1,1,0,3,3.0
+D. Núñez,Liverpool,Premier League,2022,1,1,0,3,3.0
+D. Ndoye,Bologna,Serie A,2024,1,1,0,3,3.0
+D. Muñoz,Crystal Palace,Premier League,2024,1,1,0,3,3.0
+D. Mertens,Napoli,Serie A,2021,1,1,0,3,3.0
+D. Malen,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+M. Coulibaly,Salernitana,Serie A,2021,1,1,0,3,3.0
+M. Cornet,Genoa,Serie A,2024,1,1,0,3,3.0
+M. Cissé,Atalanta,Serie A,2021,1,1,0,3,3.0
+M. Cho,Angers,Ligue 1,2021,1,1,0,3,3.0
+M. Cham,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+M. Caqueret,Lyon,Ligue 1,2023,1,1,0,3,3.0
+M. Gabbiadini,Sampdoria,Serie A,2022,1,1,0,3,3.0
+M. Gabbia,AC Milan,Serie A,2024,1,1,0,3,3.0
+M. Friedl,FC Koln,Bundesliga,2022,1,1,0,3,3.0
+M. Frendrup,AC Milan,Serie A,2024,1,1,0,3,3.0
+M. Finkgräfe,1.FC Köln,Bundesliga,2023,1,1,0,3,3.0
+M. Fares,Genoa,Serie A,2021,1,1,0,3,3.0
+M. Faraoni,Verona,Serie A,2022,1,1,0,3,3.0
+M. Erlić,Spezia,Serie A,2021,1,1,0,3,3.0
+M. Erlić,Sampdoria,Serie A,2022,1,1,0,3,3.0
+M. Elyounoussi,Southampton,Premier League,2021,1,1,0,3,3.0
+M. Elia,Nantes,Ligue 1,2024,1,1,0,3,3.0
+M. El Haddadi,Getafe,La Liga,2022,1,1,0,3,3.0
+M. Eggestein,SC Freiburg,Bundesliga,2024,1,1,0,3,3.0
+M. Ducksch,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+M. Doherty,Wolves,Premier League,2023,1,1,0,3,3.0
+M. Diakhaby,Valencia,La Liga,2022,1,1,0,3,3.0
+M. Gregoritsch,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+M. Greenwood,Manchester United,Premier League,2021,1,1,0,3,3.0
+M. Ginter,SC Freiburg,Bundesliga,2022,1,1,0,3,3.0
+M. Ginter,FC Heidenheim,Bundesliga,2023,1,1,0,3,3.0
+M. Gibbs-White,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+D. Malen,Aston Villa,Premier League,2024,1,1,0,3,3.0
+D. Machís,Granada CF,La Liga,2021,1,1,0,3,3.0
+D. Machado,Lens,Ligue 1,2024,1,1,0,3,3.0
+D. Lukébakio,VfL Wolfsburg,Bundesliga,2021,1,1,0,3,3.0
+D. Ljubičić,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+D. Kulusevski                                  0,Tottenham,Premier League,2023,1,1,0,3,3.0
+D. Kulusevski,Tottenham,Premier League,2023,1,1,0,3,3.0
+D. Kohr,FSV Mainz 05,Bundesliga,2022,1,1,0,3,3.0
+D. Johnsen,Venezia,Serie A,2021,1,1,0,3,3.0
+D. Jebbison,Bournemouth,Premier League,2024,1,1,0,3,3.0
+M. Geschwill,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+D. Fofana,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+D. Fofana,Burnley,Premier League,2023,1,1,0,3,3.0
+M. Koné,AS Roma,Serie A,2024,1,1,0,3,3.0
+M. Kilman,Wolves,Premier League,2023,1,1,0,3,3.0
+M. Kerkez,Bournemouth,Premier League,2024,1,1,0,3,3.0
+M. Kempf,VfB Stuttgart,Bundesliga,2021,1,1,0,3,3.0
+M. Keane,Everton,Premier League,2022,1,1,0,3,3.0
+M. Kean,Juventus,Serie A,2021,1,1,0,3,3.0
+M. Kamiński,FC Schalke 04,Bundesliga,2022,1,1,0,3,3.0
+M. Jørgensen,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+M. Honsak,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+M. Hongla,Verona,Serie A,2021,1,1,0,3,3.0
+M. Guéhi,Crystal Palace,Premier League,2021,1,1,0,3,3.0
+M. Guéhi,Brighton,Premier League,2024,1,1,0,3,3.0
+M. Guéhi,Arsenal,Premier League,2022,1,1,0,3,3.0
+M. Gusto,Marseille,Ligue 1,2022,1,1,0,3,3.0
+M. Lambourde,Verona,Serie A,2024,1,1,0,3,3.0
+M. Lacroix,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+M. Lacroix,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+M. Kudus,West Ham,Premier League,2024,1,1,0,3,3.0
+M. Kruse,Union Berlin,Bundesliga,2021,1,1,0,3,3.0
+M. Kovačić,Chelsea,Premier League,2022,1,1,0,3,3.0
+D. James,Leeds,Premier League,2021,1,1,0,3,3.0
+D. Ings,West Ham,Premier League,2024,1,1,0,3,3.0
+D. Ings,West Ham,Premier League,2023,1,1,0,3,3.0
+D. Ings,Aston Villa,Premier League,2022,1,1,0,3,3.0
+D. Huijsen,Torino,Serie A,2023,1,1,0,3,3.0
+D. Henderson,West Ham,Premier League,2023,1,1,0,3,3.0
+D. Gómez,Brighton,Premier League,2024,1,1,0,3,3.0
+D. Gray,Everton,Premier League,2021,1,1,0,3,3.0
+D. Gosling,Watford,Premier League,2021,1,1,0,3,3.0
+D. Frattesi,Sassuolo,Serie A,2022,1,1,0,3,3.0
+M. Nade,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+M. Munetsi,Reims,Ligue 1,2024,1,1,0,3,3.0
+M. Munetsi,Reims,Ligue 1,2022,1,1,0,3,3.0
+M. Munetsi,Reims,Ligue 1,2021,1,1,0,3,3.0
+M. Mudryk,Chelsea,Premier League,2023,1,1,0,3,3.0
+M. Mount,Manchester United,Premier League,2023,1,1,0,3,3.0
+M. Meïté,Rennes,Ligue 1,2024,1,1,0,3,3.0
+M. McKenzie,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+M. Maolida,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+M. Malsa,Levante,La Liga,2021,1,1,0,3,3.0
+M. Locatelli,Juventus,Serie A,2021,1,1,0,3,3.0
+M. Lemina,Wolves,Premier League,2023,1,1,0,3,3.0
+M. Lemina,Nice,Ligue 1,2021,1,1,0,3,3.0
+M. Leitsch,FSV Mainz 05,Bundesliga,2024,1,1,0,3,3.0
+M. Lanzini,West Ham,Premier League,2022,1,1,0,3,3.0
+M. Lanzini,West Ham,Premier League,2021,1,1,0,3,3.0
+M. Olivera,Napoli,Serie A,2022,1,1,0,3,3.0
+M. Olise,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+M. Olise,Crystal Palace,Premier League,2021,1,1,0,3,3.0
+M. Olise,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+M. O'Riley,Fulham,Premier League,2024,1,1,0,3,3.0
+D. Faraoni,Verona,Serie A,2021,1,1,0,3,3.0
+D. Dumfries,Monza,Serie A,2022,1,1,0,3,3.0
+D. Dumfries,Inter,Serie A,2023,1,1,0,3,3.0
+D. Dumfries,Inter,Serie A,2022,1,1,0,3,3.0
+D. Doué,Rennes,Ligue 1,2023,1,1,0,3,3.0
+D. Coppola,Verona,Serie A,2023,1,1,0,3,3.0
+D. Cataldi,Lazio,Serie A,2021,1,1,0,3,3.0
+D. Calvert-Lewin,Everton,Premier League,2023,1,1,0,3,3.0
+M. Niang,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+M. Niang,Auxerre,Ligue 1,2022,1,1,0,3,3.0
+M. Niakhate,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+D. Burn,Newcastle,Premier League,2023,1,1,0,3,3.0
+D. Burgzorg,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+D. Brooks,Bournemouth,Premier League,2023,1,1,0,3,3.0
+D. Brašanac,Osasuna,La Liga,2022,1,1,0,3,3.0
+D. Brašanac,Leganes,La Liga,2024,1,1,0,3,3.0
+D. Bouanga,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+D. Blum,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+D. Benedetto,Elche,La Liga,2021,1,1,0,3,3.0
+D. Beljo,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+D. Appiah,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+M. Pessina,Atalanta,Serie A,2021,1,1,0,3,3.0
+M. Pellegrino,Parma,Serie A,2024,1,1,0,3,3.0
+M. Pašalić,Atalanta,Serie A,2023,1,1,0,3,3.0
+M. Pašalić,Atalanta,Serie A,2022,1,1,0,3,3.0
+M. Pantović,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+M. Pantović,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+M. Sissoko,Watford,Premier League,2021,1,1,0,3,3.0
+M. Sissoko,Nantes,Ligue 1,2022,1,1,0,3,3.0
+M. Simon,Nantes,Ligue 1,2024,1,1,0,3,3.0
+M. Simon,Nantes,Ligue 1,2023,1,1,0,3,3.0
+M. Saračević,Clermont Foot,Ligue 1,2022,1,1,0,3,3.0
+M. Sanson,Nice,Ligue 1,2023,1,1,0,3,3.0
+M. Sabitzer,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+M. Sabitzer,Bayern Munich,Bundesliga,2021,1,1,0,3,3.0
+M. Ritchie,Newcastle,Premier League,2023,1,1,0,3,3.0
+M. Reus,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+M. Rasmussen,Brentford,Premier League,2021,1,1,0,3,3.0
+M. Rashford,Manchester United,Premier League,2023,1,1,0,3,3.0
+M. Politano,Napoli,Serie A,2022,1,1,0,3,3.0
+M. Pieringer,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+M. Philipp,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+D. Calabria,AC Milan,Serie A,2023,1,1,0,3,3.0
+Cristian Herrera,Las Palmas,La Liga,2023,1,1,0,3,3.0
+Coke,Levante,La Liga,2021,1,1,0,3,3.0
+Chris Ramos,Cadiz,La Liga,2023,1,1,0,3,3.0
+Chimy Ávila,Osasuna,La Liga,2023,1,1,0,3,3.0
+Catena,Rayo Vallecano,La Liga,2022,1,1,0,3,3.0
+Casemiro,Manchester United,Premier League,2024,1,1,0,3,3.0
+Casemiro,Manchester United,Premier League,2022,1,1,0,3,3.0
+Carlos Vinícius,Fulham,Premier League,2023,1,1,0,3,3.0
+Carlos Vinícius,Fulham,Premier League,2022,1,1,0,3,3.0
+Carlos Vicente,Alaves,La Liga,2024,1,1,0,3,3.0
+Carlos Romero,Espanyol,La Liga,2024,1,1,0,3,3.0
+Carlos Fernández,Real Sociedad,La Liga,2023,1,1,0,3,3.0
+M. Svanberg,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+M. Svanberg,Bologna,Serie A,2021,1,1,0,3,3.0
+M. Soulé,Juventus,Serie A,2022,1,1,0,3,3.0
+M. Soulé,Frosinone,Serie A,2023,1,1,0,3,3.0
+M. Wittek,Vfl Bochum,Bundesliga,2023,1,1,0,3,3.0
+M. Vydra,Burnley,Premier League,2021,1,1,0,3,3.0
+M. Viña,Empoli,Serie A,2023,1,1,0,3,3.0
+M. Veljković,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+M. Veljković,Werder Bremen,Bundesliga,2022,1,1,0,3,3.0
+M. Valjent,Mallorca,La Liga,2024,1,1,0,3,3.0
+M. Uzuni,Granada CF,La Liga,2021,1,1,0,3,3.0
+M. Uth,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+M. Ugarte,Manchester United,Premier League,2024,1,1,0,3,3.0
+M. Udol,Metz,Ligue 1,2024,1,1,0,3,3.0
+M. Trauco,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+M. Thiaw,Genoa,Serie A,2023,1,1,0,3,3.0
+M. Terrier,Rennes,Ligue 1,2023,1,1,0,3,3.0
+M. Tel,Tottenham,Premier League,2024,1,1,0,3,3.0
+M. Tavernier,Bournemouth,Premier League,2024,1,1,0,3,3.0
+César Tárrega,Valencia,La Liga,2024,1,1,0,3,3.0
+Manu Fuster,Las Palmas,La Liga,2024,1,1,0,3,3.0
+Mama Baldé,Lyon,Ligue 1,2023,1,1,0,3,3.0
+Mama Baldé,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+Mahmoud Dahoud,VfB Stuttgart,Bundesliga,2023,1,1,0,3,3.0
+M. Đurić,Salernitana,Serie A,2021,1,1,0,3,3.0
+M. Đurić,Monza,Serie A,2023,1,1,0,3,3.0
+M. Ødegaard,Arsenal,Premier League,2024,1,1,0,3,3.0
+M. Ødegaard,Arsenal,Premier League,2023,1,1,0,3,3.0
+M. van de Ven,Tottenham,Premier League,2023,1,1,0,3,3.0
+M. de Roon,Atalanta,Serie A,2024,1,1,0,3,3.0
+M. de Roon,Atalanta,Serie A,2021,1,1,0,3,3.0
+M. de Ligt,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+M. Zaccagni,Verona,Serie A,2021,1,1,0,3,3.0
+M. Zaccagni,Lazio,Serie A,2024,1,1,0,3,3.0
+M. Zaccagni,Lazio,Serie A,2021,1,1,0,3,3.0
+M. Wolf,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+Marc Bartra,Real Betis,La Liga,2024,1,1,0,3,3.0
+Carlos Domínguez,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Carlos Augusto,Monza,Serie A,2022,1,1,0,3,3.0
+Carlos Augusto,Inter,Serie A,2024,1,1,0,3,3.0
+Carles Pérez,Getafe,La Liga,2024,1,1,0,3,3.0
+Carles Pérez,Celta Vigo,La Liga,2022,1,1,0,3,3.0
+Carles Pérez,AS Roma,Serie A,2021,1,1,0,3,3.0
+Carles Aleñá,Getafe,La Liga,2021,1,1,0,3,3.0
+Caio Henrique,Nantes,Ligue 1,2022,1,1,0,3,3.0
+Caio Henrique,Monaco,Ligue 1,2021,1,1,0,3,3.0
+C. Ünder,Marseille,Ligue 1,2022,1,1,0,3,3.0
+C. Wooh,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+C. Woodrow,Luton,Premier League,2023,1,1,0,3,3.0
+C. Wood,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+Marc Bartra,Real Betis,La Liga,2021,1,1,0,3,3.0
+Manu Sánchez,Osasuna,La Liga,2021,1,1,0,3,3.0
+Matheus Nunes,Manchester City,Premier League,2024,1,1,0,3,3.0
+Matheus Henrique,Sassuolo,Serie A,2022,1,1,0,3,3.0
+Matheus França,Crystal Palace,Premier League,2024,1,1,0,3,3.0
+Mateus Fernandes,Southampton,Premier League,2024,1,1,0,3,3.0
+Mata,Getafe,La Liga,2021,1,1,0,3,3.0
+Mason Greenwood,Getafe,La Liga,2023,1,1,0,3,3.0
+Martín Zubimendi,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+Marko Milovanović,Almeria,La Liga,2023,1,1,0,3,3.0
+Mario Gila,Juventus,Serie A,2024,1,1,0,3,3.0
+Marcos Antônio,Lazio,Serie A,2022,1,1,0,3,3.0
+Marcos André,Valencia,La Liga,2022,1,1,0,3,3.0
+Marcos André,Valencia,La Liga,2021,1,1,0,3,3.0
+Marcos Alonso,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+Marc Roca,Leeds,Premier League,2022,1,1,0,3,3.0
+Marc Guiu,Barcelona,La Liga,2023,1,1,0,3,3.0
+Marc Cucurella,Chelsea,Premier League,2024,1,1,0,3,3.0
+Miguel Gutiérrez,Girona,La Liga,2022,1,1,0,3,3.0
+Mexer,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+C. Volpato,AS Roma,Serie A,2022,1,1,0,3,3.0
+C. Vidal,Ajaccio,Ligue 1,2022,1,1,0,3,3.0
+C. Uzun,Eintracht Frankfurt,Bundesliga,2024,1,1,0,3,3.0
+C. Tzolis,Fortuna Dusseldorf,Bundesliga,2023,1,1,0,3,3.0
+C. Traorè,AC Milan,Serie A,2023,1,1,0,3,3.0
+C. Tolisso,Lyon,Ligue 1,2024,1,1,0,3,3.0
+C. Starfelt,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+C. Smalling,AS Roma,Serie A,2021,1,1,0,3,3.0
+C. Romero,Tottenham,Premier League,2023,1,1,0,3,3.0
+C. Richards,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+Melero,Almeria,La Liga,2022,1,1,0,3,3.0
+Matija Nastasić,Mallorca,La Liga,2023,1,1,0,3,3.0
+Mathias Pereira Lage,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+Mathias Lage,Angers,Ligue 1,2021,1,1,0,3,3.0
+Monchu,Valladolid,La Liga,2022,1,1,0,3,3.0
+Moi Gómez,Villarreal,La Liga,2021,1,1,0,3,3.0
+C. Pulisic,Chelsea,Premier League,2021,1,1,0,3,3.0
+C. Piccini,Valencia,La Liga,2021,1,1,0,3,3.0
+C. Palmer                                  1,Chelsea,Premier League,2023,1,1,0,3,3.0
+C. Ogbene,Luton,Premier League,2023,1,1,0,3,3.0
+C. Nørgaard,Brentford,Premier League,2021,1,1,0,3,3.0
+C. Nkunku,Chelsea,Premier League,2024,1,1,0,3,3.0
+C. Nkunku,Chelsea,Premier League,2023,1,1,0,3,3.0
+C. Ngonge,Napoli,Serie A,2023,1,1,0,3,3.0
+C. Matsima,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+Moi Gómez,Osasuna,La Liga,2022,1,1,0,3,3.0
+Moi Gómez,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+Mikel Oyarzabal,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+Miguel de la Fuente,Leganes,La Liga,2024,1,1,0,3,3.0
+Miguel Rodríguez,Celta Vigo,La Liga,2022,1,1,0,3,3.0
+N. Cambiaghi,Bologna,Serie A,2024,1,1,0,3,3.0
+N. Bentaleb,Lille,Ligue 1,2024,1,1,0,3,3.0
+N. Barella,Inter,Serie A,2023,1,1,0,3,3.0
+N. Bajrami,Sassuolo,Serie A,2022,1,1,0,3,3.0
+N. Bajrami,Empoli,Serie A,2022,1,1,0,3,3.0
+N. Bajrami,Empoli,Serie A,2021,1,1,0,3,3.0
+N. Amiri,FSV Mainz 05,Bundesliga,2024,1,1,0,3,3.0
+N. Amiri,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+N. Amiri,Bayer Leverkusen,Bundesliga,2021,1,1,0,3,3.0
+N. Aké,Manchester City,Premier League,2023,1,1,0,3,3.0
+N. Aké,Manchester City,Premier League,2021,1,1,0,3,3.0
+N. Aguerd,Rennes,Ligue 1,2021,1,1,0,3,3.0
+Mousa Al Ta'mari,Montpellier,Ligue 1,2024,1,1,0,3,3.0
+Mousa Al Ta'mari,Montpellier,Ligue 1,2023,1,1,0,3,3.0
+Mostafa Mohamed,Nantes,Ligue 1,2023,1,1,0,3,3.0
+Montoro,Granada CF,La Liga,2021,1,1,0,3,3.0
+C. Larin,Mallorca,La Liga,2024,1,1,0,3,3.0
+C. Kouamé,Fiorentina,Serie A,2022,1,1,0,3,3.0
+C. Klarer,SV Darmstadt 98,Bundesliga,2023,1,1,0,3,3.0
+C. Jullien,Montpellier,Ligue 1,2023,1,1,0,3,3.0
+C. Jean,Lens,Ligue 1,2021,1,1,0,3,3.0
+C. Hudson-Odoi,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+C. Hudson-Odoi,Nottingham Forest,Premier League,2023,1,1,0,3,3.0
+C. Hountondji,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+N. Elvedi,Borussia Monchengladbach,Bundesliga,2021,1,1,0,3,3.0
+N. El Aynaoui,Lens,Ligue 1,2024,1,1,0,3,3.0
+N. El Aynaoui,Lens,Ligue 1,2023,1,1,0,3,3.0
+N. Dovedan,FC Heidenheim,Bundesliga,2023,1,1,0,3,3.0
+N. Dorsch,FC Augsburg,Bundesliga,2021,1,1,0,3,3.0
+N. Dorsch,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+N. Domínguez,Bologna,Serie A,2022,1,1,0,3,3.0
+N. Collins,Eintracht Frankfurt,Bundesliga,2024,1,1,0,3,3.0
+N. Murru,Sampdoria,Serie A,2021,1,1,0,3,3.0
+N. Milenković,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+N. Milenković,AC Milan,Serie A,2022,1,1,0,3,3.0
+N. Mbemba,LE Havre,Ligue 1,2023,1,1,0,3,3.0
+N. Mazraoui,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+N. Madueke,Chelsea,Premier League,2023,1,1,0,3,3.0
+N. Krstović,Lecce,Serie A,2024,1,1,0,3,3.0
+N. Keïta,Liverpool,Premier League,2021,1,1,0,3,3.0
+N. Jackson,Chelsea,Premier League,2024,1,1,0,3,3.0
+N. Gudelj,Sevilla,La Liga,2022,1,1,0,3,3.0
+N. Füllkrug,West Ham,Premier League,2024,1,1,0,3,3.0
+N. Fagioli,Juventus,Serie A,2022,1,1,0,3,3.0
+N. Elvedi,Borussia Monchengladbach,Bundesliga,2022,1,1,0,3,3.0
+C. Lykogiannis,Bologna,Serie A,2023,1,1,0,3,3.0
+C. Lenglet,Atletico Madrid,La Liga,2024,1,1,0,3,3.0
+C. Larin,Valladolid,La Liga,2022,1,1,0,3,3.0
+N. Schlotterbeck,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+N. Sarenren Bazee,FC Augsburg,Bundesliga,2021,1,1,0,3,3.0
+N. Sansone,Lecce,Serie A,2023,1,1,0,3,3.0
+N. Sansone,Bologna,Serie A,2022,1,1,0,3,3.0
+N. Sansone,Bologna,Serie A,2021,1,1,0,3,3.0
+N. Radonjić,Torino,Serie A,2023,1,1,0,3,3.0
+N. Pérez,Udinese,Serie A,2022,1,1,0,3,3.0
+N. Pépé,Nice,Ligue 1,2022,1,1,0,3,3.0
+N. Pépé,Arsenal,Premier League,2021,1,1,0,3,3.0
+N. Pisilli,AS Roma,Serie A,2024,1,1,0,3,3.0
+N. Petersen,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+N. Pallois,Marseille,Ligue 1,2022,1,1,0,3,3.0
+N. Okafor,AC Milan,Serie A,2024,1,1,0,3,3.0
+N. Nández,Cagliari,Serie A,2023,1,1,0,3,3.0
+N. Nkounkou,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+N. Ngoumou,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+N. Zaniolo,Atalanta,Serie A,2024,1,1,0,3,3.0
+N. Williams,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+N. Vlašić,West Ham,Premier League,2021,1,1,0,3,3.0
+N. Vlašić,Torino,Serie A,2022,1,1,0,3,3.0
+N. Tella,Bayer Leverkusen,Bundesliga,2023,1,1,0,3,3.0
+N. Süle,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+C. Hernández,Real Betis,La Liga,2024,1,1,0,3,3.0
+C. Grenier,Mallorca,La Liga,2021,1,1,0,3,3.0
+C. Gamboa,VfL Bochum,Bundesliga,2024,1,1,0,3,3.0
+C. Gallagher,Chelsea,Premier League,2022,1,1,0,3,3.0
+C. Führich,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+C. Führich,VfB Stuttgart,Bundesliga,2021,1,1,0,3,3.0
+C. Eriksen,Manchester United,Premier League,2024,1,1,0,3,3.0
+C. Ejuke,Sevilla,La Liga,2024,1,1,0,3,3.0
+C. De Ketelaere,Atalanta,Serie A,2024,1,1,0,3,3.0
+N. Stark,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+O. Aina,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+O. Afolayan,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+Nuno da Costa,Auxerre,Ligue 1,2022,1,1,0,3,3.0
+Nuno Mendes,Paris Saint Germain,Ligue 1,2023,1,1,0,3,3.0
+Nico Williams,Athletic Club,La Liga,2024,1,1,0,3,3.0
+Nico González,Manchester City,Premier League,2024,1,1,0,3,3.0
+Nico González,Barcelona,La Liga,2021,1,1,0,3,3.0
+Nemanja Maksimović,Getafe,La Liga,2023,1,1,0,3,3.0
+Nacho Vidal,Osasuna,La Liga,2023,1,1,0,3,3.0
+Nacho Ferri,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+Nacho,Real Madrid,La Liga,2021,1,1,0,3,3.0
+Nabil Fekir,Real Betis,La Liga,2023,1,1,0,3,3.0
+N. Zortea,Frosinone,Serie A,2023,1,1,0,3,3.0
+N. Zortea,Cagliari,Serie A,2024,1,1,0,3,3.0
+N. Zortea,Atalanta,Serie A,2023,1,1,0,3,3.0
+N. Zortea,Atalanta,Serie A,2022,1,1,0,3,3.0
+O. Giroud,AC Milan,Serie A,2021,1,1,0,3,3.0
+O. Duda,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+O. Dembélé,Barcelona,La Liga,2022,1,1,0,3,3.0
+O. Deman,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+O. Colley,Sampdoria,Serie A,2022,1,1,0,3,3.0
+C. Dawson,West Ham,Premier League,2021,1,1,0,3,3.0
+C. Boukhalfa,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+C. Biraghi,Lazio,Serie A,2021,1,1,0,3,3.0
+C. Biraghi,Bologna,Serie A,2024,1,1,0,3,3.0
+C. Benavídez,Alaves,La Liga,2024,1,1,0,3,3.0
+C. Bayala,Ajaccio,Ligue 1,2022,1,1,0,3,3.0
+C. Baumgartner,RB Leipzig,Bundesliga,2024,1,1,0,3,3.0
+C. Baleba,Brighton,Premier League,2024,1,1,0,3,3.0
+C. Archer,Sheffield Utd,Premier League,2023,1,1,0,3,3.0
+O. Bukari,Nantes,Ligue 1,2021,1,1,0,3,3.0
+O. Bobb,Manchester City,Premier League,2023,1,1,0,3,3.0
+Oier Zarraga,Udinese,Serie A,2023,1,1,0,3,3.0
+Oier Zarraga,Athletic Club,La Liga,2021,1,1,0,3,3.0
+C. Alcaraz,Everton,Premier League,2024,1,1,0,3,3.0
+C. Adams,Torino,Serie A,2024,1,1,0,3,3.0
+C. Adams,Southampton,Premier League,2022,1,1,0,3,3.0
+C. Adams,Southampton,Premier League,2021,1,1,0,3,3.0
+Bryan Zaragoza,Granada CF,La Liga,2023,1,1,0,3,3.0
+Bruno Méndez,Granada CF,La Liga,2023,1,1,0,3,3.0
+Bruno Fernandes,Manchester United,Premier League,2022,1,1,0,3,3.0
+O. Sahraoui,Lille,Ligue 1,2024,1,1,0,3,3.0
+O. Norwood,Sheffield Utd,Premier League,2023,1,1,0,3,3.0
+O. N'Dicka,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+O. McBurnie,Las Palmas,La Liga,2024,1,1,0,3,3.0
+O. Maamma,Montpellier,Ligue 1,2024,1,1,0,3,3.0
+O. Højlund,Eintracht Frankfurt,Bundesliga,2024,1,1,0,3,3.0
+O. Giroud,AC Milan,Serie A,2022,1,1,0,3,3.0
+P. Billing,Napoli,Serie A,2024,1,1,0,3,3.0
+P. Billing,Bournemouth,Premier League,2023,1,1,0,3,3.0
+P. Bamford,Leeds,Premier League,2022,1,1,0,3,3.0
+P. Almqvist,Parma,Serie A,2024,1,1,0,3,3.0
+P. Almqvist,Lecce,Serie A,2023,1,1,0,3,3.0
+Oriol Romeu,Southampton,Premier League,2021,1,1,0,3,3.0
+Brian Oliván,Espanyol,La Liga,2022,1,1,0,3,3.0
+Bremer,Juventus,Serie A,2023,1,1,0,3,3.0
+Bremer,Juventus,Serie A,2022,1,1,0,3,3.0
+Brais Méndez,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+Brais Méndez,Real Sociedad,La Liga,2023,1,1,0,3,3.0
+Brahim Díaz,Real Madrid,La Liga,2024,1,1,0,3,3.0
+Brahim Díaz,AC Milan,Serie A,2021,1,1,0,3,3.0
+Borja Iglesias,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+Oriol Romeu,Girona,La Liga,2022,1,1,0,3,3.0
+Omar Marmoush,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+Beto,Everton,Premier League,2024,1,1,0,3,3.0
+Beraldo,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+Bellerín,Sevilla,La Liga,2021,1,1,0,3,3.0
+Barrenetxea,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+B. Yılmaz,Lille,Ligue 1,2021,1,1,0,3,3.0
+B. White,Arsenal,Premier League,2023,1,1,0,3,3.0
+B. Traoré,Aston Villa,Premier League,2022,1,1,0,3,3.0
+B. Touré,Auxerre,Ligue 1,2021,1,1,0,3,3.0
+B. Schmitz,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+P. Diong,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+P. Diallo,Metz,Ligue 1,2023,1,1,0,3,3.0
+P. Dawidowicz,Napoli,Serie A,2023,1,1,0,3,3.0
+P. Daka,Leicester,Premier League,2024,1,1,0,3,3.0
+P. Daka,Leicester,Premier League,2021,1,1,0,3,3.0
+P. Ciss,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+P. Ciss,Rayo Vallecano,La Liga,2021,1,1,0,3,3.0
+P. Højbjerg,Tottenham,Premier League,2022,1,1,0,3,3.0
+P. Højbjerg,Marseille,Ligue 1,2024,1,1,0,3,3.0
+P. Hofmann,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+P. Hincapié,Bayer Leverkusen,Bundesliga,2023,1,1,0,3,3.0
+P. Herrmann,Borussia Monchengladbach,Bundesliga,2022,1,1,0,3,3.0
+P. Gómez,Sevilla,La Liga,2022,1,1,0,3,3.0
+P. Gueye,Sevilla,La Liga,2022,1,1,0,3,3.0
+P. Gueye,Marseille,Ligue 1,2023,1,1,0,3,3.0
+P. Groß,Brighton,Premier League,2023,1,1,0,3,3.0
+P. Groß,Brighton,Premier League,2021,1,1,0,3,3.0
+P. Förster,VfL BOCHUM,Bundesliga,2022,1,1,0,3,3.0
+P. Frankowski,Lens,Ligue 1,2024,1,1,0,3,3.0
+P. Frankowski,Lens,Ligue 1,2021,1,1,0,3,3.0
+P. Foden,Manchester City,Premier League,2022,1,1,0,3,3.0
+P. Estupiñán,Brighton,Premier League,2022,1,1,0,3,3.0
+P. Dorgu,Lecce,Serie A,2023,1,1,0,3,3.0
+P. Schick,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+P. Sarr,Tottenham,Premier League,2024,1,1,0,3,3.0
+P. Rosario,Nice,Ligue 1,2024,1,1,0,3,3.0
+P. Pellegri,Torino,Serie A,2023,1,1,0,3,3.0
+P. Pellegri,Torino,Serie A,2022,1,1,0,3,3.0
+P. Mainka,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+P. Lienhart,SC Freiburg,Bundesliga,2022,1,1,0,3,3.0
+P. Lienhart,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+P. Lees-Melou,Stade Brestois 29,Ligue 1,2024,1,1,0,3,3.0
+P. Lees-Melou,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+P. Lees-Melou,Stade Brestois 29,Ligue 1,2022,1,1,0,3,3.0
+P. Kadeřábek,1899 Hoffenheim,Bundesliga,2024,1,1,0,3,3.0
+P. Kadeřábek,1899 Hoffenheim,Bundesliga,2023,1,1,0,3,3.0
+P. Kadeřábek,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+P. Kadeřábek,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+P. Jaeckel,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+Pablo Sarabia,Wolves,Premier League,2024,1,1,0,3,3.0
+Pablo Sarabia,Wolves,Premier League,2023,1,1,0,3,3.0
+Pablo Sarabia,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+Pablo Marí,Udinese,Serie A,2021,1,1,0,3,3.0
+Pablo Maffeo,Mallorca,La Liga,2023,1,1,0,3,3.0
+Pablo Maffeo,Mallorca,La Liga,2021,1,1,0,3,3.0
+Pablo Ibáñez,Osasuna,La Liga,2024,1,1,0,3,3.0
+Pablo Fornals,West Ham,Premier League,2022,1,1,0,3,3.0
+Pablo Barrios,Atletico Madrid,La Liga,2024,1,1,0,3,3.0
+P. Zieliński,Napoli,Serie A,2022,1,1,0,3,3.0
+P. Wimmer,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+P. Wimmer,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+P. Treu,SC Freiburg,Bundesliga,2024,1,1,0,3,3.0
+P. Tietz,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+P. Struijk,Leeds,Premier League,2021,1,1,0,3,3.0
+P. Schick,Bayer Leverkusen,Bundesliga,2023,1,1,0,3,3.0
+Pedro,Lazio,Serie A,2021,1,1,0,3,3.0
+Pedri,Barcelona,La Liga,2023,1,1,0,3,3.0
+Pedraza,Villarreal,La Liga,2021,1,1,0,3,3.0
+Paulinho,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+Pau Víctor,Barcelona,La Liga,2024,1,1,0,3,3.0
+Pau Cabanes,Villarreal,La Liga,2024,1,1,0,3,3.0
+B. Saka,Arsenal,Premier League,2024,1,1,0,3,3.0
+B. Omeragić,Lens,Ligue 1,2024,1,1,0,3,3.0
+B. Nuytinck,Udinese,Serie A,2021,1,1,0,3,3.0
+B. Mbeumo,Brentford,Premier League,2021,1,1,0,3,3.0
+B. Lasme,Arminia Bielefeld,Bundesliga,2021,1,1,0,3,3.0
+B. Johnson,Tottenham,Premier League,2024,1,1,0,3,3.0
+B. Johnson,Tottenham,Premier League,2023,1,1,0,3,3.0
+B. Henrichs,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+B. Guirassy,Nantes,Ligue 1,2024,1,1,0,3,3.0
+Patric,Lazio,Serie A,2023,1,1,0,3,3.0
+Portu,Girona,La Liga,2024,1,1,0,3,3.0
+Portillo,Almeria,La Liga,2022,1,1,0,3,3.0
+Pol Lirola,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+Pol Lirola,Frosinone,Serie A,2023,1,1,0,3,3.0
+B. Gruda,Brighton,Premier League,2024,1,1,0,3,3.0
+B. Embolo,Monaco,Ligue 1,2024,1,1,0,3,3.0
+B. Dieng,Lorient,Ligue 1,2022,1,1,0,3,3.0
+B. Diakité,Lille,Ligue 1,2024,1,1,0,3,3.0
+B. Dia,Lazio,Serie A,2024,1,1,0,3,3.0
+B. De Cordova-Reid,Leicester,Premier League,2024,1,1,0,3,3.0
+B. De Cordova-Reid,Fulham,Premier League,2022,1,1,0,3,3.0
+Philippe Coutinho,Aston Villa,Premier League,2021,1,1,0,3,3.0
+Pepelu,Valencia,La Liga,2023,1,1,0,3,3.0
+Pedro Pereira,Monza,Serie A,2024,1,1,0,3,3.0
+Pedro Neto,Wolves,Premier League,2023,1,1,0,3,3.0
+Pedro Neto,Chelsea,Premier League,2024,1,1,0,3,3.0
+B. Davies,Tottenham,Premier League,2023,1,1,0,3,3.0
+B. Cristante,AS Roma,Serie A,2021,1,1,0,3,3.0
+B. Chilwell,Chelsea,Premier League,2022,1,1,0,3,3.0
+B. Chilwell,Chelsea,Premier League,2021,1,1,0,3,3.0
+B. Bourigeaud,Rennes,Ligue 1,2021,1,1,0,3,3.0
+B. Badiashile,Chelsea,Premier League,2022,1,1,0,3,3.0
+B. André,Lille,Ligue 1,2023,1,1,0,3,3.0
+B. Aaronson,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+R. Baku,VfL Wolfsburg,Bundesliga,2021,1,1,0,3,3.0
+R. Aït Nouri,Wolves,Premier League,2022,1,1,0,3,3.0
+R. Araújo,Barcelona,La Liga,2021,1,1,0,3,3.0
+R. Andrich,Bayer Leverkusen,Bundesliga,2021,1,1,0,3,3.0
+Q. Merlin,Nantes,Ligue 1,2021,1,1,0,3,3.0
+Q. Boisgard,Lorient,Ligue 1,2022,1,1,0,3,3.0
+Q. Boisgard,Lorient,Ligue 1,2021,1,1,0,3,3.0
+Portu,Real Sociedad,La Liga,2021,1,1,0,3,3.0
+R. Faivre,Lyon,Ligue 1,2021,1,1,0,3,3.0
+R. Faivre,Lorient,Ligue 1,2023,1,1,0,3,3.0
+R. Esse,Crystal Palace,Premier League,2024,1,1,0,3,3.0
+R. Dugimont,Auxerre,Ligue 1,2021,1,1,0,3,3.0
+R. Doan,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+R. Del Castillo,Stade Brestois 29,Ligue 1,2024,1,1,0,3,3.0
+R. Del Castillo,Stade Brestois 29,Ligue 1,2022,1,1,0,3,3.0
+R. Czichos,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+R. Cherki,Lyon,Ligue 1,2023,1,1,0,3,3.0
+R. Cherki,Lyon,Ligue 1,2022,1,1,0,3,3.0
+R. Cabella,Lille,Ligue 1,2023,1,1,0,3,3.0
+R. Borré,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+R. Bensebaïni,Borussia Monchengladbach,Bundesliga,2022,1,1,0,3,3.0
+R. Bensebaïni,Borussia Monchengladbach,Bundesliga,2021,1,1,0,3,3.0
+R. Barkley,Chelsea,Premier League,2021,1,1,0,3,3.0
+R. Baku,VfL Wolfsburg,Bundesliga,2024,1,1,0,3,3.0
+R. James,Chelsea,Premier League,2021,1,1,0,3,3.0
+R. Højlund,Manchester United,Premier League,2024,1,1,0,3,3.0
+R. Holding,Arsenal,Premier League,2022,1,1,0,3,3.0
+Ayoze Pérez,Real Betis,La Liga,2023,1,1,0,3,3.0
+Aurélio Buta,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+Aurélien Tchouaméni,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Assane Diao,Real Betis,La Liga,2024,1,1,0,3,3.0
+Asier Villalibre,Athletic Club,La Liga,2023,1,1,0,3,3.0
+Asensio,Real Madrid,La Liga,2022,1,1,0,3,3.0
+Asensio,Real Madrid,La Liga,2021,1,1,0,3,3.0
+Arthur Cabral,Fiorentina,Serie A,2021,1,1,0,3,3.0
+Arthur,Fiorentina,Serie A,2023,1,1,0,3,3.0
+Artem Dovbyk,Girona,La Liga,2023,1,1,0,3,3.0
+R. Gosens,Fiorentina,Serie A,2024,1,1,0,3,3.0
+R. Gagliardini,Inter,Serie A,2021,1,1,0,3,3.0
+R. Faivre,Stade Brestois 29,Ligue 1,2024,1,1,0,3,3.0
+Antony,Real Betis,La Liga,2024,1,1,0,3,3.0
+Antony,Manchester United,Premier League,2023,1,1,0,3,3.0
+Antonio Sivera,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+Antonio Rüdiger,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Antonio Raíllo,Mallorca,La Liga,2023,1,1,0,3,3.0
+Angeliño,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+Angeliño,AS Roma,Serie A,2024,1,1,0,3,3.0
+André Silva,Real Sociedad,La Liga,2023,1,1,0,3,3.0
+André Gomes,Lille,Ligue 1,2022,1,1,0,3,3.0
+André Gomes,Everton,Premier League,2023,1,1,0,3,3.0
+R. Kolo Muani,Juventus,Serie A,2024,1,1,0,3,3.0
+R. Koch,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+R. Khedira,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+R. Jiménez,Fulham,Premier League,2024,1,1,0,3,3.0
+R. James,Chelsea,Premier League,2024,1,1,0,3,3.0
+R. James,Chelsea,Premier League,2022,1,1,0,3,3.0
+Aleix García,Girona,La Liga,2023,1,1,0,3,3.0
+R. Oudin,Lecce,Serie A,2022,1,1,0,3,3.0
+R. Nicolaisen,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+R. Nelson,Fulham,Premier League,2024,1,1,0,3,3.0
+R. Nelson,Arsenal,Premier League,2022,1,1,0,3,3.0
+R. Massimo,VfB Stuttgart,Bundesliga,2021,1,1,0,3,3.0
+R. Marin,Empoli,Serie A,2022,1,1,0,3,3.0
+R. Marin,Cagliari,Serie A,2024,1,1,0,3,3.0
+R. Mandragora,Fiorentina,Serie A,2024,1,1,0,3,3.0
+R. Mandragora,Fiorentina,Serie A,2022,1,1,0,3,3.0
+R. Manaj,Spezia,Serie A,2021,1,1,0,3,3.0
+R. Mahrez,Manchester City,Premier League,2022,1,1,0,3,3.0
+R. Loftus-Cheek,AC Milan,Serie A,2023,1,1,0,3,3.0
+R. Le Normand,Celta Vigo,La Liga,2022,1,1,0,3,3.0
+R. Labeau Lascary,Lens,Ligue 1,2024,1,1,0,3,3.0
+R. Kristensen,AS Roma,Serie A,2023,1,1,0,3,3.0
+R. Piccoli,Atalanta,Serie A,2021,1,1,0,3,3.0
+R. Perraud,Southampton,Premier League,2022,1,1,0,3,3.0
+R. Perraud,Real Betis,La Liga,2024,1,1,0,3,3.0
+R. Oudin,Lecce,Serie A,2023,1,1,0,3,3.0
+André Almeida,Valencia,La Liga,2023,1,1,0,3,3.0
+André Almeida,Valencia,La Liga,2022,1,1,0,3,3.0
+Andrey Santos,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+Andrey Santos,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+Ander Guevara,Alaves,La Liga,2023,1,1,0,3,3.0
+Amir Rrahmani,Napoli,Serie A,2023,1,1,0,3,3.0
+Alfon González,Celta Vigo,La Liga,2024,1,1,0,3,3.0
+Alexsandro Ribeiro,Auxerre,Ligue 1,2024,1,1,0,3,3.0
+Alex Suárez,Las Palmas,La Liga,2023,1,1,0,3,3.0
+Aleksandar Sedlar,Alaves,La Liga,2023,1,1,0,3,3.0
+Alejo,Cadiz,La Liga,2021,1,1,0,3,3.0
+Alejandro Catena,Osasuna,La Liga,2023,1,1,0,3,3.0
+Rafael Leão,AC Milan,Serie A,2023,1,1,0,3,3.0
+Rafa Mir,Sevilla,La Liga,2023,1,1,0,3,3.0
+Rafa Mir,Sevilla,La Liga,2022,1,1,0,3,3.0
+Radamel Falcao,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+R. Yates,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+R. Vargas,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+R. Vargas,FC Augsburg,Bundesliga,2022,1,1,0,3,3.0
+R. Varane,Manchester United,Premier League,2023,1,1,0,3,3.0
+R. Sterling,Chelsea,Premier League,2023,1,1,0,3,3.0
+R. Sottil,Fiorentina,Serie A,2024,1,1,0,3,3.0
+R. Schmid,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+R. Saïss,Wolves,Premier League,2021,1,1,0,3,3.0
+R. Saponara,Fiorentina,Serie A,2022,1,1,0,3,3.0
+R. Ripart,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+R. Ripart,Estac Troyes,Ligue 1,2021,1,1,0,3,3.0
+R. Reitz,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+Raphaël Guerreiro,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+Alberto Moreno,Villarreal,La Liga,2021,1,1,0,3,3.0
+Alberto Marí,Valencia,La Liga,2022,1,1,0,3,3.0
+Aitor Paredes,Athletic Club,La Liga,2024,1,1,0,3,3.0
+Aitor Paredes,Athletic Club,La Liga,2023,1,1,0,3,3.0
+Aimar Oroz,Osasuna,La Liga,2024,1,1,0,3,3.0
+Adrián Embarba,Almeria,La Liga,2023,1,1,0,3,3.0
+Adrià Pedrosa,Sevilla,La Liga,2024,1,1,0,3,3.0
+Adria Miquel Bosch Sanchis,Real Sociedad,La Liga,2023,1,1,0,3,3.0
+Adri Embarba,Almeria,La Liga,2022,1,1,0,3,3.0
+Adama Traoré,Wolves,Premier League,2022,1,1,0,3,3.0
+Adama Traoré,Wolves,Premier League,2021,1,1,0,3,3.0
+Adama Traoré,Fulham,Premier League,2023,1,1,0,3,3.0
+Abel Bretones,Osasuna,La Liga,2024,1,1,0,3,3.0
+Abdón Prats,Mallorca,La Liga,2024,1,1,0,3,3.0
+Ramón Martínez,Sevilla,La Liga,2024,1,1,0,3,3.0
+Rodrigo Gomes,Wolves,Premier League,2024,1,1,0,3,3.0
+Rodrigo Becão,Udinese,Serie A,2021,1,1,0,3,3.0
+Rodrigo,Leeds,Premier League,2021,1,1,0,3,3.0
+Robin Le Normand,Real Sociedad,La Liga,2023,1,1,0,3,3.0
+Roberto Torres,Osasuna,La Liga,2021,1,1,0,3,3.0
+Roberto Firmino,Liverpool,Premier League,2021,1,1,0,3,3.0
+Rober,Levante,La Liga,2021,1,1,0,3,3.0
+Richarlison,Tottenham,Premier League,2022,1,1,0,3,3.0
+Reinildo Mandava,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Raúl de Tomás,Rayo Vallecano,La Liga,2022,1,1,0,3,3.0
+Raúl Moro,Valladolid,La Liga,2024,1,1,0,3,3.0
+Raúl García,Athletic Club,La Liga,2022,1,1,0,3,3.0
+Raíllo,Mallorca,La Liga,2022,1,1,0,3,3.0
+Raíllo,Mallorca,La Liga,2021,1,1,0,3,3.0
+Raphinha,Leeds,Premier League,2021,1,1,0,3,3.0
+Raphinha,Barcelona,La Liga,2023,1,1,0,3,3.0
+Rodrigo de Paul,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Rodrigo Riquelme,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Rodrigo Muniz,Fulham,Premier League,2023,1,1,0,3,3.0
+Abdón Prats,Mallorca,La Liga,2022,1,1,0,3,3.0
+Abdu Conté,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+Abdessamad Ezzalzouli,Real Betis,La Liga,2023,1,1,0,3,3.0
+Aarón Martín,FSV Mainz 05,Bundesliga,2022,1,1,0,3,3.0
+A. Álvarez,Sassuolo,Serie A,2022,1,1,0,3,3.0
+A. Zanoli,Sampdoria,Serie A,2022,1,1,0,3,3.0
+A. Zanoli,Genoa,Serie A,2024,1,1,0,3,3.0
+A. Young,Brighton,Premier League,2023,1,1,0,3,3.0
+A. Witsel,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+A. Webster,Brighton,Premier League,2021,1,1,0,3,3.0
+A. Véliz,Tottenham,Premier League,2023,1,1,0,3,3.0
+A. Véliz,Espanyol,La Liga,2024,1,1,0,3,3.0
+A. Voglsammer,Union Berlin,Bundesliga,2021,1,1,0,3,3.0
+S. Amrabat,Fiorentina,Serie A,2021,1,1,0,3,3.0
+S. Amo-Ameyaw,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+S. Amallah,Valladolid,La Liga,2024,1,1,0,3,3.0
+S. Alvero,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+S. Alvero,Lyon,Ligue 1,2023,1,1,0,3,3.0
+S. Agüero,Barcelona,La Liga,2021,1,1,0,3,3.0
+S. Adingra,Brighton,Premier League,2024,1,1,0,3,3.0
+S. Adamyan,FC Koln,Bundesliga,2022,1,1,0,3,3.0
+S. Adamyan,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+Rúben Neves,Wolves,Premier League,2022,1,1,0,3,3.0
+Rubén García,Osasuna,La Liga,2023,1,1,0,3,3.0
+Rubén García,Osasuna,La Liga,2022,1,1,0,3,3.0
+Rubén Duarte,Alaves,La Liga,2023,1,1,0,3,3.0
+Rubén Alcaraz,Cadiz,La Liga,2022,1,1,0,3,3.0
+Ronald Araújo,Barcelona,La Liga,2023,1,1,0,3,3.0
+Rodrygo,Real Madrid,La Liga,2023,1,1,0,3,3.0
+S. Castro,Verona,Serie A,2024,1,1,0,3,3.0
+S. Boufal,Angers,Ligue 1,2022,1,1,0,3,3.0
+S. Botman,Newcastle,Premier League,2023,1,1,0,3,3.0
+S. Bornauw,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+S. Benrahma,West Ham,Premier League,2022,1,1,0,3,3.0
+S. Benrahma,Lyon,Ligue 1,2024,1,1,0,3,3.0
+S. Bell,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+S. Becker,Union Berlin,Bundesliga,2022,1,1,0,3,3.0
+S. Becker,Union Berlin,Bundesliga,2021,1,1,0,3,3.0
+S. Bastoni,Empoli,Serie A,2023,1,1,0,3,3.0
+S. Baptiste,Brentford,Premier League,2023,1,1,0,3,3.0
+S. Banza,Lens,Ligue 1,2021,1,1,0,3,3.0
+S. Babicka,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+S. Azmoun,AS Roma,Serie A,2023,1,1,0,3,3.0
+S. Arias,Granada CF,La Liga,2021,1,1,0,3,3.0
+S. Andersson,FC Koln,Bundesliga,2021,1,1,0,3,3.0
+S. Delaye,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+S. Dallas,Leeds,Premier League,2021,1,1,0,3,3.0
+S. Conteh,1. FC Heidenheim,Bundesliga,2024,1,1,0,3,3.0
+S. Coleman,Bournemouth,Premier League,2023,1,1,0,3,3.0
+A. Vogliacco,Genoa,Serie A,2024,1,1,0,3,3.0
+A. Tuhami,Valladolid,La Liga,2024,1,1,0,3,3.0
+A. Tuhami,Valladolid,La Liga,2022,1,1,0,3,3.0
+A. Touré,Metz,Ligue 1,2024,1,1,0,3,3.0
+A. Tosin,Lorient,Ligue 1,2023,1,1,0,3,3.0
+A. Thomasson,Lens,Ligue 1,2024,1,1,0,3,3.0
+A. Thomasson,Lens,Ligue 1,2022,1,1,0,3,3.0
+A. Theate,Bologna,Serie A,2021,1,1,0,3,3.0
+A. Terzić,Fiorentina,Serie A,2022,1,1,0,3,3.0
+A. Sørloth,Real Sociedad,La Liga,2022,1,1,0,3,3.0
+S. Chukwueze,Villarreal,La Liga,2022,1,1,0,3,3.0
+S. Chukwueze,AC Milan,Serie A,2023,1,1,0,3,3.0
+S. Idumbo,Sevilla,La Liga,2024,1,1,0,3,3.0
+S. Haller,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+S. Guirassy,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+S. Grandsir,LE Havre,Ligue 1,2023,1,1,0,3,3.0
+S. Gnabry,Bayern Munich,Bundesliga,2021,1,1,0,3,3.0
+S. Ghoddos,Brentford,Premier League,2023,1,1,0,3,3.0
+S. Ghoddos,Brentford,Premier League,2021,1,1,0,3,3.0
+S. Fukuda,Borussia Mönchengladbach,Bundesliga,2024,1,1,0,3,3.0
+S. Fofana,Lens,Ligue 1,2022,1,1,0,3,3.0
+S. Esposito,Spezia,Serie A,2022,1,1,0,3,3.0
+S. Esposito,Empoli,Serie A,2024,1,1,0,3,3.0
+S. El Shaarawy,AS Roma,Serie A,2024,1,1,0,3,3.0
+S. Doucouré,Lorient,Ligue 1,2023,1,1,0,3,3.0
+S. Diop,Nice,Ligue 1,2024,1,1,0,3,3.0
+S. Diop,Monaco,Ligue 1,2021,1,1,0,3,3.0
+S. Diarra,Lorient,Ligue 1,2022,1,1,0,3,3.0
+S. Kalu,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+S. Jovetić,Hertha Berlin,Bundesliga,2022,1,1,0,3,3.0
+A. Sánchez,Inter,Serie A,2023,1,1,0,3,3.0
+A. Sylla,Strasbourg,Ligue 1,2023,1,1,0,3,3.0
+A. Stiller,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+A. Stiller,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+A. Stach,1899 Hoffenheim,Bundesliga,2023,1,1,0,3,3.0
+A. Souquet,Montpellier,Ligue 1,2021,1,1,0,3,3.0
+A. Sima,Lorient,Ligue 1,2022,1,1,0,3,3.0
+A. Sima,Angers,Ligue 1,2022,1,1,0,3,3.0
+A. Seydel,SV Darmstadt 98,Bundesliga,2023,1,1,0,3,3.0
+A. Semenyo,Bournemouth,Premier League,2022,1,1,0,3,3.0
+A. Scott,Bournemouth,Premier League,2023,1,1,0,3,3.0
+A. Schäfer,Union Berlin,Bundesliga,2021,1,1,0,3,3.0
+S. Jovetić,Hertha Berlin,Bundesliga,2021,1,1,0,3,3.0
+S. Iling-Junior,Bologna,Serie A,2024,1,1,0,3,3.0
+A. Robertson,Liverpool,Premier League,2023,1,1,0,3,3.0
+S. Mounié,Stade Brestois 29,Ligue 1,2023,1,1,0,3,3.0
+S. Mounié,Stade Brestois 29,Ligue 1,2022,1,1,0,3,3.0
+S. Mounié,FC Augsburg,Bundesliga,2024,1,1,0,3,3.0
+S. Michel,FC Augsburg,Bundesliga,2023,1,1,0,3,3.0
+S. McKenna,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+S. Mbangula,Juventus,Serie A,2024,1,1,0,3,3.0
+S. Mara,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+S. Mandanda,Nice,Ligue 1,2023,1,1,0,3,3.0
+S. Lukić,Torino,Serie A,2022,1,1,0,3,3.0
+S. Lukić,Torino,Serie A,2021,1,1,0,3,3.0
+S. Lovrić,Udinese,Serie A,2022,1,1,0,3,3.0
+S. Long,Southampton,Premier League,2021,1,1,0,3,3.0
+S. Lobotka,Napoli,Serie A,2021,1,1,0,3,3.0
+S. Lammers,Empoli,Serie A,2022,1,1,0,3,3.0
+S. Kolašinac,Marseille,Ligue 1,2022,1,1,0,3,3.0
+S. Posch,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+S. Polter,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+S. Nwankwo,Salernitana,Serie A,2023,1,1,0,3,3.0
+S. Nsoki,1899 Hoffenheim,Bundesliga,2022,1,1,0,3,3.0
+A. Schiavone,Salernitana,Serie A,2021,1,1,0,3,3.0
+A. Sarr,Lyon,Ligue 1,2022,1,1,0,3,3.0
+A. Sangante,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+A. Sanabria,Torino,Serie A,2022,1,1,0,3,3.0
+A. Saint-Maximin,Newcastle,Premier League,2022,1,1,0,3,3.0
+A. Saint-Maximin,Newcastle,Premier League,2021,1,1,0,3,3.0
+A. Saelemaekers,AC Milan,Serie A,2022,1,1,0,3,3.0
+A. Rüdiger,Real Madrid,La Liga,2022,1,1,0,3,3.0
+A. Rüdiger,Chelsea,Premier League,2021,1,1,0,3,3.0
+A. Rrahmani,Napoli,Serie A,2022,1,1,0,3,3.0
+A. Rrahmani,Napoli,Serie A,2021,1,1,0,3,3.0
+A. Robertson,West Ham,Premier League,2024,1,1,0,3,3.0
+S. Zoller,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+S. Widmer,FSV Mainz 05,Bundesliga,2021,1,1,0,3,3.0
+S. Weissman,Valladolid,La Liga,2022,1,1,0,3,3.0
+S. Verdi,Torino,Serie A,2021,1,1,0,3,3.0
+S. Verdi,Salernitana,Serie A,2021,1,1,0,3,3.0
+S. Tonali,AC Milan,Serie A,2022,1,1,0,3,3.0
+S. Tonali,AC Milan,Serie A,2021,1,1,0,3,3.0
+S. Tigges,FC Koln,Bundesliga,2022,1,1,0,3,3.0
+S. Thioub,Angers,Ligue 1,2022,1,1,0,3,3.0
+S. Surridge,Nottingham Forest,Premier League,2022,1,1,0,3,3.0
+S. Serdar,Hertha Berlin,Bundesliga,2022,1,1,0,3,3.0
+S. Sensi,Monza,Serie A,2024,1,1,0,3,3.0
+S. Sensi,Monza,Serie A,2022,1,1,0,3,3.0
+S. Ricci,Torino,Serie A,2022,1,1,0,3,3.0
+S. Ricci,Empoli,Serie A,2021,1,1,0,3,3.0
+S. Posch,Bologna,Serie A,2022,1,1,0,3,3.0
+Sergi Canós,Brentford,Premier League,2021,1,1,0,3,3.0
+Saúl Ñíguez,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Saúl Coco,Cagliari,Serie A,2024,1,1,0,3,3.0
+Santi Comesaña,Villarreal,La Liga,2024,1,1,0,3,3.0
+Sandro Ramírez,Las Palmas,La Liga,2024,1,1,0,3,3.0
+Samuel Sáiz,Girona,La Liga,2022,1,1,0,3,3.0
+Samuel Omorodion,Alaves,La Liga,2023,1,1,0,3,3.0
+Samuel Lino,Valencia,La Liga,2022,1,1,0,3,3.0
+Samuel Lino,Atletico Madrid,La Liga,2024,1,1,0,3,3.0
+Samuel Lino,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Samuel Costa,Mallorca,La Liga,2023,1,1,0,3,3.0
+Sam Morsy,Ipswich,Premier League,2024,1,1,0,3,3.0
+Salva Sevilla,Mallorca,La Liga,2021,1,1,0,3,3.0
+S. Żurkowski,Empoli,Serie A,2021,1,1,0,3,3.0
+S. van den Berg,FC Schalke 04,Bundesliga,2022,1,1,0,3,3.0
+S. de Vrij,Inter,Serie A,2024,1,1,0,3,3.0
+Sergio Camello,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Sergi Roberto,Barcelona,La Liga,2022,1,1,0,3,3.0
+Sergi Roberto,Barcelona,La Liga,2021,1,1,0,3,3.0
+A. Robertson,Liverpool,Premier League,2021,1,1,0,3,3.0
+A. Rebić,Lecce,Serie A,2024,1,1,0,3,3.0
+A. Rebić,AC Milan,Serie A,2022,1,1,0,3,3.0
+A. Ramsey,Nice,Ligue 1,2022,1,1,0,3,3.0
+A. Rami,Estac Troyes,Ligue 1,2021,1,1,0,3,3.0
+A. Rabiot,Juventus,Serie A,2023,1,1,0,3,3.0
+A. Pléa,Borussia Mönchengladbach,Bundesliga,2024,1,1,0,3,3.0
+A. Pléa,Borussia Monchengladbach,Bundesliga,2023,1,1,0,3,3.0
+A. Pinamonti,Sassuolo,Serie A,2023,1,1,0,3,3.0
+A. Pinamonti,Sassuolo,Serie A,2022,1,1,0,3,3.0
+A. Pieper,Werder Bremen,Bundesliga,2022,1,1,0,3,3.0
+Sergi Guardiola,Cadiz,La Liga,2023,1,1,0,3,3.0
+Sergi Darder,Mallorca,La Liga,2023,1,1,0,3,3.0
+A. Petagna,Monza,Serie A,2022,1,1,0,3,3.0
+A. Palaversa,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+A. Ounas,Lille,Ligue 1,2023,1,1,0,3,3.0
+A. Ounahi,Marseille,Ligue 1,2022,1,1,0,3,3.0
+A. Oukidja,Lille,Ligue 1,2021,1,1,0,3,3.0
+A. Ouattara,Strasbourg,Ligue 1,2024,1,1,0,3,3.0
+A. Onana,Everton,Premier League,2023,1,1,0,3,3.0
+A. Onana,Atalanta,Serie A,2022,1,1,0,3,3.0
+A. Onaiwu,Auxerre,Ligue 1,2024,1,1,0,3,3.0
+A. Obert,Cagliari,Serie A,2024,1,1,0,3,3.0
+A. Nordin,Montpellier,Ligue 1,2023,1,1,0,3,3.0
+Sobrino,Cadiz,La Liga,2022,1,1,0,3,3.0
+Sergio Ramos,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+Sergio Ramos,Barcelona,La Liga,2023,1,1,0,3,3.0
+Sergio González,Leganes,La Liga,2024,1,1,0,3,3.0
+Sergio Camello,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+T. Buchanan,Villarreal,La Liga,2024,1,1,0,3,3.0
+T. Buchanan,Inter,Serie A,2023,1,1,0,3,3.0
+T. Bongonda,Cadiz,La Liga,2022,1,1,0,3,3.0
+T. Bašić,Lazio,Serie A,2022,1,1,0,3,3.0
+T. Awoniyi,Union Berlin,Bundesliga,2021,1,1,0,3,3.0
+T. Awoniyi,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+T. Asano,Vfl Bochum,Bundesliga,2023,1,1,0,3,3.0
+T. Arslan,Udinese,Serie A,2022,1,1,0,3,3.0
+T. Arslan,Udinese,Serie A,2021,1,1,0,3,3.0
+T. Almada,Lyon,Ligue 1,2024,1,1,0,3,3.0
+T. Alexander-Arnold,Liverpool,Premier League,2024,1,1,0,3,3.0
+T. Alexander-Arnold,Liverpool,Premier League,2021,1,1,0,3,3.0
+T. Abraham,AS Roma,Serie A,2023,1,1,0,3,3.0
+Stefan Bajčetić,Liverpool,Premier League,2022,1,1,0,3,3.0
+Sory Kaba,Las Palmas,La Liga,2023,1,1,0,3,3.0
+A. Petagna,Napoli,Serie A,2021,1,1,0,3,3.0
+T. Dallinga,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+T. Dallinga,Toulouse,Ligue 1,2022,1,1,0,3,3.0
+A. Nordin,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+A. Nagida,Rennes,Ligue 1,2024,1,1,0,3,3.0
+A. Murić,Brighton,Premier League,2023,1,1,0,3,3.0
+A. Murillo,Marseille,Ligue 1,2023,1,1,0,3,3.0
+A. Modeste,Borussia Dortmund,Bundesliga,2022,1,1,0,3,3.0
+A. Miranchuk,Atalanta,Serie A,2023,1,1,0,3,3.0
+A. Miranchuk,Atalanta,Serie A,2021,1,1,0,3,3.0
+A. Milik,Juventus,Serie A,2023,1,1,0,3,3.0
+A. Matusiwa,Reims,Ligue 1,2023,1,1,0,3,3.0
+A. Matturro,Udinese,Serie A,2023,1,1,0,3,3.0
+A. Masuaku,West Ham,Premier League,2021,1,1,0,3,3.0
+T. Coulibaly,Montpellier,Ligue 1,2024,1,1,0,3,3.0
+T. Chong,Luton,Premier League,2023,1,1,0,3,3.0
+T. Cairney,Fulham,Premier League,2023,1,1,0,3,3.0
+T. Livramento,Newcastle,Premier League,2023,1,1,0,3,3.0
+T. Le Bris,Lorient,Ligue 1,2022,1,1,0,3,3.0
+T. Lamptey,Brighton,Premier League,2024,1,1,0,3,3.0
+T. Kubo,Real Sociedad,La Liga,2024,1,1,0,3,3.0
+T. Kubo,Mallorca,La Liga,2021,1,1,0,3,3.0
+T. Kroos,Real Madrid,La Liga,2022,1,1,0,3,3.0
+T. Krauß,FSV Mainz 05,Bundesliga,2023,1,1,0,3,3.0
+T. Koopmeiners,Juventus,Serie A,2024,1,1,0,3,3.0
+T. Koopmeiners,Atalanta,Serie A,2023,1,1,0,3,3.0
+T. Kolodziejczak,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+T. Kehrer,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+T. Hernández,AC Milan,Serie A,2023,1,1,0,3,3.0
+T. Hernández,AC Milan,Serie A,2022,1,1,0,3,3.0
+T. Hernández,AC Milan,Serie A,2021,1,1,0,3,3.0
+T. Henry,Verona,Serie A,2023,1,1,0,3,3.0
+T. George,Chelsea,Premier League,2024,1,1,0,3,3.0
+T. Moffi,Nice,Ligue 1,2024,1,1,0,3,3.0
+T. Moffi,Lorient,Ligue 1,2022,1,1,0,3,3.0
+T. Mitchell,Crystal Palace,Premier League,2023,1,1,0,3,3.0
+T. Mings,Fulham,Premier League,2022,1,1,0,3,3.0
+T. Mings,Aston Villa,Premier League,2021,1,1,0,3,3.0
+A. Marušić,Lazio,Serie A,2023,1,1,0,3,3.0
+A. Mandi,Atletico Madrid,La Liga,2021,1,1,0,3,3.0
+A. Makoumbou,Cagliari,Serie A,2023,1,1,0,3,3.0
+A. Maitland-Niles,Lyon,Ligue 1,2023,1,1,0,3,3.0
+A. Mac Allister,Liverpool,Premier League,2023,1,1,0,3,3.0
+A. Losilla,VfL BOCHUM,Bundesliga,2021,1,1,0,3,3.0
+T. Minamino,Monaco,Ligue 1,2023,1,1,0,3,3.0
+T. Minamino,Monaco,Ligue 1,2022,1,1,0,3,3.0
+T. Mangani,Angers,Ligue 1,2021,1,1,0,3,3.0
+T. Louchet,Nice,Ligue 1,2024,1,1,0,3,3.0
+T. Louchet,Nice,Ligue 1,2023,1,1,0,3,3.0
+T. Tessmann,Lyon,Ligue 1,2024,1,1,0,3,3.0
+T. Souček,West Ham,Premier League,2024,1,1,0,3,3.0
+T. Skarke,SV Darmstadt 98,Bundesliga,2023,1,1,0,3,3.0
+T. Sainte-Luce,Montpellier,Ligue 1,2024,1,1,0,3,3.0
+T. Rothe,Union Berlin,Bundesliga,2024,1,1,0,3,3.0
+T. Pobega,Torino,Serie A,2021,1,1,0,3,3.0
+T. Pobega,Bologna,Serie A,2024,1,1,0,3,3.0
+T. Pobega,AC Milan,Serie A,2022,1,1,0,3,3.0
+T. Pembélé,Le Havre,Ligue 1,2024,1,1,0,3,3.0
+T. Partey,Arsenal,Premier League,2024,1,1,0,3,3.0
+T. Oberdorf,Fortuna Dusseldorf,Bundesliga,2023,1,1,0,3,3.0
+T. Noslin,Lazio,Serie A,2024,1,1,0,3,3.0
+T. Müller,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+T. Müller,Bayern Munich,Bundesliga,2023,1,1,0,3,3.0
+T. Müller,Bayern Munich,Bundesliga,2022,1,1,0,3,3.0
+T. Müller,Bayern Munich,Bundesliga,2021,1,1,0,3,3.0
+Tello,Real Betis,La Liga,2021,1,1,0,3,3.0
+Tadeo Allende,Celta Vigo,La Liga,2023,1,1,0,3,3.0
+T. Čvančara,Borussia Mönchengladbach,Bundesliga,2024,1,1,0,3,3.0
+T. Werner,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+T. Werner,Chelsea,Premier League,2021,1,1,0,3,3.0
+T. Walcott,Southampton,Premier League,2022,1,1,0,3,3.0
+A. La Mantia,Empoli,Serie A,2021,1,1,0,3,3.0
+A. Kramarić,1899 Hoffenheim,Bundesliga,2024,1,1,0,3,3.0
+A. Kramarić,1899 Hoffenheim,Bundesliga,2021,1,1,0,3,3.0
+A. Kelati,Holstein Kiel,Bundesliga,2024,1,1,0,3,3.0
+A. Kalimuendo-Muinga,Lens,Ligue 1,2021,1,1,0,3,3.0
+A. Jung,Werder Bremen,Bundesliga,2023,1,1,0,3,3.0
+A. Januzaj,Real Sociedad,La Liga,2021,1,1,0,3,3.0
+T. Walcott,Newcastle,Premier League,2022,1,1,0,3,3.0
+T. Tomiyasu,Arsenal,Premier League,2023,1,1,0,3,3.0
+T. Teuma,Reims,Ligue 1,2024,1,1,0,3,3.0
+A. Hakimi,Paris Saint Germain,Ligue 1,2023,1,1,0,3,3.0
+V. Carboni,Monza,Serie A,2023,1,1,0,3,3.0
+V. Boniface,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0
+Unai Simón,Mallorca,La Liga,2021,1,1,0,3,3.0
+Unai Simón,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Unai Núñez,Atletico Madrid,La Liga,2022,1,1,0,3,3.0
+Unai López,Rayo Vallecano,La Liga,2024,1,1,0,3,3.0
+Unai López,Rayo Vallecano,La Liga,2022,1,1,0,3,3.0
+U. Garcia,Marseille,Ligue 1,2024,1,1,0,3,3.0
+Tuta,Eintracht Frankfurt,Bundesliga,2023,1,1,0,3,3.0
+Tuta,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+Trincão,Wolves,Premier League,2021,1,1,0,3,3.0
+Thiago Silva,Chelsea,Premier League,2023,1,1,0,3,3.0
+Theo Corbeanu,Granada CF,La Liga,2023,1,1,0,3,3.0
+Tete Morente,Elche,La Liga,2022,1,1,0,3,3.0
+Tete Morente,Elche,La Liga,2021,1,1,0,3,3.0
+V. Kovalenko,Empoli,Serie A,2023,1,1,0,3,3.0
+V. Grifo,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+V. Grifo,SC Freiburg,Bundesliga,2021,1,1,0,3,3.0
+V. Germain,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+V. Germain,Montpellier,Ligue 1,2021,1,1,0,3,3.0
+V. Castellanos,Girona,La Liga,2022,1,1,0,3,3.0
+A. Iwobi,Everton,Premier League,2021,1,1,0,3,3.0
+A. Isak,Real Sociedad,La Liga,2021,1,1,0,3,3.0
+A. Ilić,Union Berlin,Bundesliga,2024,1,1,0,3,3.0
+A. Hrustić,Eintracht Frankfurt,Bundesliga,2021,1,1,0,3,3.0
+A. Hložek,Bayer Leverkusen,Bundesliga,2023,1,1,0,3,3.0
+A. Hložek,Bayer Leverkusen,Bundesliga,2022,1,1,0,3,3.0
+A. Hickey,Bologna,Serie A,2021,1,1,0,3,3.0
+A. Harroui,Verona,Serie A,2024,1,1,0,3,3.0
+A. Harroui,Sassuolo,Serie A,2022,1,1,0,3,3.0
+A. Hakimi,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+V. Černý,VfL Wolfsburg,Bundesliga,2023,1,1,0,3,3.0
+V. van Dijk,Liverpool,Premier League,2021,1,1,0,3,3.0
+V. Sierro,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+V. Sierro,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+A. Hakimi,Paris Saint Germain,Ligue 1,2021,1,1,0,3,3.0
+A. Hainaut,Parma,Serie A,2024,1,1,0,3,3.0
+A. Haidara,RB Leipzig,Bundesliga,2022,1,1,0,3,3.0
+A. Gómez,Sevilla,La Liga,2021,1,1,0,3,3.0
+A. Guðmundsson,Genoa,Serie A,2021,1,1,0,3,3.0
+A. Guðmundsson,Fiorentina,Serie A,2024,1,1,0,3,3.0
+A. Gouiri,Rennes,Ligue 1,2022,1,1,0,3,3.0
+A. Gouiri,Marseille,Ligue 1,2024,1,1,0,3,3.0
+A. Gordon,Newcastle,Premier League,2024,1,1,0,3,3.0
+A. Gordon,Newcastle,Premier League,2023,1,1,0,3,3.0
+V. Rongier,Marseille,Ligue 1,2024,1,1,0,3,3.0
+V. Kovalenko,Spezia,Serie A,2021,1,1,0,3,3.0
+W. Endo,Liverpool,Premier League,2023,1,1,0,3,3.0
+W. Cheddira,Espanyol,La Liga,2024,1,1,0,3,3.0
+W. Bondo,Monza,Serie A,2023,1,1,0,3,3.0
+W. Anton,VfB Stuttgart,Bundesliga,2022,1,1,0,3,3.0
+W. Anton,Borussia Dortmund,Bundesliga,2024,1,1,0,3,3.0
+Vítinha,Marseille,Ligue 1,2023,1,1,0,3,3.0
+Víctor Díaz,Granada CF,La Liga,2021,1,1,0,3,3.0
+Vitor Roque,Real Betis,La Liga,2024,1,1,0,3,3.0
+Vitinha,Paris Saint Germain,Ligue 1,2024,1,1,0,3,3.0
+Vitinha,Paris Saint Germain,Ligue 1,2023,1,1,0,3,3.0
+Vinícius Júnior,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Vinicius Souza,Espanyol,La Liga,2022,1,1,0,3,3.0
+Viktor Tsygankov,Girona,La Liga,2023,1,1,0,3,3.0
+Vicente Guaita,Real Madrid,La Liga,2023,1,1,0,3,3.0
+Vanderson,Monaco,Ligue 1,2021,1,1,0,3,3.0
+Valery Fernández,Girona,La Liga,2023,1,1,0,3,3.0
+W. Ndidi,Arsenal,Premier League,2024,1,1,0,3,3.0
+W. Khazri,Montpellier,Ligue 1,2022,1,1,0,3,3.0
+W. Kanga,Hertha Berlin,Bundesliga,2022,1,1,0,3,3.0
+W. Foderingham,Fulham,Premier League,2023,1,1,0,3,3.0
+A. Golovin,Monaco,Ligue 1,2023,1,1,0,3,3.0
+A. Gilchrist,Chelsea,Premier League,2023,1,1,0,3,3.0
+A. Garnacho,Manchester United,Premier League,2023,1,1,0,3,3.0
+A. Gaich,Verona,Serie A,2022,1,1,0,3,3.0
+A. Gabrielloni,Como,Serie A,2024,1,1,0,3,3.0
+A. Fulgini,Lens,Ligue 1,2024,1,1,0,3,3.0
+A. Florenzi,AC Milan,Serie A,2021,1,1,0,3,3.0
+A. Flips,Reims,Ligue 1,2022,1,1,0,3,3.0
+A. Ezzalzouli,Real Betis,La Liga,2024,1,1,0,3,3.0
+A. Espino,Cadiz,La Liga,2021,1,1,0,3,3.0
+W. Faghir,VfB Stuttgart,Bundesliga,2021,1,1,0,3,3.0
+W. Endo,VfB Stuttgart,Bundesliga,2021,1,1,0,3,3.0
+A. Dembélé,Torino,Serie A,2024,1,1,0,3,3.0
+A. Delort,Montpellier,Ligue 1,2021,1,1,0,3,3.0
+Wu Lei,Espanyol,La Liga,2021,1,1,0,3,3.0
+Willian José,Real Betis,La Liga,2022,1,1,0,3,3.0
+Willian,Fulham,Premier League,2022,1,1,0,3,3.0
+William Carvalho,Real Betis,La Liga,2021,1,1,0,3,3.0
+Walace,Udinese,Serie A,2021,1,1,0,3,3.0
+W. Zaïre-Emery,Paris Saint Germain,Ligue 1,2022,1,1,0,3,3.0
+W. Weghorst,VfL Wolfsburg,Bundesliga,2021,1,1,0,3,3.0
+W. Troost-Ekong,Salernitana,Serie A,2022,1,1,0,3,3.0
+W. Singo,Torino,Serie A,2022,1,1,0,3,3.0
+W. Saïd,Lens,Ligue 1,2024,1,1,0,3,3.0
+W. Saïd,Lens,Ligue 1,2022,1,1,0,3,3.0
+W. Saïd,Lens,Ligue 1,2021,1,1,0,3,3.0
+W. Osula,Newcastle,Premier League,2024,1,1,0,3,3.0
+W. Orbán,RB Leipzig,Bundesliga,2024,1,1,0,3,3.0
+Y. Abdelhamid,Reims,Ligue 1,2023,1,1,0,3,3.0
+Y. Abdelhamid,Reims,Ligue 1,2021,1,1,0,3,3.0
+Xeka,Lille,Ligue 1,2021,1,1,0,3,3.0
+X. Simons,RB Leipzig,Bundesliga,2023,1,1,0,3,3.0
+X. Shaqiri,Lyon,Ligue 1,2021,1,1,0,3,3.0
+X. Chavalerin,Estac Troyes,Ligue 1,2021,1,1,0,3,3.0
+A. Elis,Bordeaux,Ligue 1,2021,1,1,0,3,3.0
+A. Elanga,Nottingham Forest,Premier League,2024,1,1,0,3,3.0
+A. Elanga,Manchester United,Premier League,2021,1,1,0,3,3.0
+A. Ekdal,Sampdoria,Serie A,2021,1,1,0,3,3.0
+A. Dønnum,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+A. Doucouré,Everton,Premier League,2024,1,1,0,3,3.0
+A. Doucouré,Everton,Premier League,2023,1,1,0,3,3.0
+A. Dossena,Juventus,Serie A,2023,1,1,0,3,3.0
+A. Disasi,Chelsea,Premier League,2023,1,1,0,3,3.0
+A. Dioussé,Saint Etienne,Ligue 1,2021,1,1,0,3,3.0
+Y. Mina,Everton,Premier League,2022,1,1,0,3,3.0
+Y. Maleh,Fiorentina,Serie A,2021,1,1,0,3,3.0
+Y. Keitel,SC Freiburg,Bundesliga,2023,1,1,0,3,3.0
+Y. Karamoh,Torino,Serie A,2022,1,1,0,3,3.0
+Y. Karamoh,Montpellier,Ligue 1,2023,1,1,0,3,3.0
+Y. Kabadayı,FC Augsburg,Bundesliga,2024,1,1,0,3,3.0
+Y. Herrera,Espanyol,La Liga,2021,1,1,0,3,3.0
+Y. Gerhardt,VfL Wolfsburg,Bundesliga,2022,1,1,0,3,3.0
+Y. Gboho,Toulouse,Ligue 1,2024,1,1,0,3,3.0
+Y. Gboho,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+Y. Fofana,Monaco,Ligue 1,2023,1,1,0,3,3.0
+Y. Engelhardt,Fortuna Dusseldorf,Bundesliga,2023,1,1,0,3,3.0
+Y. En-Nesyri,Sevilla,La Liga,2021,1,1,0,3,3.0
+Y. Carrasco,Atletico Madrid,La Liga,2022,1,1,0,3,3.0
+Y. Bissouma,Brighton,Premier League,2021,1,1,0,3,3.0
+Y. Atal,Nice,Ligue 1,2021,1,1,0,3,3.0
+A. Caci,FSV Mainz 05,Bundesliga,2024,1,1,0,3,3.0
+A. Caci,FSV Mainz 05,Bundesliga,2022,1,1,0,3,3.0
+A. Buongiorno,Napoli,Serie A,2024,1,1,0,3,3.0
+A. Budimir,Osasuna,La Liga,2024,1,1,0,3,3.0
+Yan Couto,Girona,La Liga,2023,1,1,0,3,3.0
+Y. Vertessen,Union Berlin,Bundesliga,2023,1,1,0,3,3.0
+Y. Touzghar,Estac Troyes,Ligue 1,2021,1,1,0,3,3.0
+Y. Tielemans,Leicester,Premier League,2021,1,1,0,3,3.0
+Y. Suzuki,Strasbourg,Ligue 1,2022,1,1,0,3,3.0
+Y. Sugawara,Southampton,Premier League,2024,1,1,0,3,3.0
+Y. Salmier,Estac Troyes,Ligue 1,2022,1,1,0,3,3.0
+Y. Ramadani,Lecce,Serie A,2023,1,1,0,3,3.0
+Y. Poulsen,RB Leipzig,Bundesliga,2021,1,1,0,3,3.0
+Y. Ndayishimiye,Nice,Ligue 1,2024,1,1,0,3,3.0
+Y. Moukoko,Borussia Dortmund,Bundesliga,2021,1,1,0,3,3.0
+Y. Minteh,Brighton,Premier League,2024,1,1,0,3,3.0
+Z. Amdouni,Burnley,Premier League,2023,1,1,0,3,3.0
+Z. Aboukhlal,Toulouse,Ligue 1,2023,1,1,0,3,3.0
+Yerson Mosquera,Villarreal,La Liga,2023,1,1,0,3,3.0
+Yeremi Pino,Villarreal,La Liga,2021,1,1,0,3,3.0
+Yeray,Athletic Club,La Liga,2024,1,1,0,3,3.0
+Yangel Herrera,Girona,La Liga,2023,1,1,0,3,3.0
+A. Deiola,Cagliari,Serie A,2024,1,1,0,3,3.0
+A. Davies,Bayern München,Bundesliga,2024,1,1,0,3,3.0
+A. Danjuma,Tottenham,Premier League,2022,1,1,0,3,3.0
+A. Danjuma,Girona,La Liga,2024,1,1,0,3,3.0
+A. Colpani,Monza,Serie A,2022,1,1,0,3,3.0
+A. Claude-Maurice,Lens,Ligue 1,2022,1,1,0,3,3.0
+A. Carboni,Monza,Serie A,2023,1,1,0,3,3.0
+A. Cambiaso,Juventus,Serie A,2024,1,1,0,3,3.0
+A. Cambiaso,Juventus,Serie A,2023,1,1,0,3,3.0
+A. Caci,Strasbourg,Ligue 1,2021,1,1,0,3,3.0
+6                         E. Ünal,Getafe,La Liga,2022,1,1,0,3,3.0
+0                         D. Malen,Aston Villa,Premier League,2024,1,1,0,3,3.0
+Óscar Rodríguez,Getafe,La Liga,2023,1,1,0,3,3.0
+Óscar Mingueza,Celta Vigo,La Liga,2023,1,1,0,3,3.0
+Ó. Duarte,Levante,La Liga,2021,1,1,0,3,3.0
+Íñigo Eguaras,Almeria,La Liga,2022,1,1,0,3,3.0
+Í. Bergmann Jóhannesson,Fortuna Dusseldorf,Bundesliga,2023,1,1,0,3,3.0
+Álex Moreno,Aston Villa,Premier League,2023,1,1,0,3,3.0
+Álex Collado,Granada CF,La Liga,2021,1,1,0,3,3.0
+Álex Centelles,Almeria,La Liga,2022,1,1,0,3,3.0
+Álex Berenguer,Athletic Club,La Liga,2022,1,1,0,3,3.0
+Álex Baena,Villarreal,La Liga,2024,1,1,0,3,3.0
+Álex,Cadiz,La Liga,2022,1,1,0,3,3.0
+Álex,Cadiz,La Liga,2021,1,1,0,3,3.0
+Á. Rodríguez,Real Madrid,La Liga,2022,1,1,0,3,3.0
+Á. Padilla,Sevilla,La Liga,2024,1,1,0,3,3.0
+Éder Militão,Real Madrid,La Liga,2021,1,1,0,3,3.0
+É. Capoue,Villarreal,La Liga,2022,1,1,0,3,3.0
+Ç. Söyüncü,Leicester,Premier League,2021,1,1,0,3,3.0
+Ángel Correa,Atletico Madrid,La Liga,2023,1,1,0,3,3.0
+Ángel,Mallorca,La Liga,2022,1,1,0,3,3.0
+Álvaro Tejero,Espanyol,La Liga,2024,1,1,0,3,3.0
+Álvaro Negredo,Cadiz,La Liga,2022,1,1,0,3,3.0
+Álvaro Morata,Juventus,Serie A,2021,1,1,0,3,3.0
+Álvaro Morata,AC Milan,Serie A,2024,1,1,0,3,3.0
+Álvaro García,Rayo Vallecano,La Liga,2023,1,1,0,3,3.0
+Álvaro Djaló,Athletic Club,La Liga,2024,1,1,0,3,3.0
+Álex Muñoz,Las Palmas,La Liga,2024,1,1,0,3,3.0
+A. Armstrong,Southampton,Premier League,2024,1,1,0,3,3.0
+A. Albers,FC St. Pauli,Bundesliga,2024,1,1,0,3,3.0
+A. Al Dakhil,Burnley,Premier League,2023,1,1,0,3,3.0
+A. Adli,Bayer Leverkusen,Bundesliga,2024,1,1,0,3,3.0

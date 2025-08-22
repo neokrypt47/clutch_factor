@@ -64,4 +64,4 @@ st.plotly_chart(fig, use_container_width=True)
 player = st.selectbox("Select a Player to View Stats", df.index.sort_values())
 if player:
     st.subheader(f"📊 Stats for {player}")
-    st.write(df.loc[player])
+    st.dataframe(df.loc[[player]])  # note the double brackets
