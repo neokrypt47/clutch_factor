@@ -4,8 +4,19 @@ df = pd.read_csv("events_raw.csv")
 print("Total events:", df.shape[0])
 
 # Step 1: Normalize fields
+required_cols = {'time.elapsed', 'player.name', 'league', 'league_id', 'season'}
+missing = [c for c in required_cols if c not in df.columns]
+if 'team_name' not in df.columns and 'team.name' not in df.columns:
+    missing.append('team_name')
+if 'team_id' not in df.columns and 'team.id' not in df.columns:
+    missing.append('team_id')
+if missing:
+    raise ValueError(f"Missing columns in raw data: {missing}")
+
 df['minute'] = df['time.elapsed']
 df['player_name'] = df['player.name']
+df['team_name'] = df['team_name'] if 'team_name' in df.columns else df['team.name']
+df['team_id'] = df['team_id'] if 'team_id' in df.columns else df['team.id']
 
 # Step 2: Filter for clutch-relevant events
 goals = df[(df['type'] == 'Goal') & (df['detail'].isin(['Normal Goal', 'Penalty', 'Own Goal']))]
@@ -34,6 +45,8 @@ clutch_df = pd.concat([goals, assists])
 clutch_df = clutch_df[
     [
         'player_name',
+        'team_name',
+        'team_id',
         'fixture_id',
         'league',
         'league_id',
@@ -45,7 +58,7 @@ clutch_df = clutch_df[
 
 # Step 5: Group and summarize
 summary = (
-    clutch_df.groupby(['player_name', 'league', 'league_id', 'season'])
+    clutch_df.groupby(['player_name', 'team_name', 'team_id', 'league', 'league_id', 'season'])
     .agg(
         {
             'fixture_id': 'nunique',

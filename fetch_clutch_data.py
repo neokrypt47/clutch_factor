@@ -99,6 +99,10 @@ async def fetch_events_async(
                 e["league"] = league
                 e["league_id"] = league_id
                 e["season"] = season
+                # Flatten team info so it is retained in the exported CSV.
+                team = e.get("team", {})
+                e["team_id"] = team.get("id")
+                e["team_name"] = team.get("name")
                 events.append(e)
 
         tasks = [asyncio.create_task(_get(fid)) for fid in fixture_ids]
@@ -135,6 +139,9 @@ def main(use_async: bool = False) -> None:
                             e["league"] = league_name
                             e["league_id"] = league_id
                             e["season"] = season
+                            team = e.get("team", {})
+                            e["team_id"] = team.get("id")
+                            e["team_name"] = team.get("name")
                             all_events.append(e)
                         time.sleep(THROTTLE)
                     except Exception as ex:
