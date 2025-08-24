@@ -99,10 +99,22 @@ async def fetch_events_async(
                 e["league"] = league
                 e["league_id"] = league_id
                 e["season"] = season
-                # Flatten team info so it is retained in the exported CSV.
-                team = e.get("team", {})
+
+                team = e.pop("team", {})
                 e["team_id"] = team.get("id")
                 e["team_name"] = team.get("name")
+                e["team_logo"] = team.get("logo")
+
+                player = e.pop("player", {})
+                e["player_id"] = player.get("id")
+                e["player_name"] = player.get("name")
+                e["player_photo"] = player.get("photo")
+
+                assist = e.pop("assist", {})
+                e["assist_id"] = assist.get("id")
+                e["assist_name"] = assist.get("name")
+                e["assist_photo"] = assist.get("photo")
+
                 events.append(e)
 
         tasks = [asyncio.create_task(_get(fid)) for fid in fixture_ids]
@@ -139,9 +151,18 @@ def main(use_async: bool = False) -> None:
                             e["league"] = league_name
                             e["league_id"] = league_id
                             e["season"] = season
-                            team = e.get("team", {})
+                            team = e.pop("team", {})
                             e["team_id"] = team.get("id")
                             e["team_name"] = team.get("name")
+                            e["team_logo"] = team.get("logo")
+                            player = e.pop("player", {})
+                            e["player_id"] = player.get("id")
+                            e["player_name"] = player.get("name")
+                            e["player_photo"] = player.get("photo")
+                            assist = e.pop("assist", {})
+                            e["assist_id"] = assist.get("id")
+                            e["assist_name"] = assist.get("name")
+                            e["assist_photo"] = assist.get("photo")
                             all_events.append(e)
                         time.sleep(THROTTLE)
                     except Exception as ex:

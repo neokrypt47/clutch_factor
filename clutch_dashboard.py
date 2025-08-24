@@ -1,15 +1,20 @@
+import sqlite3
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Load the clutch data
-
-df = pd.read_csv("clutch_summary.csv")
+DB_PATH = "clutch.db"
 
 
-# Normalize possible column names
-if "season" in df.columns and "year" not in df.columns:
-    df.rename(columns={"season": "year"}, inplace=True)
+@st.cache_data
+def load_data() -> pd.DataFrame:
+    """Return the clutch summary table from the SQLite database."""
+    with sqlite3.connect(DB_PATH) as conn:
+        df = pd.read_sql_query("SELECT * FROM clutch_summary", conn)
+    return df
+
+
+df = load_data()
 
 
 # Determine which column describes the league. Prefer the readable name

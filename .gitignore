@@ -1,3 +1,5 @@
 clutch_factor/
 __pycache__/
 .env
+
+clutch.db
