@@ -8,9 +8,30 @@ DB_PATH = "clutch.db"
 
 @st.cache_data
 def load_data() -> pd.DataFrame:
-    """Return the clutch summary table from the SQLite database."""
+    """Return the clutch summary table from the SQLite database.
+
+    The CSV files that seed the database use capitalized column names such as
+    ``Clutch_Score`` while the SQLite schema stores them in snake_case
+    (``clutch_score``).  When pandas reads from the database we therefore
+    normalize the column names back to the capitalized style expected by the
+    dashboard.
+    """
+
     with sqlite3.connect(DB_PATH) as conn:
         df = pd.read_sql_query("SELECT * FROM clutch_summary", conn)
+
+    # Map the database column names to the ones referenced elsewhere in the
+    # dashboard.  Only rename columns that are present to keep the function
+    # resilient to future schema changes.
+    rename_map = {
+        "clutch_matches": "Clutch_Matches",
+        "clutch_goal": "Clutch_Goal",
+        "clutch_assist": "Clutch_Assist",
+        "clutch_score": "Clutch_Score",
+        "score_per_match": "Score_per_Match",
+    }
+    df.rename(columns={k: v for k, v in rename_map.items() if k in df.columns}, inplace=True)
+
     return df
 
 
