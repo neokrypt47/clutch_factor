@@ -62,6 +62,9 @@ if year != "All" and "year" in df.columns:
 
     df = df[df["year"] == year]
 
+# Build a unique list of player names after filtering
+player_names = sorted(df.index.str.strip().drop_duplicates())
+
 # Show top N players
 top_n = st.slider("Show Top N Players", min_value=5, max_value=50, value=10)
 top_df = df.sort_values("Clutch_Score", ascending=False).head(top_n).reset_index()
@@ -87,7 +90,7 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 # Optional: Player selection
-player = st.selectbox("Select a Player to View Stats", df.index.sort_values())
+player = st.selectbox("Select a Player to View Stats", player_names)
 if player:
     st.subheader(f"📊 Stats for {player}")
     st.dataframe(df.loc[[player]])  # note the double brackets
