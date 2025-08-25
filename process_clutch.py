@@ -86,7 +86,9 @@ def main() -> None:
 
     # Clean player names that may include leading squad numbers or extra whitespace
     clutch_df["player_name"] = (
-        clutch_df["player_name"].str.replace(r"^\d+\s*", "", regex=True).str.strip()
+        clutch_df["player_name"]
+        .str.replace(r"^\d+[\s.-]*", "", regex=True)
+        .str.strip()
     )
 
     summary = (
