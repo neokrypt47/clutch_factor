@@ -84,6 +84,11 @@ def main() -> None:
 
     clutch_df = pd.concat([goals, assists], ignore_index=True)
 
+    # Clean player names that may include leading squad numbers or extra whitespace
+    clutch_df["player_name"] = (
+        clutch_df["player_name"].str.replace(r"^\d+\s*", "", regex=True).str.strip()
+    )
+
     summary = (
         clutch_df.groupby(
             [

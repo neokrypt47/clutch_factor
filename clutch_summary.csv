@@ -929,7 +929,7 @@ player_id,player_name,team_id,team_name,league_id,league,year,Clutch_Matches,Clu
 41577.0,Nuno Tavares,81,Marseille,61,Ligue 1,2022,2,2,0,6,3.0
 39095.0,E. Rashani,99,Clermont Foot,61,Ligue 1,2023,1,2,0,6,6.0
 22102.0,Wahbi Khazri,1063,Saint Etienne,61,Ligue 1,2021,2,2,0,6,3.0
-22136.0,0                         B. Diakité,79,Lille,61,Ligue 1,2023,2,2,0,6,3.0
+22136.0,B. Diakité,79,Lille,61,Ligue 1,2023,2,2,0,6,3.0
 3175.0,Z. Ferhat,77,Angers,61,Ligue 1,2024,2,2,0,6,3.0
 538.0,F. de Jong,529,Barcelona,140,La Liga,2022,3,0,3,6,2.0
 138777.0,T. Anjorin,511,Empoli,135,Serie A,2024,2,2,0,6,3.0
@@ -1307,7 +1307,7 @@ player_id,player_name,team_id,team_name,league_id,league,year,Clutch_Matches,Clu
 22148.0,N. Ngoumou,163,Borussia Mönchengladbach,78,Bundesliga,2023,2,1,1,5,2.5
 22170.0,P. Lees-Melou,106,Stade Brestois 29,61,Ligue 1,2022,2,1,1,5,2.5
 22170.0,P. Lees-Melou,106,Stade Brestois 29,61,Ligue 1,2024,2,1,1,5,2.5
-22136.0,0                         B. Diakité,79,Lille,61,Ligue 1,2024,2,1,1,5,2.5
+22136.0,B. Diakité,79,Lille,61,Ligue 1,2024,2,1,1,5,2.5
 22097.0,Arnaud Nordin,82,Montpellier,61,Ligue 1,2022,2,1,1,5,2.5
 41323.0,Mama Baldé,110,Estac Troyes,61,Ligue 1,2022,2,1,1,5,2.5
 41552.0,P. Ciss,728,Rayo Vallecano,140,La Liga,2021,1,1,1,5,5.0
