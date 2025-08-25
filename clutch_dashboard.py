@@ -93,4 +93,24 @@ st.plotly_chart(fig, use_container_width=True)
 player = st.selectbox("Select a Player to View Stats", player_names)
 if player:
     st.subheader(f"📊 Stats for {player}")
-    st.dataframe(df.loc[[player]])  # note the double brackets
+    player_stats = df.loc[[player]].copy().reset_index()
+    player_stats.drop(
+        columns=[c for c in ("player_id", "team_id", "league_id") if c in player_stats.columns],
+        inplace=True,
+    )
+    display_map = {
+        "player_name": "Player",
+        "team_name": "Team",
+        "league": "League",
+        "year": "Year",
+        "Clutch_Matches": "Clutch Matches",
+        "Clutch_Goal": "Clutch Goals",
+        "Clutch_Assist": "Clutch Assists",
+        "Clutch_Score": "Clutch Score",
+        "Score_per_Match": "Score per Match",
+    }
+    player_stats.rename(
+        columns={k: v for k, v in display_map.items() if k in player_stats.columns},
+        inplace=True,
+    )
+    st.dataframe(player_stats)
